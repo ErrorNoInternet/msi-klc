@@ -25,7 +25,7 @@ enum Brightness {
     High = 0,
     Medium = 1,
     Low = 2,
-    Off = 3,
+    Faint = 3,
 }
 
 #[derive(Copy, Clone)]
@@ -64,24 +64,17 @@ impl Into<[u8; 8]> for KeyboardLightData {
 #[derive(Copy, Clone, PartialEq)]
 enum Mode {
     Normal = 1,
-    //   Gaming = 2,
-    //   Breathe = 3,
-    //   Demo = 4,
-    //   Wave = 5,
+    Gaming = 2,
 }
 
 #[derive(Copy, Clone)]
 struct KeyboardModeData {
     mode: Mode,
-    speed: u8,
 }
 
 impl KeyboardModeData {
     fn new(mode: &Mode) -> Self {
-        KeyboardModeData {
-            mode: mode.clone(),
-            speed: 3,
-        }
+        KeyboardModeData { mode: mode.clone() }
     }
 }
 
@@ -149,33 +142,6 @@ impl Keyboard {
     }
 
     fn set_mode(&mut self, keyboard_mode_data: &KeyboardModeData) -> Result<(), hidapi::HidError> {
-        if keyboard_mode_data.mode != Mode::Normal {
-            for i in 0..3 {
-                let mut mode_data: [u8; 8] = keyboard_mode_data.to_owned().into();
-                mode_data[2] = 67;
-                mode_data[3] = 3 * i + 1;
-                mode_data[4] = self.current_light_data.color as u8;
-                mode_data[5] = self.current_light_data.brightness as u8;
-                mode_data[6] = 0;
-                self.keyboard.send_feature_report(&mode_data)?;
-
-                mode_data[2] = 67;
-                mode_data[3] = 3 * i + 2;
-                mode_data[4] = self.current_light_data.color as u8;
-                mode_data[5] = self.current_light_data.brightness as u8;
-                mode_data[6] = 0;
-                self.keyboard.send_feature_report(&mode_data)?;
-
-                let mut mode_data: [u8; 8] = keyboard_mode_data.to_owned().into();
-                mode_data[2] = 67;
-                mode_data[3] = 3 * i + 3;
-                mode_data[4] = keyboard_mode_data.speed;
-                mode_data[5] = keyboard_mode_data.speed;
-                mode_data[6] = keyboard_mode_data.speed;
-                self.keyboard.send_feature_report(&mode_data)?;
-            }
-        }
-
         let mode_data: [u8; 8] = keyboard_mode_data.to_owned().into();
         self.keyboard.send_feature_report(&mode_data)?;
         self.current_mode_data = keyboard_mode_data.clone();
