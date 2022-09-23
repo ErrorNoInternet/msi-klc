@@ -23,10 +23,10 @@ enum Color {
 #[repr(u8)]
 #[derive(Copy, Clone)]
 enum Brightness {
-    High = 0,
-    Medium = 1,
-    Low = 2,
-    Faint = 3,
+    Dark = 0,
+    Low = 1,
+    Medium = 2,
+    High = 3,
 }
 
 #[derive(Copy, Clone)]
@@ -100,34 +100,29 @@ impl Keyboard {
             current_light_data: KeyboardLightData::new(
                 &Region::Left,
                 &Color::White,
-                &Brightness::Low,
+                &Brightness::Medium,
             ),
             current_mode_data: KeyboardModeData::new(&Mode::Normal),
         })
-    }
-
-    fn refresh(&mut self) -> Result<(), hidapi::HidError> {
-        self.set_mode(&KeyboardModeData::new(&self.current_mode_data.mode))?;
-        Ok(())
     }
 
     fn reset(&mut self) -> Result<(), hidapi::HidError> {
         self.set_color(&KeyboardLightData::new(
             &Region::Left,
             &Color::White,
-            &Brightness::Low,
+            &Brightness::Medium,
         ))?;
         self.set_color(&KeyboardLightData::new(
             &Region::Middle,
             &Color::White,
-            &Brightness::Low,
+            &Brightness::Medium,
         ))?;
         self.set_color(&KeyboardLightData::new(
             &Region::Right,
             &Color::White,
-            &Brightness::Low,
+            &Brightness::Medium,
         ))?;
-        self.refresh()
+        self.set_mode(&KeyboardModeData::new(&Mode::Normal))
     }
 
     fn set_color(
@@ -137,7 +132,6 @@ impl Keyboard {
         let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
         self.keyboard.send_feature_report(&light_data)?;
         self.current_light_data = keyboard_light_data.clone();
-        self.set_mode(&KeyboardModeData::new(&Mode::Normal))?;
 
         Ok(())
     }
@@ -163,6 +157,7 @@ fn main() {
     let command = clap::Command::new("msi-klc")
         .subcommand_required(true)
         .subcommand(clap::Command::new("reset").about("Reset all the LEDs on the keyboard"))
+        .subcommand(clap::Command::new("off").about("Turn off all the LEDs on the keyboard"))
         .subcommand(
             clap::Command::new("set")
                 .about("Set the color/brightness/mode of the LEDs on the keyboard")
@@ -173,6 +168,29 @@ fn main() {
         );
     match command.get_matches().subcommand() {
         Some(("reset", _)) => keyboard.reset().unwrap(),
+        Some(("off", _)) => {
+            keyboard
+                .set_color(&KeyboardLightData::new(
+                    &Region::Left,
+                    &Color::Off,
+                    &Brightness::Medium,
+                ))
+                .unwrap();
+            keyboard
+                .set_color(&KeyboardLightData::new(
+                    &Region::Middle,
+                    &Color::Off,
+                    &Brightness::Medium,
+                ))
+                .unwrap();
+            keyboard
+                .set_color(&KeyboardLightData::new(
+                    &Region::Right,
+                    &Color::Off,
+                    &Brightness::Medium,
+                ))
+                .unwrap();
+        }
         Some(("set", matches)) => {
             let colors = match matches.get_one::<String>("color") {
                 Some(colors) => colors.to_string(),
@@ -196,11 +214,11 @@ fn main() {
                     _ => &Color::White,
                 };
                 let keyboard_brightness = match brightness.to_lowercase().as_str() {
-                    "faint" => &Brightness::Faint,
+                    "dark" => &Brightness::Dark,
                     "low" => &Brightness::Low,
                     "medium" => &Brightness::Medium,
                     "high" => &Brightness::High,
-                    _ => &Brightness::Low,
+                    _ => &Brightness::Medium,
                 };
 
                 if index == 0 {
