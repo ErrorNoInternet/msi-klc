@@ -9,6 +9,7 @@ enum Region {
 #[repr(u8)]
 #[derive(Copy, Clone)]
 enum Color {
+    Off = 0,
     Red = 1,
     Orange = 2,
     Yellow = 3,
@@ -183,6 +184,7 @@ fn main() {
             };
             for (index, color) in colors.split(",").enumerate() {
                 let keyboard_color = match color.to_lowercase().to_string().as_str() {
+                    "off" => &Color::Off,
                     "red" => &Color::Red,
                     "orange" => &Color::Orange,
                     "yellow" => &Color::Yellow,
