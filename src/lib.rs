@@ -130,17 +130,17 @@ impl Keyboard {
         self.set_color(&KeyboardLightData::new(
             &Region::Left,
             &Color::White,
-            &Brightness::Medium,
+            &Brightness::Dark,
         ))?;
         self.set_color(&KeyboardLightData::new(
             &Region::Middle,
             &Color::White,
-            &Brightness::Medium,
+            &Brightness::Dark,
         ))?;
         self.set_color(&KeyboardLightData::new(
             &Region::Right,
             &Color::White,
-            &Brightness::Medium,
+            &Brightness::Dark,
         ))?;
         self.set_mode(&KeyboardModeData::new(&Mode::Normal))
     }
