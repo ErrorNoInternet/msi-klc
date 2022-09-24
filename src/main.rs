@@ -61,6 +61,36 @@ impl Into<[u8; 8]> for KeyboardLightData {
     }
 }
 
+#[derive(Copy, Clone)]
+struct KeyboardRGBLightData {
+    region: Region,
+    color: (u8, u8, u8),
+}
+
+impl KeyboardRGBLightData {
+    fn new(region: &Region, color: &(u8, u8, u8)) -> Self {
+        KeyboardRGBLightData {
+            region: region.clone(),
+            color: color.clone(),
+        }
+    }
+}
+
+impl Into<[u8; 8]> for KeyboardRGBLightData {
+    fn into(self) -> [u8; 8] {
+        [
+            1,
+            2,
+            64,
+            self.region as u8,
+            self.color.0,
+            self.color.1,
+            self.color.2,
+            236,
+        ]
+    }
+}
+
 #[repr(u8)]
 #[derive(Copy, Clone, PartialEq)]
 enum Mode {
@@ -87,23 +117,13 @@ impl Into<[u8; 8]> for KeyboardModeData {
 
 struct Keyboard {
     keyboard: hidapi::HidDevice,
-    current_light_data: KeyboardLightData,
-    current_mode_data: KeyboardModeData,
 }
 
 impl Keyboard {
     fn new() -> Result<Self, hidapi::HidError> {
         let api = hidapi::HidApi::new()?;
         let keyboard = api.open(0x1770, 0xff00)?;
-        Ok(Keyboard {
-            keyboard,
-            current_light_data: KeyboardLightData::new(
-                &Region::Left,
-                &Color::White,
-                &Brightness::Medium,
-            ),
-            current_mode_data: KeyboardModeData::new(&Mode::Normal),
-        })
+        Ok(Keyboard { keyboard })
     }
 
     fn reset(&mut self) -> Result<(), hidapi::HidError> {
@@ -131,7 +151,16 @@ impl Keyboard {
     ) -> Result<(), hidapi::HidError> {
         let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
         self.keyboard.send_feature_report(&light_data)?;
-        self.current_light_data = keyboard_light_data.clone();
+
+        Ok(())
+    }
+
+    fn set_rgb_color(
+        &mut self,
+        keyboard_light_data: &KeyboardRGBLightData,
+    ) -> Result<(), hidapi::HidError> {
+        let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
+        self.keyboard.send_feature_report(&light_data)?;
 
         Ok(())
     }
@@ -139,7 +168,6 @@ impl Keyboard {
     fn set_mode(&mut self, keyboard_mode_data: &KeyboardModeData) -> Result<(), hidapi::HidError> {
         let mode_data: [u8; 8] = keyboard_mode_data.to_owned().into();
         self.keyboard.send_feature_report(&mode_data)?;
-        self.current_mode_data = keyboard_mode_data.clone();
 
         Ok(())
     }
