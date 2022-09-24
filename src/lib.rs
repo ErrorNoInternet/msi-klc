@@ -21,19 +21,20 @@ pub enum Color {
 }
 
 #[repr(u8)]
-#[derive(Copy, Clone)]
+#[derive(Copy, Clone, PartialEq)]
 pub enum Brightness {
     Dark = 0,
     Low = 1,
     Medium = 2,
     High = 3,
+    RGB = 255,
 }
 
 #[derive(Copy, Clone)]
 pub struct KeyboardLightData {
-    region: Region,
-    color: Color,
-    brightness: Brightness,
+    pub region: Region,
+    pub color: Color,
+    pub brightness: Brightness,
 }
 
 impl KeyboardLightData {
@@ -63,8 +64,8 @@ impl Into<[u8; 8]> for KeyboardLightData {
 
 #[derive(Copy, Clone)]
 pub struct KeyboardRGBLightData {
-    region: Region,
-    color: (u8, u8, u8),
+    pub region: Region,
+    pub color: (u8, u8, u8),
 }
 
 impl KeyboardRGBLightData {
@@ -100,7 +101,7 @@ pub enum Mode {
 
 #[derive(Copy, Clone)]
 pub struct KeyboardModeData {
-    mode: Mode,
+    pub mode: Mode,
 }
 
 impl KeyboardModeData {

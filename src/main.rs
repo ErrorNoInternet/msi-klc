@@ -56,66 +56,101 @@ fn main() {
                 Some(brightness) => brightness.to_string(),
                 None => "medium".to_string(),
             };
+            let keyboard_brightness = match brightness.to_lowercase().as_str() {
+                "dark" => &Brightness::Dark,
+                "low" => &Brightness::Low,
+                "medium" => &Brightness::Medium,
+                "high" => &Brightness::High,
+                "rgb" => &Brightness::RGB,
+                _ => &Brightness::Medium,
+            };
             for (index, color) in colors.split(",").enumerate() {
-                let keyboard_color = match color.to_lowercase().to_string().as_str() {
-                    "off" => &Color::Off,
-                    "red" => &Color::Red,
-                    "orange" => &Color::Orange,
-                    "yellow" => &Color::Yellow,
-                    "green" => &Color::Green,
-                    "sky" => &Color::Sky,
-                    "blue" => &Color::Blue,
-                    "purple" => &Color::Purple,
-                    "white" => &Color::White,
-                    _ => &Color::White,
-                };
-                let keyboard_brightness = match brightness.to_lowercase().as_str() {
-                    "dark" => &Brightness::Dark,
-                    "low" => &Brightness::Low,
-                    "medium" => &Brightness::Medium,
-                    "high" => &Brightness::High,
-                    _ => &Brightness::Medium,
-                };
+                if keyboard_brightness != &Brightness::RGB {
+                    let keyboard_color = match color.to_lowercase().to_string().as_str() {
+                        "off" => &Color::Off,
+                        "red" => &Color::Red,
+                        "orange" => &Color::Orange,
+                        "yellow" => &Color::Yellow,
+                        "green" => &Color::Green,
+                        "sky" => &Color::Sky,
+                        "blue" => &Color::Blue,
+                        "purple" => &Color::Purple,
+                        "white" => &Color::White,
+                        _ => &Color::Off,
+                    };
 
-                if index == 0 {
-                    keyboard
-                        .set_color(&KeyboardLightData::new(
-                            &Region::Left,
-                            &keyboard_color,
-                            &keyboard_brightness,
-                        ))
-                        .unwrap();
-                } else if index == 1 {
-                    keyboard
-                        .set_color(&KeyboardLightData::new(
-                            &Region::Middle,
-                            &keyboard_color,
-                            &keyboard_brightness,
-                        ))
-                        .unwrap();
-                } else if index == 2 {
-                    keyboard
-                        .set_color(&KeyboardLightData::new(
-                            &Region::Right,
-                            &keyboard_color,
-                            &keyboard_brightness,
-                        ))
-                        .unwrap();
-                };
+                    if index == 0 {
+                        keyboard
+                            .set_color(&KeyboardLightData::new(
+                                &Region::Left,
+                                &keyboard_color,
+                                &keyboard_brightness,
+                            ))
+                            .unwrap();
+                    } else if index == 1 {
+                        keyboard
+                            .set_color(&KeyboardLightData::new(
+                                &Region::Middle,
+                                &keyboard_color,
+                                &keyboard_brightness,
+                            ))
+                            .unwrap();
+                    } else if index == 2 {
+                        keyboard
+                            .set_color(&KeyboardLightData::new(
+                                &Region::Right,
+                                &keyboard_color,
+                                &keyboard_brightness,
+                            ))
+                            .unwrap();
+                    };
+                } else {
+                    let mut rgb_colors: [u8; 3] = [0, 0, 0];
+                    for (color_index, rgb_color) in color.split(";").enumerate() {
+                        if color_index < 3 {
+                            rgb_colors[color_index] = rgb_color.parse().unwrap_or(0);
+                        }
+                    }
+
+                    if index == 0 {
+                        keyboard
+                            .set_rgb_color(&KeyboardRGBLightData::new(
+                                &Region::Left,
+                                &(rgb_colors[0], rgb_colors[1], rgb_colors[2]),
+                            ))
+                            .unwrap();
+                    } else if index == 1 {
+                        keyboard
+                            .set_rgb_color(&KeyboardRGBLightData::new(
+                                &Region::Middle,
+                                &(rgb_colors[0], rgb_colors[1], rgb_colors[2]),
+                            ))
+                            .unwrap();
+                    } else if index == 2 {
+                        keyboard
+                            .set_rgb_color(&KeyboardRGBLightData::new(
+                                &Region::Right,
+                                &(rgb_colors[0], rgb_colors[1], rgb_colors[2]),
+                            ))
+                            .unwrap();
+                    };
+                }
             }
 
-            let mode = match matches.get_one::<String>("mode") {
-                Some(mode) => mode.to_string(),
-                None => "normal".to_string(),
-            };
-            let keyboard_mode = match mode.to_lowercase().as_str() {
-                "normal" => &Mode::Normal,
-                "gaming" => &Mode::Gaming,
-                _ => &Mode::Normal,
-            };
-            keyboard
-                .set_mode(&KeyboardModeData::new(&keyboard_mode))
-                .unwrap();
+            if keyboard_brightness != &Brightness::RGB {
+                let mode = match matches.get_one::<String>("mode") {
+                    Some(mode) => mode.to_string(),
+                    None => "normal".to_string(),
+                };
+                let keyboard_mode = match mode.to_lowercase().as_str() {
+                    "normal" => &Mode::Normal,
+                    "gaming" => &Mode::Gaming,
+                    _ => &Mode::Normal,
+                };
+                keyboard
+                    .set_mode(&KeyboardModeData::new(&keyboard_mode))
+                    .unwrap();
+            }
         }
         _ => unreachable!(),
     }
