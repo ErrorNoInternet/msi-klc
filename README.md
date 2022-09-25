@@ -12,8 +12,8 @@ Supports 3 regions, 8 predefined colors, RGB/hex colors, and custom animations.
 ## Installation
 ### Compiling
 - Requirements
-	- Rust (cargo)
-	- hidapi
+    - Rust (cargo)
+    - hidapi
 ```sh
 git clone https://github.com/ErrorNoInternet/msi-klc
 cd msi-klc
@@ -51,25 +51,25 @@ msi-klc load animations/breathe.txt
 use msi_klc::*;
 
 fn main() {
-	let mut keyboard = Keyboard::new().unwrap();
-	
-	// make the keyboard blue
+    let mut keyboard = Keyboard::new().unwrap();
+    
+    // make the keyboard blue
     keyboard
-		.set_color(&KeyboardLightData::new(
-			&Region::All,
-			&Color::Blue,
-			&Brightness::Medium,
-		)).unwrap();
-	keyboard
-		.set_mode(&KeyboardModeData::new(&Mode::Normal))
-		.unwrap();
+        .set_color(&KeyboardLightData::new(
+            &Region::All,
+            &Color::Blue,
+            &Brightness::Medium,
+        )).unwrap();
+    keyboard
+        .set_mode(&KeyboardModeData::new(&Mode::Normal))
+        .unwrap();
 
-	// set a custom RGB color on the right side of the keyboard
-	keyboard
-		.set_rgb_color(&KeyboardRGBLightData::new(
-			&Region::Right,
-			&(255, 80, 80),
-		)).unwrap();
+    // set a custom RGB color on the right side of the keyboard
+    keyboard
+        .set_rgb_color(&KeyboardRGBLightData::new(
+            &Region::Right,
+            &(255, 80, 80),
+        )).unwrap();
 }
 ```
 
