@@ -1,3 +1,4 @@
+/// The 3 keyboard regions. `All` represents all regions (each region will be set automatically).
 #[repr(u8)]
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Region {
@@ -7,6 +8,7 @@ pub enum Region {
     All = 255,
 }
 
+/// 8 predefined colors (and `Off`).
 #[repr(u8)]
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Color {
@@ -21,6 +23,7 @@ pub enum Color {
     White = 8,
 }
 
+/// Saturation/brightness of the lights on the keyboard. Not needed when using RGB colors.
 #[repr(u8)]
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Brightness {
@@ -30,6 +33,7 @@ pub enum Brightness {
     High = 3,
 }
 
+/// Regular keyboard light data. Contains the region, predefined color, and brightness.
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub struct KeyboardLightData {
     pub region: Region,
@@ -62,6 +66,7 @@ impl Into<[u8; 8]> for KeyboardLightData {
     }
 }
 
+/// RGB keyboard light data. Contains the region and RGB values.
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub struct KeyboardRGBLightData {
     pub region: Region,
@@ -92,14 +97,19 @@ impl Into<[u8; 8]> for KeyboardRGBLightData {
     }
 }
 
+/// Keyboard mode (`Normal` or `Gaming`). `Wave` and `Breathe` are not implemented since you can do
+/// the same thing with set_rgb_color and a loop.
 #[repr(u8)]
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Mode {
+    /// All lights on the keyboard.
     Normal = 1,
+    /// Only the left side of the keyboard.
     Gaming = 2,
     RGB = 255,
 }
 
+/// Keyboard mode data (only contains mode).
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub struct KeyboardModeData {
     pub mode: Mode,
@@ -117,17 +127,20 @@ impl Into<[u8; 8]> for KeyboardModeData {
     }
 }
 
+/// A keyboard object (wrapper around a HidDevice).
 pub struct Keyboard {
     keyboard: hidapi::HidDevice,
 }
 
 impl Keyboard {
+    /// Creates a new keyboard object.
     pub fn new() -> Result<Self, hidapi::HidError> {
         let api = hidapi::HidApi::new()?;
         let keyboard = api.open(0x1770, 0xff00)?;
         Ok(Keyboard { keyboard })
     }
 
+    /// Makes all the LEDs on the keyboard white.
     pub fn reset(&mut self) -> Result<(), hidapi::HidError> {
         self.set_color(&KeyboardLightData::new(
             &Region::Left,
@@ -147,6 +160,7 @@ impl Keyboard {
         self.set_mode(&KeyboardModeData::new(&Mode::Normal))
     }
 
+    /// Turns off all the LEDs on the keyboard.
     pub fn off(&mut self) -> Result<(), hidapi::HidError> {
         self.set_color(&KeyboardLightData::new(
             &Region::Left,
@@ -166,6 +180,7 @@ impl Keyboard {
         self.set_mode(&KeyboardModeData::new(&Mode::Normal))
     }
 
+    /// Makes the keyboard display a predefined color.
     pub fn set_color(
         &mut self,
         keyboard_light_data: &KeyboardLightData,
@@ -192,6 +207,7 @@ impl Keyboard {
         Ok(())
     }
 
+    /// Makes the keyboard display a custom RGB color.
     pub fn set_rgb_color(
         &mut self,
         keyboard_light_data: &KeyboardRGBLightData,
@@ -218,6 +234,7 @@ impl Keyboard {
         Ok(())
     }
 
+    /// Changes the mode of the keyboard.
     pub fn set_mode(
         &mut self,
         keyboard_mode_data: &KeyboardModeData,
