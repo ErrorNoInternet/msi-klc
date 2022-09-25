@@ -11,10 +11,9 @@ readme = "README.md"
 keywords = [
     "msi",
     "laptop",
-    "rgb",
-    "backlight",
     "steelseries",
     "keyboard",
+    "backlight",
 ]
 exclude = ["animations"]
 
