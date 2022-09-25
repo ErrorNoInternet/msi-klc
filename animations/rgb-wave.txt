@@ -1,0 +1,3062 @@
+loop_forever
+
+color:0;0;0, region:left
+sleep:5
+color:1;0;0, region:left
+sleep:5
+color:2;0;0, region:left
+sleep:5
+color:3;0;0, region:left
+sleep:5
+color:4;0;0, region:left
+sleep:5
+color:5;0;0, region:left
+sleep:5
+color:6;0;0, region:left
+sleep:5
+color:7;0;0, region:left
+sleep:5
+color:8;0;0, region:left
+sleep:5
+color:9;0;0, region:left
+sleep:5
+color:10;0;0, region:left
+sleep:5
+color:11;0;0, region:left
+sleep:5
+color:12;0;0, region:left
+sleep:5
+color:13;0;0, region:left
+sleep:5
+color:14;0;0, region:left
+sleep:5
+color:15;0;0, region:left
+sleep:5
+color:16;0;0, region:left
+sleep:5
+color:17;0;0, region:left
+sleep:5
+color:18;0;0, region:left
+sleep:5
+color:19;0;0, region:left
+sleep:5
+color:20;0;0, region:left
+sleep:5
+color:21;0;0, region:left
+sleep:5
+color:22;0;0, region:left
+sleep:5
+color:23;0;0, region:left
+sleep:5
+color:24;0;0, region:left
+sleep:5
+color:25;0;0, region:left
+sleep:5
+color:26;0;0, region:left
+sleep:5
+color:27;0;0, region:left
+sleep:5
+color:28;0;0, region:left
+sleep:5
+color:29;0;0, region:left
+sleep:5
+color:30;0;0, region:left
+sleep:5
+color:31;0;0, region:left
+sleep:5
+color:32;0;0, region:left
+sleep:5
+color:33;0;0, region:left
+sleep:5
+color:34;0;0, region:left
+sleep:5
+color:35;0;0, region:left
+sleep:5
+color:36;0;0, region:left
+sleep:5
+color:37;0;0, region:left
+sleep:5
+color:38;0;0, region:left
+sleep:5
+color:39;0;0, region:left
+sleep:5
+color:40;0;0, region:left
+sleep:5
+color:41;0;0, region:left
+sleep:5
+color:42;0;0, region:left
+sleep:5
+color:43;0;0, region:left
+sleep:5
+color:44;0;0, region:left
+sleep:5
+color:45;0;0, region:left
+sleep:5
+color:46;0;0, region:left
+sleep:5
+color:47;0;0, region:left
+sleep:5
+color:48;0;0, region:left
+sleep:5
+color:49;0;0, region:left
+sleep:5
+color:50;0;0, region:left
+sleep:5
+color:51;0;0, region:left
+sleep:5
+color:52;0;0, region:left
+sleep:5
+color:53;0;0, region:left
+sleep:5
+color:54;0;0, region:left
+sleep:5
+color:55;0;0, region:left
+sleep:5
+color:56;0;0, region:left
+sleep:5
+color:57;0;0, region:left
+sleep:5
+color:58;0;0, region:left
+sleep:5
+color:59;0;0, region:left
+sleep:5
+color:60;0;0, region:left
+sleep:5
+color:61;0;0, region:left
+sleep:5
+color:62;0;0, region:left
+sleep:5
+color:63;0;0, region:left
+sleep:5
+color:64;0;0, region:left
+sleep:5
+color:65;0;0, region:left
+sleep:5
+color:66;0;0, region:left
+sleep:5
+color:67;0;0, region:left
+sleep:5
+color:68;0;0, region:left
+sleep:5
+color:69;0;0, region:left
+sleep:5
+color:70;0;0, region:left
+sleep:5
+color:71;0;0, region:left
+sleep:5
+color:72;0;0, region:left
+sleep:5
+color:73;0;0, region:left
+sleep:5
+color:74;0;0, region:left
+sleep:5
+color:75;0;0, region:left
+sleep:5
+color:76;0;0, region:left
+sleep:5
+color:77;0;0, region:left
+sleep:5
+color:78;0;0, region:left
+sleep:5
+color:79;0;0, region:left
+sleep:5
+color:80;0;0, region:left
+sleep:5
+color:81;0;0, region:left
+sleep:5
+color:82;0;0, region:left
+sleep:5
+color:83;0;0, region:left
+sleep:5
+color:84;0;0, region:left
+sleep:5
+color:85;0;0, region:left
+sleep:5
+color:86;0;0, region:left
+sleep:5
+color:87;0;0, region:left
+sleep:5
+color:88;0;0, region:left
+sleep:5
+color:89;0;0, region:left
+sleep:5
+color:90;0;0, region:left
+sleep:5
+color:91;0;0, region:left
+sleep:5
+color:92;0;0, region:left
+sleep:5
+color:93;0;0, region:left
+sleep:5
+color:94;0;0, region:left
+sleep:5
+color:95;0;0, region:left
+sleep:5
+color:96;0;0, region:left
+sleep:5
+color:97;0;0, region:left
+sleep:5
+color:98;0;0, region:left
+sleep:5
+color:99;0;0, region:left
+sleep:5
+color:100;0;0, region:left
+sleep:5
+color:101;0;0, region:left
+sleep:5
+color:102;0;0, region:left
+sleep:5
+color:103;0;0, region:left
+sleep:5
+color:104;0;0, region:left
+sleep:5
+color:105;0;0, region:left
+sleep:5
+color:106;0;0, region:left
+sleep:5
+color:107;0;0, region:left
+sleep:5
+color:108;0;0, region:left
+sleep:5
+color:109;0;0, region:left
+sleep:5
+color:110;0;0, region:left
+sleep:5
+color:111;0;0, region:left
+sleep:5
+color:112;0;0, region:left
+sleep:5
+color:113;0;0, region:left
+sleep:5
+color:114;0;0, region:left
+sleep:5
+color:115;0;0, region:left
+sleep:5
+color:116;0;0, region:left
+sleep:5
+color:117;0;0, region:left
+sleep:5
+color:118;0;0, region:left
+sleep:5
+color:119;0;0, region:left
+sleep:5
+color:120;0;0, region:left
+sleep:5
+color:121;0;0, region:left
+sleep:5
+color:122;0;0, region:left
+sleep:5
+color:123;0;0, region:left
+sleep:5
+color:124;0;0, region:left
+sleep:5
+color:125;0;0, region:left
+sleep:5
+color:126;0;0, region:left
+sleep:5
+color:127;0;0, region:left
+sleep:5
+color:128;0;0, region:left
+sleep:5
+color:129;0;0, region:left
+sleep:5
+color:130;0;0, region:left
+sleep:5
+color:131;0;0, region:left
+sleep:5
+color:132;0;0, region:left
+sleep:5
+color:133;0;0, region:left
+sleep:5
+color:134;0;0, region:left
+sleep:5
+color:135;0;0, region:left
+sleep:5
+color:136;0;0, region:left
+sleep:5
+color:137;0;0, region:left
+sleep:5
+color:138;0;0, region:left
+sleep:5
+color:139;0;0, region:left
+sleep:5
+color:140;0;0, region:left
+sleep:5
+color:141;0;0, region:left
+sleep:5
+color:142;0;0, region:left
+sleep:5
+color:143;0;0, region:left
+sleep:5
+color:144;0;0, region:left
+sleep:5
+color:145;0;0, region:left
+sleep:5
+color:146;0;0, region:left
+sleep:5
+color:147;0;0, region:left
+sleep:5
+color:148;0;0, region:left
+sleep:5
+color:149;0;0, region:left
+sleep:5
+color:150;0;0, region:left
+sleep:5
+color:151;0;0, region:left
+sleep:5
+color:152;0;0, region:left
+sleep:5
+color:153;0;0, region:left
+sleep:5
+color:154;0;0, region:left
+sleep:5
+color:155;0;0, region:left
+sleep:5
+color:156;0;0, region:left
+sleep:5
+color:157;0;0, region:left
+sleep:5
+color:158;0;0, region:left
+sleep:5
+color:159;0;0, region:left
+sleep:5
+color:160;0;0, region:left
+sleep:5
+color:161;0;0, region:left
+sleep:5
+color:162;0;0, region:left
+sleep:5
+color:163;0;0, region:left
+sleep:5
+color:164;0;0, region:left
+sleep:5
+color:165;0;0, region:left
+sleep:5
+color:166;0;0, region:left
+sleep:5
+color:167;0;0, region:left
+sleep:5
+color:168;0;0, region:left
+sleep:5
+color:169;0;0, region:left
+sleep:5
+color:170;0;0, region:left
+sleep:5
+color:171;0;0, region:left
+sleep:5
+color:172;0;0, region:left
+sleep:5
+color:173;0;0, region:left
+sleep:5
+color:174;0;0, region:left
+sleep:5
+color:175;0;0, region:left
+sleep:5
+color:176;0;0, region:left
+sleep:5
+color:177;0;0, region:left
+sleep:5
+color:178;0;0, region:left
+sleep:5
+color:179;0;0, region:left
+sleep:5
+color:180;0;0, region:left
+sleep:5
+color:181;0;0, region:left
+sleep:5
+color:182;0;0, region:left
+sleep:5
+color:183;0;0, region:left
+sleep:5
+color:184;0;0, region:left
+sleep:5
+color:185;0;0, region:left
+sleep:5
+color:186;0;0, region:left
+sleep:5
+color:187;0;0, region:left
+sleep:5
+color:188;0;0, region:left
+sleep:5
+color:189;0;0, region:left
+sleep:5
+color:190;0;0, region:left
+sleep:5
+color:191;0;0, region:left
+sleep:5
+color:192;0;0, region:left
+sleep:5
+color:193;0;0, region:left
+sleep:5
+color:194;0;0, region:left
+sleep:5
+color:195;0;0, region:left
+sleep:5
+color:196;0;0, region:left
+sleep:5
+color:197;0;0, region:left
+sleep:5
+color:198;0;0, region:left
+sleep:5
+color:199;0;0, region:left
+sleep:5
+color:200;0;0, region:left
+sleep:5
+color:201;0;0, region:left
+sleep:5
+color:202;0;0, region:left
+sleep:5
+color:203;0;0, region:left
+sleep:5
+color:204;0;0, region:left
+sleep:5
+color:205;0;0, region:left
+sleep:5
+color:206;0;0, region:left
+sleep:5
+color:207;0;0, region:left
+sleep:5
+color:208;0;0, region:left
+sleep:5
+color:209;0;0, region:left
+sleep:5
+color:210;0;0, region:left
+sleep:5
+color:211;0;0, region:left
+sleep:5
+color:212;0;0, region:left
+sleep:5
+color:213;0;0, region:left
+sleep:5
+color:214;0;0, region:left
+sleep:5
+color:215;0;0, region:left
+sleep:5
+color:216;0;0, region:left
+sleep:5
+color:217;0;0, region:left
+sleep:5
+color:218;0;0, region:left
+sleep:5
+color:219;0;0, region:left
+sleep:5
+color:220;0;0, region:left
+sleep:5
+color:221;0;0, region:left
+sleep:5
+color:222;0;0, region:left
+sleep:5
+color:223;0;0, region:left
+sleep:5
+color:224;0;0, region:left
+sleep:5
+color:225;0;0, region:left
+sleep:5
+color:226;0;0, region:left
+sleep:5
+color:227;0;0, region:left
+sleep:5
+color:228;0;0, region:left
+sleep:5
+color:229;0;0, region:left
+sleep:5
+color:230;0;0, region:left
+sleep:5
+color:231;0;0, region:left
+sleep:5
+color:232;0;0, region:left
+sleep:5
+color:233;0;0, region:left
+sleep:5
+color:234;0;0, region:left
+sleep:5
+color:235;0;0, region:left
+sleep:5
+color:236;0;0, region:left
+sleep:5
+color:237;0;0, region:left
+sleep:5
+color:238;0;0, region:left
+sleep:5
+color:239;0;0, region:left
+sleep:5
+color:240;0;0, region:left
+sleep:5
+color:241;0;0, region:left
+sleep:5
+color:242;0;0, region:left
+sleep:5
+color:243;0;0, region:left
+sleep:5
+color:244;0;0, region:left
+sleep:5
+color:245;0;0, region:left
+sleep:5
+color:246;0;0, region:left
+sleep:5
+color:247;0;0, region:left
+sleep:5
+color:248;0;0, region:left
+sleep:5
+color:249;0;0, region:left
+sleep:5
+color:250;0;0, region:left
+sleep:5
+color:251;0;0, region:left
+sleep:5
+color:252;0;0, region:left
+sleep:5
+color:253;0;0, region:left
+sleep:5
+color:254;0;0, region:left
+sleep:5
+color:254;0;0, region:left
+sleep:5
+color:0;1;0, region:middle
+sleep:5
+color:253;0;0, region:left
+sleep:5
+color:0;2;0, region:middle
+sleep:5
+color:252;0;0, region:left
+sleep:5
+color:0;3;0, region:middle
+sleep:5
+color:251;0;0, region:left
+sleep:5
+color:0;4;0, region:middle
+sleep:5
+color:250;0;0, region:left
+sleep:5
+color:0;5;0, region:middle
+sleep:5
+color:249;0;0, region:left
+sleep:5
+color:0;6;0, region:middle
+sleep:5
+color:248;0;0, region:left
+sleep:5
+color:0;7;0, region:middle
+sleep:5
+color:247;0;0, region:left
+sleep:5
+color:0;8;0, region:middle
+sleep:5
+color:246;0;0, region:left
+sleep:5
+color:0;9;0, region:middle
+sleep:5
+color:245;0;0, region:left
+sleep:5
+color:0;10;0, region:middle
+sleep:5
+color:244;0;0, region:left
+sleep:5
+color:0;11;0, region:middle
+sleep:5
+color:243;0;0, region:left
+sleep:5
+color:0;12;0, region:middle
+sleep:5
+color:242;0;0, region:left
+sleep:5
+color:0;13;0, region:middle
+sleep:5
+color:241;0;0, region:left
+sleep:5
+color:0;14;0, region:middle
+sleep:5
+color:240;0;0, region:left
+sleep:5
+color:0;15;0, region:middle
+sleep:5
+color:239;0;0, region:left
+sleep:5
+color:0;16;0, region:middle
+sleep:5
+color:238;0;0, region:left
+sleep:5
+color:0;17;0, region:middle
+sleep:5
+color:237;0;0, region:left
+sleep:5
+color:0;18;0, region:middle
+sleep:5
+color:236;0;0, region:left
+sleep:5
+color:0;19;0, region:middle
+sleep:5
+color:235;0;0, region:left
+sleep:5
+color:0;20;0, region:middle
+sleep:5
+color:234;0;0, region:left
+sleep:5
+color:0;21;0, region:middle
+sleep:5
+color:233;0;0, region:left
+sleep:5
+color:0;22;0, region:middle
+sleep:5
+color:232;0;0, region:left
+sleep:5
+color:0;23;0, region:middle
+sleep:5
+color:231;0;0, region:left
+sleep:5
+color:0;24;0, region:middle
+sleep:5
+color:230;0;0, region:left
+sleep:5
+color:0;25;0, region:middle
+sleep:5
+color:229;0;0, region:left
+sleep:5
+color:0;26;0, region:middle
+sleep:5
+color:228;0;0, region:left
+sleep:5
+color:0;27;0, region:middle
+sleep:5
+color:227;0;0, region:left
+sleep:5
+color:0;28;0, region:middle
+sleep:5
+color:226;0;0, region:left
+sleep:5
+color:0;29;0, region:middle
+sleep:5
+color:225;0;0, region:left
+sleep:5
+color:0;30;0, region:middle
+sleep:5
+color:224;0;0, region:left
+sleep:5
+color:0;31;0, region:middle
+sleep:5
+color:223;0;0, region:left
+sleep:5
+color:0;32;0, region:middle
+sleep:5
+color:222;0;0, region:left
+sleep:5
+color:0;33;0, region:middle
+sleep:5
+color:221;0;0, region:left
+sleep:5
+color:0;34;0, region:middle
+sleep:5
+color:220;0;0, region:left
+sleep:5
+color:0;35;0, region:middle
+sleep:5
+color:219;0;0, region:left
+sleep:5
+color:0;36;0, region:middle
+sleep:5
+color:218;0;0, region:left
+sleep:5
+color:0;37;0, region:middle
+sleep:5
+color:217;0;0, region:left
+sleep:5
+color:0;38;0, region:middle
+sleep:5
+color:216;0;0, region:left
+sleep:5
+color:0;39;0, region:middle
+sleep:5
+color:215;0;0, region:left
+sleep:5
+color:0;40;0, region:middle
+sleep:5
+color:214;0;0, region:left
+sleep:5
+color:0;41;0, region:middle
+sleep:5
+color:213;0;0, region:left
+sleep:5
+color:0;42;0, region:middle
+sleep:5
+color:212;0;0, region:left
+sleep:5
+color:0;43;0, region:middle
+sleep:5
+color:211;0;0, region:left
+sleep:5
+color:0;44;0, region:middle
+sleep:5
+color:210;0;0, region:left
+sleep:5
+color:0;45;0, region:middle
+sleep:5
+color:209;0;0, region:left
+sleep:5
+color:0;46;0, region:middle
+sleep:5
+color:208;0;0, region:left
+sleep:5
+color:0;47;0, region:middle
+sleep:5
+color:207;0;0, region:left
+sleep:5
+color:0;48;0, region:middle
+sleep:5
+color:206;0;0, region:left
+sleep:5
+color:0;49;0, region:middle
+sleep:5
+color:205;0;0, region:left
+sleep:5
+color:0;50;0, region:middle
+sleep:5
+color:204;0;0, region:left
+sleep:5
+color:0;51;0, region:middle
+sleep:5
+color:203;0;0, region:left
+sleep:5
+color:0;52;0, region:middle
+sleep:5
+color:202;0;0, region:left
+sleep:5
+color:0;53;0, region:middle
+sleep:5
+color:201;0;0, region:left
+sleep:5
+color:0;54;0, region:middle
+sleep:5
+color:200;0;0, region:left
+sleep:5
+color:0;55;0, region:middle
+sleep:5
+color:199;0;0, region:left
+sleep:5
+color:0;56;0, region:middle
+sleep:5
+color:198;0;0, region:left
+sleep:5
+color:0;57;0, region:middle
+sleep:5
+color:197;0;0, region:left
+sleep:5
+color:0;58;0, region:middle
+sleep:5
+color:196;0;0, region:left
+sleep:5
+color:0;59;0, region:middle
+sleep:5
+color:195;0;0, region:left
+sleep:5
+color:0;60;0, region:middle
+sleep:5
+color:194;0;0, region:left
+sleep:5
+color:0;61;0, region:middle
+sleep:5
+color:193;0;0, region:left
+sleep:5
+color:0;62;0, region:middle
+sleep:5
+color:192;0;0, region:left
+sleep:5
+color:0;63;0, region:middle
+sleep:5
+color:191;0;0, region:left
+sleep:5
+color:0;64;0, region:middle
+sleep:5
+color:190;0;0, region:left
+sleep:5
+color:0;65;0, region:middle
+sleep:5
+color:189;0;0, region:left
+sleep:5
+color:0;66;0, region:middle
+sleep:5
+color:188;0;0, region:left
+sleep:5
+color:0;67;0, region:middle
+sleep:5
+color:187;0;0, region:left
+sleep:5
+color:0;68;0, region:middle
+sleep:5
+color:186;0;0, region:left
+sleep:5
+color:0;69;0, region:middle
+sleep:5
+color:185;0;0, region:left
+sleep:5
+color:0;70;0, region:middle
+sleep:5
+color:184;0;0, region:left
+sleep:5
+color:0;71;0, region:middle
+sleep:5
+color:183;0;0, region:left
+sleep:5
+color:0;72;0, region:middle
+sleep:5
+color:182;0;0, region:left
+sleep:5
+color:0;73;0, region:middle
+sleep:5
+color:181;0;0, region:left
+sleep:5
+color:0;74;0, region:middle
+sleep:5
+color:180;0;0, region:left
+sleep:5
+color:0;75;0, region:middle
+sleep:5
+color:179;0;0, region:left
+sleep:5
+color:0;76;0, region:middle
+sleep:5
+color:178;0;0, region:left
+sleep:5
+color:0;77;0, region:middle
+sleep:5
+color:177;0;0, region:left
+sleep:5
+color:0;78;0, region:middle
+sleep:5
+color:176;0;0, region:left
+sleep:5
+color:0;79;0, region:middle
+sleep:5
+color:175;0;0, region:left
+sleep:5
+color:0;80;0, region:middle
+sleep:5
+color:174;0;0, region:left
+sleep:5
+color:0;81;0, region:middle
+sleep:5
+color:173;0;0, region:left
+sleep:5
+color:0;82;0, region:middle
+sleep:5
+color:172;0;0, region:left
+sleep:5
+color:0;83;0, region:middle
+sleep:5
+color:171;0;0, region:left
+sleep:5
+color:0;84;0, region:middle
+sleep:5
+color:170;0;0, region:left
+sleep:5
+color:0;85;0, region:middle
+sleep:5
+color:169;0;0, region:left
+sleep:5
+color:0;86;0, region:middle
+sleep:5
+color:168;0;0, region:left
+sleep:5
+color:0;87;0, region:middle
+sleep:5
+color:167;0;0, region:left
+sleep:5
+color:0;88;0, region:middle
+sleep:5
+color:166;0;0, region:left
+sleep:5
+color:0;89;0, region:middle
+sleep:5
+color:165;0;0, region:left
+sleep:5
+color:0;90;0, region:middle
+sleep:5
+color:164;0;0, region:left
+sleep:5
+color:0;91;0, region:middle
+sleep:5
+color:163;0;0, region:left
+sleep:5
+color:0;92;0, region:middle
+sleep:5
+color:162;0;0, region:left
+sleep:5
+color:0;93;0, region:middle
+sleep:5
+color:161;0;0, region:left
+sleep:5
+color:0;94;0, region:middle
+sleep:5
+color:160;0;0, region:left
+sleep:5
+color:0;95;0, region:middle
+sleep:5
+color:159;0;0, region:left
+sleep:5
+color:0;96;0, region:middle
+sleep:5
+color:158;0;0, region:left
+sleep:5
+color:0;97;0, region:middle
+sleep:5
+color:157;0;0, region:left
+sleep:5
+color:0;98;0, region:middle
+sleep:5
+color:156;0;0, region:left
+sleep:5
+color:0;99;0, region:middle
+sleep:5
+color:155;0;0, region:left
+sleep:5
+color:0;100;0, region:middle
+sleep:5
+color:154;0;0, region:left
+sleep:5
+color:0;101;0, region:middle
+sleep:5
+color:153;0;0, region:left
+sleep:5
+color:0;102;0, region:middle
+sleep:5
+color:152;0;0, region:left
+sleep:5
+color:0;103;0, region:middle
+sleep:5
+color:151;0;0, region:left
+sleep:5
+color:0;104;0, region:middle
+sleep:5
+color:150;0;0, region:left
+sleep:5
+color:0;105;0, region:middle
+sleep:5
+color:149;0;0, region:left
+sleep:5
+color:0;106;0, region:middle
+sleep:5
+color:148;0;0, region:left
+sleep:5
+color:0;107;0, region:middle
+sleep:5
+color:147;0;0, region:left
+sleep:5
+color:0;108;0, region:middle
+sleep:5
+color:146;0;0, region:left
+sleep:5
+color:0;109;0, region:middle
+sleep:5
+color:145;0;0, region:left
+sleep:5
+color:0;110;0, region:middle
+sleep:5
+color:144;0;0, region:left
+sleep:5
+color:0;111;0, region:middle
+sleep:5
+color:143;0;0, region:left
+sleep:5
+color:0;112;0, region:middle
+sleep:5
+color:142;0;0, region:left
+sleep:5
+color:0;113;0, region:middle
+sleep:5
+color:141;0;0, region:left
+sleep:5
+color:0;114;0, region:middle
+sleep:5
+color:140;0;0, region:left
+sleep:5
+color:0;115;0, region:middle
+sleep:5
+color:139;0;0, region:left
+sleep:5
+color:0;116;0, region:middle
+sleep:5
+color:138;0;0, region:left
+sleep:5
+color:0;117;0, region:middle
+sleep:5
+color:137;0;0, region:left
+sleep:5
+color:0;118;0, region:middle
+sleep:5
+color:136;0;0, region:left
+sleep:5
+color:0;119;0, region:middle
+sleep:5
+color:135;0;0, region:left
+sleep:5
+color:0;120;0, region:middle
+sleep:5
+color:134;0;0, region:left
+sleep:5
+color:0;121;0, region:middle
+sleep:5
+color:133;0;0, region:left
+sleep:5
+color:0;122;0, region:middle
+sleep:5
+color:132;0;0, region:left
+sleep:5
+color:0;123;0, region:middle
+sleep:5
+color:131;0;0, region:left
+sleep:5
+color:0;124;0, region:middle
+sleep:5
+color:130;0;0, region:left
+sleep:5
+color:0;125;0, region:middle
+sleep:5
+color:129;0;0, region:left
+sleep:5
+color:0;126;0, region:middle
+sleep:5
+color:128;0;0, region:left
+sleep:5
+color:0;127;0, region:middle
+sleep:5
+color:127;0;0, region:left
+sleep:5
+color:0;128;0, region:middle
+sleep:5
+color:126;0;0, region:left
+sleep:5
+color:0;129;0, region:middle
+sleep:5
+color:125;0;0, region:left
+sleep:5
+color:0;130;0, region:middle
+sleep:5
+color:124;0;0, region:left
+sleep:5
+color:0;131;0, region:middle
+sleep:5
+color:123;0;0, region:left
+sleep:5
+color:0;132;0, region:middle
+sleep:5
+color:122;0;0, region:left
+sleep:5
+color:0;133;0, region:middle
+sleep:5
+color:121;0;0, region:left
+sleep:5
+color:0;134;0, region:middle
+sleep:5
+color:120;0;0, region:left
+sleep:5
+color:0;135;0, region:middle
+sleep:5
+color:119;0;0, region:left
+sleep:5
+color:0;136;0, region:middle
+sleep:5
+color:118;0;0, region:left
+sleep:5
+color:0;137;0, region:middle
+sleep:5
+color:117;0;0, region:left
+sleep:5
+color:0;138;0, region:middle
+sleep:5
+color:116;0;0, region:left
+sleep:5
+color:0;139;0, region:middle
+sleep:5
+color:115;0;0, region:left
+sleep:5
+color:0;140;0, region:middle
+sleep:5
+color:114;0;0, region:left
+sleep:5
+color:0;141;0, region:middle
+sleep:5
+color:113;0;0, region:left
+sleep:5
+color:0;142;0, region:middle
+sleep:5
+color:112;0;0, region:left
+sleep:5
+color:0;143;0, region:middle
+sleep:5
+color:111;0;0, region:left
+sleep:5
+color:0;144;0, region:middle
+sleep:5
+color:110;0;0, region:left
+sleep:5
+color:0;145;0, region:middle
+sleep:5
+color:109;0;0, region:left
+sleep:5
+color:0;146;0, region:middle
+sleep:5
+color:108;0;0, region:left
+sleep:5
+color:0;147;0, region:middle
+sleep:5
+color:107;0;0, region:left
+sleep:5
+color:0;148;0, region:middle
+sleep:5
+color:106;0;0, region:left
+sleep:5
+color:0;149;0, region:middle
+sleep:5
+color:105;0;0, region:left
+sleep:5
+color:0;150;0, region:middle
+sleep:5
+color:104;0;0, region:left
+sleep:5
+color:0;151;0, region:middle
+sleep:5
+color:103;0;0, region:left
+sleep:5
+color:0;152;0, region:middle
+sleep:5
+color:102;0;0, region:left
+sleep:5
+color:0;153;0, region:middle
+sleep:5
+color:101;0;0, region:left
+sleep:5
+color:0;154;0, region:middle
+sleep:5
+color:100;0;0, region:left
+sleep:5
+color:0;155;0, region:middle
+sleep:5
+color:99;0;0, region:left
+sleep:5
+color:0;156;0, region:middle
+sleep:5
+color:98;0;0, region:left
+sleep:5
+color:0;157;0, region:middle
+sleep:5
+color:97;0;0, region:left
+sleep:5
+color:0;158;0, region:middle
+sleep:5
+color:96;0;0, region:left
+sleep:5
+color:0;159;0, region:middle
+sleep:5
+color:95;0;0, region:left
+sleep:5
+color:0;160;0, region:middle
+sleep:5
+color:94;0;0, region:left
+sleep:5
+color:0;161;0, region:middle
+sleep:5
+color:93;0;0, region:left
+sleep:5
+color:0;162;0, region:middle
+sleep:5
+color:92;0;0, region:left
+sleep:5
+color:0;163;0, region:middle
+sleep:5
+color:91;0;0, region:left
+sleep:5
+color:0;164;0, region:middle
+sleep:5
+color:90;0;0, region:left
+sleep:5
+color:0;165;0, region:middle
+sleep:5
+color:89;0;0, region:left
+sleep:5
+color:0;166;0, region:middle
+sleep:5
+color:88;0;0, region:left
+sleep:5
+color:0;167;0, region:middle
+sleep:5
+color:87;0;0, region:left
+sleep:5
+color:0;168;0, region:middle
+sleep:5
+color:86;0;0, region:left
+sleep:5
+color:0;169;0, region:middle
+sleep:5
+color:85;0;0, region:left
+sleep:5
+color:0;170;0, region:middle
+sleep:5
+color:84;0;0, region:left
+sleep:5
+color:0;171;0, region:middle
+sleep:5
+color:83;0;0, region:left
+sleep:5
+color:0;172;0, region:middle
+sleep:5
+color:82;0;0, region:left
+sleep:5
+color:0;173;0, region:middle
+sleep:5
+color:81;0;0, region:left
+sleep:5
+color:0;174;0, region:middle
+sleep:5
+color:80;0;0, region:left
+sleep:5
+color:0;175;0, region:middle
+sleep:5
+color:79;0;0, region:left
+sleep:5
+color:0;176;0, region:middle
+sleep:5
+color:78;0;0, region:left
+sleep:5
+color:0;177;0, region:middle
+sleep:5
+color:77;0;0, region:left
+sleep:5
+color:0;178;0, region:middle
+sleep:5
+color:76;0;0, region:left
+sleep:5
+color:0;179;0, region:middle
+sleep:5
+color:75;0;0, region:left
+sleep:5
+color:0;180;0, region:middle
+sleep:5
+color:74;0;0, region:left
+sleep:5
+color:0;181;0, region:middle
+sleep:5
+color:73;0;0, region:left
+sleep:5
+color:0;182;0, region:middle
+sleep:5
+color:72;0;0, region:left
+sleep:5
+color:0;183;0, region:middle
+sleep:5
+color:71;0;0, region:left
+sleep:5
+color:0;184;0, region:middle
+sleep:5
+color:70;0;0, region:left
+sleep:5
+color:0;185;0, region:middle
+sleep:5
+color:69;0;0, region:left
+sleep:5
+color:0;186;0, region:middle
+sleep:5
+color:68;0;0, region:left
+sleep:5
+color:0;187;0, region:middle
+sleep:5
+color:67;0;0, region:left
+sleep:5
+color:0;188;0, region:middle
+sleep:5
+color:66;0;0, region:left
+sleep:5
+color:0;189;0, region:middle
+sleep:5
+color:65;0;0, region:left
+sleep:5
+color:0;190;0, region:middle
+sleep:5
+color:64;0;0, region:left
+sleep:5
+color:0;191;0, region:middle
+sleep:5
+color:63;0;0, region:left
+sleep:5
+color:0;192;0, region:middle
+sleep:5
+color:62;0;0, region:left
+sleep:5
+color:0;193;0, region:middle
+sleep:5
+color:61;0;0, region:left
+sleep:5
+color:0;194;0, region:middle
+sleep:5
+color:60;0;0, region:left
+sleep:5
+color:0;195;0, region:middle
+sleep:5
+color:59;0;0, region:left
+sleep:5
+color:0;196;0, region:middle
+sleep:5
+color:58;0;0, region:left
+sleep:5
+color:0;197;0, region:middle
+sleep:5
+color:57;0;0, region:left
+sleep:5
+color:0;198;0, region:middle
+sleep:5
+color:56;0;0, region:left
+sleep:5
+color:0;199;0, region:middle
+sleep:5
+color:55;0;0, region:left
+sleep:5
+color:0;200;0, region:middle
+sleep:5
+color:54;0;0, region:left
+sleep:5
+color:0;201;0, region:middle
+sleep:5
+color:53;0;0, region:left
+sleep:5
+color:0;202;0, region:middle
+sleep:5
+color:52;0;0, region:left
+sleep:5
+color:0;203;0, region:middle
+sleep:5
+color:51;0;0, region:left
+sleep:5
+color:0;204;0, region:middle
+sleep:5
+color:50;0;0, region:left
+sleep:5
+color:0;205;0, region:middle
+sleep:5
+color:49;0;0, region:left
+sleep:5
+color:0;206;0, region:middle
+sleep:5
+color:48;0;0, region:left
+sleep:5
+color:0;207;0, region:middle
+sleep:5
+color:47;0;0, region:left
+sleep:5
+color:0;208;0, region:middle
+sleep:5
+color:46;0;0, region:left
+sleep:5
+color:0;209;0, region:middle
+sleep:5
+color:45;0;0, region:left
+sleep:5
+color:0;210;0, region:middle
+sleep:5
+color:44;0;0, region:left
+sleep:5
+color:0;211;0, region:middle
+sleep:5
+color:43;0;0, region:left
+sleep:5
+color:0;212;0, region:middle
+sleep:5
+color:42;0;0, region:left
+sleep:5
+color:0;213;0, region:middle
+sleep:5
+color:41;0;0, region:left
+sleep:5
+color:0;214;0, region:middle
+sleep:5
+color:40;0;0, region:left
+sleep:5
+color:0;215;0, region:middle
+sleep:5
+color:39;0;0, region:left
+sleep:5
+color:0;216;0, region:middle
+sleep:5
+color:38;0;0, region:left
+sleep:5
+color:0;217;0, region:middle
+sleep:5
+color:37;0;0, region:left
+sleep:5
+color:0;218;0, region:middle
+sleep:5
+color:36;0;0, region:left
+sleep:5
+color:0;219;0, region:middle
+sleep:5
+color:35;0;0, region:left
+sleep:5
+color:0;220;0, region:middle
+sleep:5
+color:34;0;0, region:left
+sleep:5
+color:0;221;0, region:middle
+sleep:5
+color:33;0;0, region:left
+sleep:5
+color:0;222;0, region:middle
+sleep:5
+color:32;0;0, region:left
+sleep:5
+color:0;223;0, region:middle
+sleep:5
+color:31;0;0, region:left
+sleep:5
+color:0;224;0, region:middle
+sleep:5
+color:30;0;0, region:left
+sleep:5
+color:0;225;0, region:middle
+sleep:5
+color:29;0;0, region:left
+sleep:5
+color:0;226;0, region:middle
+sleep:5
+color:28;0;0, region:left
+sleep:5
+color:0;227;0, region:middle
+sleep:5
+color:27;0;0, region:left
+sleep:5
+color:0;228;0, region:middle
+sleep:5
+color:26;0;0, region:left
+sleep:5
+color:0;229;0, region:middle
+sleep:5
+color:25;0;0, region:left
+sleep:5
+color:0;230;0, region:middle
+sleep:5
+color:24;0;0, region:left
+sleep:5
+color:0;231;0, region:middle
+sleep:5
+color:23;0;0, region:left
+sleep:5
+color:0;232;0, region:middle
+sleep:5
+color:22;0;0, region:left
+sleep:5
+color:0;233;0, region:middle
+sleep:5
+color:21;0;0, region:left
+sleep:5
+color:0;234;0, region:middle
+sleep:5
+color:20;0;0, region:left
+sleep:5
+color:0;235;0, region:middle
+sleep:5
+color:19;0;0, region:left
+sleep:5
+color:0;236;0, region:middle
+sleep:5
+color:18;0;0, region:left
+sleep:5
+color:0;237;0, region:middle
+sleep:5
+color:17;0;0, region:left
+sleep:5
+color:0;238;0, region:middle
+sleep:5
+color:16;0;0, region:left
+sleep:5
+color:0;239;0, region:middle
+sleep:5
+color:15;0;0, region:left
+sleep:5
+color:0;240;0, region:middle
+sleep:5
+color:14;0;0, region:left
+sleep:5
+color:0;241;0, region:middle
+sleep:5
+color:13;0;0, region:left
+sleep:5
+color:0;242;0, region:middle
+sleep:5
+color:12;0;0, region:left
+sleep:5
+color:0;243;0, region:middle
+sleep:5
+color:11;0;0, region:left
+sleep:5
+color:0;244;0, region:middle
+sleep:5
+color:10;0;0, region:left
+sleep:5
+color:0;245;0, region:middle
+sleep:5
+color:9;0;0, region:left
+sleep:5
+color:0;246;0, region:middle
+sleep:5
+color:8;0;0, region:left
+sleep:5
+color:0;247;0, region:middle
+sleep:5
+color:7;0;0, region:left
+sleep:5
+color:0;248;0, region:middle
+sleep:5
+color:6;0;0, region:left
+sleep:5
+color:0;249;0, region:middle
+sleep:5
+color:5;0;0, region:left
+sleep:5
+color:0;250;0, region:middle
+sleep:5
+color:4;0;0, region:left
+sleep:5
+color:0;251;0, region:middle
+sleep:5
+color:3;0;0, region:left
+sleep:5
+color:0;252;0, region:middle
+sleep:5
+color:2;0;0, region:left
+sleep:5
+color:0;253;0, region:middle
+sleep:5
+color:1;0;0, region:left
+sleep:5
+color:0;254;0, region:middle
+sleep:5
+color:0;0;0, region:left
+sleep:5
+color:0;255;0, region:middle
+sleep:5
+color:0;254;0, region:middle
+sleep:5
+color:0;0;1, region:right
+sleep:5
+color:0;253;0, region:middle
+sleep:5
+color:0;0;2, region:right
+sleep:5
+color:0;252;0, region:middle
+sleep:5
+color:0;0;3, region:right
+sleep:5
+color:0;251;0, region:middle
+sleep:5
+color:0;0;4, region:right
+sleep:5
+color:0;250;0, region:middle
+sleep:5
+color:0;0;5, region:right
+sleep:5
+color:0;249;0, region:middle
+sleep:5
+color:0;0;6, region:right
+sleep:5
+color:0;248;0, region:middle
+sleep:5
+color:0;0;7, region:right
+sleep:5
+color:0;247;0, region:middle
+sleep:5
+color:0;0;8, region:right
+sleep:5
+color:0;246;0, region:middle
+sleep:5
+color:0;0;9, region:right
+sleep:5
+color:0;245;0, region:middle
+sleep:5
+color:0;0;10, region:right
+sleep:5
+color:0;244;0, region:middle
+sleep:5
+color:0;0;11, region:right
+sleep:5
+color:0;243;0, region:middle
+sleep:5
+color:0;0;12, region:right
+sleep:5
+color:0;242;0, region:middle
+sleep:5
+color:0;0;13, region:right
+sleep:5
+color:0;241;0, region:middle
+sleep:5
+color:0;0;14, region:right
+sleep:5
+color:0;240;0, region:middle
+sleep:5
+color:0;0;15, region:right
+sleep:5
+color:0;239;0, region:middle
+sleep:5
+color:0;0;16, region:right
+sleep:5
+color:0;238;0, region:middle
+sleep:5
+color:0;0;17, region:right
+sleep:5
+color:0;237;0, region:middle
+sleep:5
+color:0;0;18, region:right
+sleep:5
+color:0;236;0, region:middle
+sleep:5
+color:0;0;19, region:right
+sleep:5
+color:0;235;0, region:middle
+sleep:5
+color:0;0;20, region:right
+sleep:5
+color:0;234;0, region:middle
+sleep:5
+color:0;0;21, region:right
+sleep:5
+color:0;233;0, region:middle
+sleep:5
+color:0;0;22, region:right
+sleep:5
+color:0;232;0, region:middle
+sleep:5
+color:0;0;23, region:right
+sleep:5
+color:0;231;0, region:middle
+sleep:5
+color:0;0;24, region:right
+sleep:5
+color:0;230;0, region:middle
+sleep:5
+color:0;0;25, region:right
+sleep:5
+color:0;229;0, region:middle
+sleep:5
+color:0;0;26, region:right
+sleep:5
+color:0;228;0, region:middle
+sleep:5
+color:0;0;27, region:right
+sleep:5
+color:0;227;0, region:middle
+sleep:5
+color:0;0;28, region:right
+sleep:5
+color:0;226;0, region:middle
+sleep:5
+color:0;0;29, region:right
+sleep:5
+color:0;225;0, region:middle
+sleep:5
+color:0;0;30, region:right
+sleep:5
+color:0;224;0, region:middle
+sleep:5
+color:0;0;31, region:right
+sleep:5
+color:0;223;0, region:middle
+sleep:5
+color:0;0;32, region:right
+sleep:5
+color:0;222;0, region:middle
+sleep:5
+color:0;0;33, region:right
+sleep:5
+color:0;221;0, region:middle
+sleep:5
+color:0;0;34, region:right
+sleep:5
+color:0;220;0, region:middle
+sleep:5
+color:0;0;35, region:right
+sleep:5
+color:0;219;0, region:middle
+sleep:5
+color:0;0;36, region:right
+sleep:5
+color:0;218;0, region:middle
+sleep:5
+color:0;0;37, region:right
+sleep:5
+color:0;217;0, region:middle
+sleep:5
+color:0;0;38, region:right
+sleep:5
+color:0;216;0, region:middle
+sleep:5
+color:0;0;39, region:right
+sleep:5
+color:0;215;0, region:middle
+sleep:5
+color:0;0;40, region:right
+sleep:5
+color:0;214;0, region:middle
+sleep:5
+color:0;0;41, region:right
+sleep:5
+color:0;213;0, region:middle
+sleep:5
+color:0;0;42, region:right
+sleep:5
+color:0;212;0, region:middle
+sleep:5
+color:0;0;43, region:right
+sleep:5
+color:0;211;0, region:middle
+sleep:5
+color:0;0;44, region:right
+sleep:5
+color:0;210;0, region:middle
+sleep:5
+color:0;0;45, region:right
+sleep:5
+color:0;209;0, region:middle
+sleep:5
+color:0;0;46, region:right
+sleep:5
+color:0;208;0, region:middle
+sleep:5
+color:0;0;47, region:right
+sleep:5
+color:0;207;0, region:middle
+sleep:5
+color:0;0;48, region:right
+sleep:5
+color:0;206;0, region:middle
+sleep:5
+color:0;0;49, region:right
+sleep:5
+color:0;205;0, region:middle
+sleep:5
+color:0;0;50, region:right
+sleep:5
+color:0;204;0, region:middle
+sleep:5
+color:0;0;51, region:right
+sleep:5
+color:0;203;0, region:middle
+sleep:5
+color:0;0;52, region:right
+sleep:5
+color:0;202;0, region:middle
+sleep:5
+color:0;0;53, region:right
+sleep:5
+color:0;201;0, region:middle
+sleep:5
+color:0;0;54, region:right
+sleep:5
+color:0;200;0, region:middle
+sleep:5
+color:0;0;55, region:right
+sleep:5
+color:0;199;0, region:middle
+sleep:5
+color:0;0;56, region:right
+sleep:5
+color:0;198;0, region:middle
+sleep:5
+color:0;0;57, region:right
+sleep:5
+color:0;197;0, region:middle
+sleep:5
+color:0;0;58, region:right
+sleep:5
+color:0;196;0, region:middle
+sleep:5
+color:0;0;59, region:right
+sleep:5
+color:0;195;0, region:middle
+sleep:5
+color:0;0;60, region:right
+sleep:5
+color:0;194;0, region:middle
+sleep:5
+color:0;0;61, region:right
+sleep:5
+color:0;193;0, region:middle
+sleep:5
+color:0;0;62, region:right
+sleep:5
+color:0;192;0, region:middle
+sleep:5
+color:0;0;63, region:right
+sleep:5
+color:0;191;0, region:middle
+sleep:5
+color:0;0;64, region:right
+sleep:5
+color:0;190;0, region:middle
+sleep:5
+color:0;0;65, region:right
+sleep:5
+color:0;189;0, region:middle
+sleep:5
+color:0;0;66, region:right
+sleep:5
+color:0;188;0, region:middle
+sleep:5
+color:0;0;67, region:right
+sleep:5
+color:0;187;0, region:middle
+sleep:5
+color:0;0;68, region:right
+sleep:5
+color:0;186;0, region:middle
+sleep:5
+color:0;0;69, region:right
+sleep:5
+color:0;185;0, region:middle
+sleep:5
+color:0;0;70, region:right
+sleep:5
+color:0;184;0, region:middle
+sleep:5
+color:0;0;71, region:right
+sleep:5
+color:0;183;0, region:middle
+sleep:5
+color:0;0;72, region:right
+sleep:5
+color:0;182;0, region:middle
+sleep:5
+color:0;0;73, region:right
+sleep:5
+color:0;181;0, region:middle
+sleep:5
+color:0;0;74, region:right
+sleep:5
+color:0;180;0, region:middle
+sleep:5
+color:0;0;75, region:right
+sleep:5
+color:0;179;0, region:middle
+sleep:5
+color:0;0;76, region:right
+sleep:5
+color:0;178;0, region:middle
+sleep:5
+color:0;0;77, region:right
+sleep:5
+color:0;177;0, region:middle
+sleep:5
+color:0;0;78, region:right
+sleep:5
+color:0;176;0, region:middle
+sleep:5
+color:0;0;79, region:right
+sleep:5
+color:0;175;0, region:middle
+sleep:5
+color:0;0;80, region:right
+sleep:5
+color:0;174;0, region:middle
+sleep:5
+color:0;0;81, region:right
+sleep:5
+color:0;173;0, region:middle
+sleep:5
+color:0;0;82, region:right
+sleep:5
+color:0;172;0, region:middle
+sleep:5
+color:0;0;83, region:right
+sleep:5
+color:0;171;0, region:middle
+sleep:5
+color:0;0;84, region:right
+sleep:5
+color:0;170;0, region:middle
+sleep:5
+color:0;0;85, region:right
+sleep:5
+color:0;169;0, region:middle
+sleep:5
+color:0;0;86, region:right
+sleep:5
+color:0;168;0, region:middle
+sleep:5
+color:0;0;87, region:right
+sleep:5
+color:0;167;0, region:middle
+sleep:5
+color:0;0;88, region:right
+sleep:5
+color:0;166;0, region:middle
+sleep:5
+color:0;0;89, region:right
+sleep:5
+color:0;165;0, region:middle
+sleep:5
+color:0;0;90, region:right
+sleep:5
+color:0;164;0, region:middle
+sleep:5
+color:0;0;91, region:right
+sleep:5
+color:0;163;0, region:middle
+sleep:5
+color:0;0;92, region:right
+sleep:5
+color:0;162;0, region:middle
+sleep:5
+color:0;0;93, region:right
+sleep:5
+color:0;161;0, region:middle
+sleep:5
+color:0;0;94, region:right
+sleep:5
+color:0;160;0, region:middle
+sleep:5
+color:0;0;95, region:right
+sleep:5
+color:0;159;0, region:middle
+sleep:5
+color:0;0;96, region:right
+sleep:5
+color:0;158;0, region:middle
+sleep:5
+color:0;0;97, region:right
+sleep:5
+color:0;157;0, region:middle
+sleep:5
+color:0;0;98, region:right
+sleep:5
+color:0;156;0, region:middle
+sleep:5
+color:0;0;99, region:right
+sleep:5
+color:0;155;0, region:middle
+sleep:5
+color:0;0;100, region:right
+sleep:5
+color:0;154;0, region:middle
+sleep:5
+color:0;0;101, region:right
+sleep:5
+color:0;153;0, region:middle
+sleep:5
+color:0;0;102, region:right
+sleep:5
+color:0;152;0, region:middle
+sleep:5
+color:0;0;103, region:right
+sleep:5
+color:0;151;0, region:middle
+sleep:5
+color:0;0;104, region:right
+sleep:5
+color:0;150;0, region:middle
+sleep:5
+color:0;0;105, region:right
+sleep:5
+color:0;149;0, region:middle
+sleep:5
+color:0;0;106, region:right
+sleep:5
+color:0;148;0, region:middle
+sleep:5
+color:0;0;107, region:right
+sleep:5
+color:0;147;0, region:middle
+sleep:5
+color:0;0;108, region:right
+sleep:5
+color:0;146;0, region:middle
+sleep:5
+color:0;0;109, region:right
+sleep:5
+color:0;145;0, region:middle
+sleep:5
+color:0;0;110, region:right
+sleep:5
+color:0;144;0, region:middle
+sleep:5
+color:0;0;111, region:right
+sleep:5
+color:0;143;0, region:middle
+sleep:5
+color:0;0;112, region:right
+sleep:5
+color:0;142;0, region:middle
+sleep:5
+color:0;0;113, region:right
+sleep:5
+color:0;141;0, region:middle
+sleep:5
+color:0;0;114, region:right
+sleep:5
+color:0;140;0, region:middle
+sleep:5
+color:0;0;115, region:right
+sleep:5
+color:0;139;0, region:middle
+sleep:5
+color:0;0;116, region:right
+sleep:5
+color:0;138;0, region:middle
+sleep:5
+color:0;0;117, region:right
+sleep:5
+color:0;137;0, region:middle
+sleep:5
+color:0;0;118, region:right
+sleep:5
+color:0;136;0, region:middle
+sleep:5
+color:0;0;119, region:right
+sleep:5
+color:0;135;0, region:middle
+sleep:5
+color:0;0;120, region:right
+sleep:5
+color:0;134;0, region:middle
+sleep:5
+color:0;0;121, region:right
+sleep:5
+color:0;133;0, region:middle
+sleep:5
+color:0;0;122, region:right
+sleep:5
+color:0;132;0, region:middle
+sleep:5
+color:0;0;123, region:right
+sleep:5
+color:0;131;0, region:middle
+sleep:5
+color:0;0;124, region:right
+sleep:5
+color:0;130;0, region:middle
+sleep:5
+color:0;0;125, region:right
+sleep:5
+color:0;129;0, region:middle
+sleep:5
+color:0;0;126, region:right
+sleep:5
+color:0;128;0, region:middle
+sleep:5
+color:0;0;127, region:right
+sleep:5
+color:0;127;0, region:middle
+sleep:5
+color:0;0;128, region:right
+sleep:5
+color:0;126;0, region:middle
+sleep:5
+color:0;0;129, region:right
+sleep:5
+color:0;125;0, region:middle
+sleep:5
+color:0;0;130, region:right
+sleep:5
+color:0;124;0, region:middle
+sleep:5
+color:0;0;131, region:right
+sleep:5
+color:0;123;0, region:middle
+sleep:5
+color:0;0;132, region:right
+sleep:5
+color:0;122;0, region:middle
+sleep:5
+color:0;0;133, region:right
+sleep:5
+color:0;121;0, region:middle
+sleep:5
+color:0;0;134, region:right
+sleep:5
+color:0;120;0, region:middle
+sleep:5
+color:0;0;135, region:right
+sleep:5
+color:0;119;0, region:middle
+sleep:5
+color:0;0;136, region:right
+sleep:5
+color:0;118;0, region:middle
+sleep:5
+color:0;0;137, region:right
+sleep:5
+color:0;117;0, region:middle
+sleep:5
+color:0;0;138, region:right
+sleep:5
+color:0;116;0, region:middle
+sleep:5
+color:0;0;139, region:right
+sleep:5
+color:0;115;0, region:middle
+sleep:5
+color:0;0;140, region:right
+sleep:5
+color:0;114;0, region:middle
+sleep:5
+color:0;0;141, region:right
+sleep:5
+color:0;113;0, region:middle
+sleep:5
+color:0;0;142, region:right
+sleep:5
+color:0;112;0, region:middle
+sleep:5
+color:0;0;143, region:right
+sleep:5
+color:0;111;0, region:middle
+sleep:5
+color:0;0;144, region:right
+sleep:5
+color:0;110;0, region:middle
+sleep:5
+color:0;0;145, region:right
+sleep:5
+color:0;109;0, region:middle
+sleep:5
+color:0;0;146, region:right
+sleep:5
+color:0;108;0, region:middle
+sleep:5
+color:0;0;147, region:right
+sleep:5
+color:0;107;0, region:middle
+sleep:5
+color:0;0;148, region:right
+sleep:5
+color:0;106;0, region:middle
+sleep:5
+color:0;0;149, region:right
+sleep:5
+color:0;105;0, region:middle
+sleep:5
+color:0;0;150, region:right
+sleep:5
+color:0;104;0, region:middle
+sleep:5
+color:0;0;151, region:right
+sleep:5
+color:0;103;0, region:middle
+sleep:5
+color:0;0;152, region:right
+sleep:5
+color:0;102;0, region:middle
+sleep:5
+color:0;0;153, region:right
+sleep:5
+color:0;101;0, region:middle
+sleep:5
+color:0;0;154, region:right
+sleep:5
+color:0;100;0, region:middle
+sleep:5
+color:0;0;155, region:right
+sleep:5
+color:0;99;0, region:middle
+sleep:5
+color:0;0;156, region:right
+sleep:5
+color:0;98;0, region:middle
+sleep:5
+color:0;0;157, region:right
+sleep:5
+color:0;97;0, region:middle
+sleep:5
+color:0;0;158, region:right
+sleep:5
+color:0;96;0, region:middle
+sleep:5
+color:0;0;159, region:right
+sleep:5
+color:0;95;0, region:middle
+sleep:5
+color:0;0;160, region:right
+sleep:5
+color:0;94;0, region:middle
+sleep:5
+color:0;0;161, region:right
+sleep:5
+color:0;93;0, region:middle
+sleep:5
+color:0;0;162, region:right
+sleep:5
+color:0;92;0, region:middle
+sleep:5
+color:0;0;163, region:right
+sleep:5
+color:0;91;0, region:middle
+sleep:5
+color:0;0;164, region:right
+sleep:5
+color:0;90;0, region:middle
+sleep:5
+color:0;0;165, region:right
+sleep:5
+color:0;89;0, region:middle
+sleep:5
+color:0;0;166, region:right
+sleep:5
+color:0;88;0, region:middle
+sleep:5
+color:0;0;167, region:right
+sleep:5
+color:0;87;0, region:middle
+sleep:5
+color:0;0;168, region:right
+sleep:5
+color:0;86;0, region:middle
+sleep:5
+color:0;0;169, region:right
+sleep:5
+color:0;85;0, region:middle
+sleep:5
+color:0;0;170, region:right
+sleep:5
+color:0;84;0, region:middle
+sleep:5
+color:0;0;171, region:right
+sleep:5
+color:0;83;0, region:middle
+sleep:5
+color:0;0;172, region:right
+sleep:5
+color:0;82;0, region:middle
+sleep:5
+color:0;0;173, region:right
+sleep:5
+color:0;81;0, region:middle
+sleep:5
+color:0;0;174, region:right
+sleep:5
+color:0;80;0, region:middle
+sleep:5
+color:0;0;175, region:right
+sleep:5
+color:0;79;0, region:middle
+sleep:5
+color:0;0;176, region:right
+sleep:5
+color:0;78;0, region:middle
+sleep:5
+color:0;0;177, region:right
+sleep:5
+color:0;77;0, region:middle
+sleep:5
+color:0;0;178, region:right
+sleep:5
+color:0;76;0, region:middle
+sleep:5
+color:0;0;179, region:right
+sleep:5
+color:0;75;0, region:middle
+sleep:5
+color:0;0;180, region:right
+sleep:5
+color:0;74;0, region:middle
+sleep:5
+color:0;0;181, region:right
+sleep:5
+color:0;73;0, region:middle
+sleep:5
+color:0;0;182, region:right
+sleep:5
+color:0;72;0, region:middle
+sleep:5
+color:0;0;183, region:right
+sleep:5
+color:0;71;0, region:middle
+sleep:5
+color:0;0;184, region:right
+sleep:5
+color:0;70;0, region:middle
+sleep:5
+color:0;0;185, region:right
+sleep:5
+color:0;69;0, region:middle
+sleep:5
+color:0;0;186, region:right
+sleep:5
+color:0;68;0, region:middle
+sleep:5
+color:0;0;187, region:right
+sleep:5
+color:0;67;0, region:middle
+sleep:5
+color:0;0;188, region:right
+sleep:5
+color:0;66;0, region:middle
+sleep:5
+color:0;0;189, region:right
+sleep:5
+color:0;65;0, region:middle
+sleep:5
+color:0;0;190, region:right
+sleep:5
+color:0;64;0, region:middle
+sleep:5
+color:0;0;191, region:right
+sleep:5
+color:0;63;0, region:middle
+sleep:5
+color:0;0;192, region:right
+sleep:5
+color:0;62;0, region:middle
+sleep:5
+color:0;0;193, region:right
+sleep:5
+color:0;61;0, region:middle
+sleep:5
+color:0;0;194, region:right
+sleep:5
+color:0;60;0, region:middle
+sleep:5
+color:0;0;195, region:right
+sleep:5
+color:0;59;0, region:middle
+sleep:5
+color:0;0;196, region:right
+sleep:5
+color:0;58;0, region:middle
+sleep:5
+color:0;0;197, region:right
+sleep:5
+color:0;57;0, region:middle
+sleep:5
+color:0;0;198, region:right
+sleep:5
+color:0;56;0, region:middle
+sleep:5
+color:0;0;199, region:right
+sleep:5
+color:0;55;0, region:middle
+sleep:5
+color:0;0;200, region:right
+sleep:5
+color:0;54;0, region:middle
+sleep:5
+color:0;0;201, region:right
+sleep:5
+color:0;53;0, region:middle
+sleep:5
+color:0;0;202, region:right
+sleep:5
+color:0;52;0, region:middle
+sleep:5
+color:0;0;203, region:right
+sleep:5
+color:0;51;0, region:middle
+sleep:5
+color:0;0;204, region:right
+sleep:5
+color:0;50;0, region:middle
+sleep:5
+color:0;0;205, region:right
+sleep:5
+color:0;49;0, region:middle
+sleep:5
+color:0;0;206, region:right
+sleep:5
+color:0;48;0, region:middle
+sleep:5
+color:0;0;207, region:right
+sleep:5
+color:0;47;0, region:middle
+sleep:5
+color:0;0;208, region:right
+sleep:5
+color:0;46;0, region:middle
+sleep:5
+color:0;0;209, region:right
+sleep:5
+color:0;45;0, region:middle
+sleep:5
+color:0;0;210, region:right
+sleep:5
+color:0;44;0, region:middle
+sleep:5
+color:0;0;211, region:right
+sleep:5
+color:0;43;0, region:middle
+sleep:5
+color:0;0;212, region:right
+sleep:5
+color:0;42;0, region:middle
+sleep:5
+color:0;0;213, region:right
+sleep:5
+color:0;41;0, region:middle
+sleep:5
+color:0;0;214, region:right
+sleep:5
+color:0;40;0, region:middle
+sleep:5
+color:0;0;215, region:right
+sleep:5
+color:0;39;0, region:middle
+sleep:5
+color:0;0;216, region:right
+sleep:5
+color:0;38;0, region:middle
+sleep:5
+color:0;0;217, region:right
+sleep:5
+color:0;37;0, region:middle
+sleep:5
+color:0;0;218, region:right
+sleep:5
+color:0;36;0, region:middle
+sleep:5
+color:0;0;219, region:right
+sleep:5
+color:0;35;0, region:middle
+sleep:5
+color:0;0;220, region:right
+sleep:5
+color:0;34;0, region:middle
+sleep:5
+color:0;0;221, region:right
+sleep:5
+color:0;33;0, region:middle
+sleep:5
+color:0;0;222, region:right
+sleep:5
+color:0;32;0, region:middle
+sleep:5
+color:0;0;223, region:right
+sleep:5
+color:0;31;0, region:middle
+sleep:5
+color:0;0;224, region:right
+sleep:5
+color:0;30;0, region:middle
+sleep:5
+color:0;0;225, region:right
+sleep:5
+color:0;29;0, region:middle
+sleep:5
+color:0;0;226, region:right
+sleep:5
+color:0;28;0, region:middle
+sleep:5
+color:0;0;227, region:right
+sleep:5
+color:0;27;0, region:middle
+sleep:5
+color:0;0;228, region:right
+sleep:5
+color:0;26;0, region:middle
+sleep:5
+color:0;0;229, region:right
+sleep:5
+color:0;25;0, region:middle
+sleep:5
+color:0;0;230, region:right
+sleep:5
+color:0;24;0, region:middle
+sleep:5
+color:0;0;231, region:right
+sleep:5
+color:0;23;0, region:middle
+sleep:5
+color:0;0;232, region:right
+sleep:5
+color:0;22;0, region:middle
+sleep:5
+color:0;0;233, region:right
+sleep:5
+color:0;21;0, region:middle
+sleep:5
+color:0;0;234, region:right
+sleep:5
+color:0;20;0, region:middle
+sleep:5
+color:0;0;235, region:right
+sleep:5
+color:0;19;0, region:middle
+sleep:5
+color:0;0;236, region:right
+sleep:5
+color:0;18;0, region:middle
+sleep:5
+color:0;0;237, region:right
+sleep:5
+color:0;17;0, region:middle
+sleep:5
+color:0;0;238, region:right
+sleep:5
+color:0;16;0, region:middle
+sleep:5
+color:0;0;239, region:right
+sleep:5
+color:0;15;0, region:middle
+sleep:5
+color:0;0;240, region:right
+sleep:5
+color:0;14;0, region:middle
+sleep:5
+color:0;0;241, region:right
+sleep:5
+color:0;13;0, region:middle
+sleep:5
+color:0;0;242, region:right
+sleep:5
+color:0;12;0, region:middle
+sleep:5
+color:0;0;243, region:right
+sleep:5
+color:0;11;0, region:middle
+sleep:5
+color:0;0;244, region:right
+sleep:5
+color:0;10;0, region:middle
+sleep:5
+color:0;0;245, region:right
+sleep:5
+color:0;9;0, region:middle
+sleep:5
+color:0;0;246, region:right
+sleep:5
+color:0;8;0, region:middle
+sleep:5
+color:0;0;247, region:right
+sleep:5
+color:0;7;0, region:middle
+sleep:5
+color:0;0;248, region:right
+sleep:5
+color:0;6;0, region:middle
+sleep:5
+color:0;0;249, region:right
+sleep:5
+color:0;5;0, region:middle
+sleep:5
+color:0;0;250, region:right
+sleep:5
+color:0;4;0, region:middle
+sleep:5
+color:0;0;251, region:right
+sleep:5
+color:0;3;0, region:middle
+sleep:5
+color:0;0;252, region:right
+sleep:5
+color:0;2;0, region:middle
+sleep:5
+color:0;0;253, region:right
+sleep:5
+color:0;1;0, region:middle
+sleep:5
+color:0;0;254, region:right
+sleep:5
+color:0;0;0, region:middle
+sleep:5
+color:0;0;255, region:right
+sleep:5
+color:0;0;254, region:right
+sleep:5
+color:0;0;253, region:right
+sleep:5
+color:0;0;252, region:right
+sleep:5
+color:0;0;251, region:right
+sleep:5
+color:0;0;250, region:right
+sleep:5
+color:0;0;249, region:right
+sleep:5
+color:0;0;248, region:right
+sleep:5
+color:0;0;247, region:right
+sleep:5
+color:0;0;246, region:right
+sleep:5
+color:0;0;245, region:right
+sleep:5
+color:0;0;244, region:right
+sleep:5
+color:0;0;243, region:right
+sleep:5
+color:0;0;242, region:right
+sleep:5
+color:0;0;241, region:right
+sleep:5
+color:0;0;240, region:right
+sleep:5
+color:0;0;239, region:right
+sleep:5
+color:0;0;238, region:right
+sleep:5
+color:0;0;237, region:right
+sleep:5
+color:0;0;236, region:right
+sleep:5
+color:0;0;235, region:right
+sleep:5
+color:0;0;234, region:right
+sleep:5
+color:0;0;233, region:right
+sleep:5
+color:0;0;232, region:right
+sleep:5
+color:0;0;231, region:right
+sleep:5
+color:0;0;230, region:right
+sleep:5
+color:0;0;229, region:right
+sleep:5
+color:0;0;228, region:right
+sleep:5
+color:0;0;227, region:right
+sleep:5
+color:0;0;226, region:right
+sleep:5
+color:0;0;225, region:right
+sleep:5
+color:0;0;224, region:right
+sleep:5
+color:0;0;223, region:right
+sleep:5
+color:0;0;222, region:right
+sleep:5
+color:0;0;221, region:right
+sleep:5
+color:0;0;220, region:right
+sleep:5
+color:0;0;219, region:right
+sleep:5
+color:0;0;218, region:right
+sleep:5
+color:0;0;217, region:right
+sleep:5
+color:0;0;216, region:right
+sleep:5
+color:0;0;215, region:right
+sleep:5
+color:0;0;214, region:right
+sleep:5
+color:0;0;213, region:right
+sleep:5
+color:0;0;212, region:right
+sleep:5
+color:0;0;211, region:right
+sleep:5
+color:0;0;210, region:right
+sleep:5
+color:0;0;209, region:right
+sleep:5
+color:0;0;208, region:right
+sleep:5
+color:0;0;207, region:right
+sleep:5
+color:0;0;206, region:right
+sleep:5
+color:0;0;205, region:right
+sleep:5
+color:0;0;204, region:right
+sleep:5
+color:0;0;203, region:right
+sleep:5
+color:0;0;202, region:right
+sleep:5
+color:0;0;201, region:right
+sleep:5
+color:0;0;200, region:right
+sleep:5
+color:0;0;199, region:right
+sleep:5
+color:0;0;198, region:right
+sleep:5
+color:0;0;197, region:right
+sleep:5
+color:0;0;196, region:right
+sleep:5
+color:0;0;195, region:right
+sleep:5
+color:0;0;194, region:right
+sleep:5
+color:0;0;193, region:right
+sleep:5
+color:0;0;192, region:right
+sleep:5
+color:0;0;191, region:right
+sleep:5
+color:0;0;190, region:right
+sleep:5
+color:0;0;189, region:right
+sleep:5
+color:0;0;188, region:right
+sleep:5
+color:0;0;187, region:right
+sleep:5
+color:0;0;186, region:right
+sleep:5
+color:0;0;185, region:right
+sleep:5
+color:0;0;184, region:right
+sleep:5
+color:0;0;183, region:right
+sleep:5
+color:0;0;182, region:right
+sleep:5
+color:0;0;181, region:right
+sleep:5
+color:0;0;180, region:right
+sleep:5
+color:0;0;179, region:right
+sleep:5
+color:0;0;178, region:right
+sleep:5
+color:0;0;177, region:right
+sleep:5
+color:0;0;176, region:right
+sleep:5
+color:0;0;175, region:right
+sleep:5
+color:0;0;174, region:right
+sleep:5
+color:0;0;173, region:right
+sleep:5
+color:0;0;172, region:right
+sleep:5
+color:0;0;171, region:right
+sleep:5
+color:0;0;170, region:right
+sleep:5
+color:0;0;169, region:right
+sleep:5
+color:0;0;168, region:right
+sleep:5
+color:0;0;167, region:right
+sleep:5
+color:0;0;166, region:right
+sleep:5
+color:0;0;165, region:right
+sleep:5
+color:0;0;164, region:right
+sleep:5
+color:0;0;163, region:right
+sleep:5
+color:0;0;162, region:right
+sleep:5
+color:0;0;161, region:right
+sleep:5
+color:0;0;160, region:right
+sleep:5
+color:0;0;159, region:right
+sleep:5
+color:0;0;158, region:right
+sleep:5
+color:0;0;157, region:right
+sleep:5
+color:0;0;156, region:right
+sleep:5
+color:0;0;155, region:right
+sleep:5
+color:0;0;154, region:right
+sleep:5
+color:0;0;153, region:right
+sleep:5
+color:0;0;152, region:right
+sleep:5
+color:0;0;151, region:right
+sleep:5
+color:0;0;150, region:right
+sleep:5
+color:0;0;149, region:right
+sleep:5
+color:0;0;148, region:right
+sleep:5
+color:0;0;147, region:right
+sleep:5
+color:0;0;146, region:right
+sleep:5
+color:0;0;145, region:right
+sleep:5
+color:0;0;144, region:right
+sleep:5
+color:0;0;143, region:right
+sleep:5
+color:0;0;142, region:right
+sleep:5
+color:0;0;141, region:right
+sleep:5
+color:0;0;140, region:right
+sleep:5
+color:0;0;139, region:right
+sleep:5
+color:0;0;138, region:right
+sleep:5
+color:0;0;137, region:right
+sleep:5
+color:0;0;136, region:right
+sleep:5
+color:0;0;135, region:right
+sleep:5
+color:0;0;134, region:right
+sleep:5
+color:0;0;133, region:right
+sleep:5
+color:0;0;132, region:right
+sleep:5
+color:0;0;131, region:right
+sleep:5
+color:0;0;130, region:right
+sleep:5
+color:0;0;129, region:right
+sleep:5
+color:0;0;128, region:right
+sleep:5
+color:0;0;127, region:right
+sleep:5
+color:0;0;126, region:right
+sleep:5
+color:0;0;125, region:right
+sleep:5
+color:0;0;124, region:right
+sleep:5
+color:0;0;123, region:right
+sleep:5
+color:0;0;122, region:right
+sleep:5
+color:0;0;121, region:right
+sleep:5
+color:0;0;120, region:right
+sleep:5
+color:0;0;119, region:right
+sleep:5
+color:0;0;118, region:right
+sleep:5
+color:0;0;117, region:right
+sleep:5
+color:0;0;116, region:right
+sleep:5
+color:0;0;115, region:right
+sleep:5
+color:0;0;114, region:right
+sleep:5
+color:0;0;113, region:right
+sleep:5
+color:0;0;112, region:right
+sleep:5
+color:0;0;111, region:right
+sleep:5
+color:0;0;110, region:right
+sleep:5
+color:0;0;109, region:right
+sleep:5
+color:0;0;108, region:right
+sleep:5
+color:0;0;107, region:right
+sleep:5
+color:0;0;106, region:right
+sleep:5
+color:0;0;105, region:right
+sleep:5
+color:0;0;104, region:right
+sleep:5
+color:0;0;103, region:right
+sleep:5
+color:0;0;102, region:right
+sleep:5
+color:0;0;101, region:right
+sleep:5
+color:0;0;100, region:right
+sleep:5
+color:0;0;99, region:right
+sleep:5
+color:0;0;98, region:right
+sleep:5
+color:0;0;97, region:right
+sleep:5
+color:0;0;96, region:right
+sleep:5
+color:0;0;95, region:right
+sleep:5
+color:0;0;94, region:right
+sleep:5
+color:0;0;93, region:right
+sleep:5
+color:0;0;92, region:right
+sleep:5
+color:0;0;91, region:right
+sleep:5
+color:0;0;90, region:right
+sleep:5
+color:0;0;89, region:right
+sleep:5
+color:0;0;88, region:right
+sleep:5
+color:0;0;87, region:right
+sleep:5
+color:0;0;86, region:right
+sleep:5
+color:0;0;85, region:right
+sleep:5
+color:0;0;84, region:right
+sleep:5
+color:0;0;83, region:right
+sleep:5
+color:0;0;82, region:right
+sleep:5
+color:0;0;81, region:right
+sleep:5
+color:0;0;80, region:right
+sleep:5
+color:0;0;79, region:right
+sleep:5
+color:0;0;78, region:right
+sleep:5
+color:0;0;77, region:right
+sleep:5
+color:0;0;76, region:right
+sleep:5
+color:0;0;75, region:right
+sleep:5
+color:0;0;74, region:right
+sleep:5
+color:0;0;73, region:right
+sleep:5
+color:0;0;72, region:right
+sleep:5
+color:0;0;71, region:right
+sleep:5
+color:0;0;70, region:right
+sleep:5
+color:0;0;69, region:right
+sleep:5
+color:0;0;68, region:right
+sleep:5
+color:0;0;67, region:right
+sleep:5
+color:0;0;66, region:right
+sleep:5
+color:0;0;65, region:right
+sleep:5
+color:0;0;64, region:right
+sleep:5
+color:0;0;63, region:right
+sleep:5
+color:0;0;62, region:right
+sleep:5
+color:0;0;61, region:right
+sleep:5
+color:0;0;60, region:right
+sleep:5
+color:0;0;59, region:right
+sleep:5
+color:0;0;58, region:right
+sleep:5
+color:0;0;57, region:right
+sleep:5
+color:0;0;56, region:right
+sleep:5
+color:0;0;55, region:right
+sleep:5
+color:0;0;54, region:right
+sleep:5
+color:0;0;53, region:right
+sleep:5
+color:0;0;52, region:right
+sleep:5
+color:0;0;51, region:right
+sleep:5
+color:0;0;50, region:right
+sleep:5
+color:0;0;49, region:right
+sleep:5
+color:0;0;48, region:right
+sleep:5
+color:0;0;47, region:right
+sleep:5
+color:0;0;46, region:right
+sleep:5
+color:0;0;45, region:right
+sleep:5
+color:0;0;44, region:right
+sleep:5
+color:0;0;43, region:right
+sleep:5
+color:0;0;42, region:right
+sleep:5
+color:0;0;41, region:right
+sleep:5
+color:0;0;40, region:right
+sleep:5
+color:0;0;39, region:right
+sleep:5
+color:0;0;38, region:right
+sleep:5
+color:0;0;37, region:right
+sleep:5
+color:0;0;36, region:right
+sleep:5
+color:0;0;35, region:right
+sleep:5
+color:0;0;34, region:right
+sleep:5
+color:0;0;33, region:right
+sleep:5
+color:0;0;32, region:right
+sleep:5
+color:0;0;31, region:right
+sleep:5
+color:0;0;30, region:right
+sleep:5
+color:0;0;29, region:right
+sleep:5
+color:0;0;28, region:right
+sleep:5
+color:0;0;27, region:right
+sleep:5
+color:0;0;26, region:right
+sleep:5
+color:0;0;25, region:right
+sleep:5
+color:0;0;24, region:right
+sleep:5
+color:0;0;23, region:right
+sleep:5
+color:0;0;22, region:right
+sleep:5
+color:0;0;21, region:right
+sleep:5
+color:0;0;20, region:right
+sleep:5
+color:0;0;19, region:right
+sleep:5
+color:0;0;18, region:right
+sleep:5
+color:0;0;17, region:right
+sleep:5
+color:0;0;16, region:right
+sleep:5
+color:0;0;15, region:right
+sleep:5
+color:0;0;14, region:right
+sleep:5
+color:0;0;13, region:right
+sleep:5
+color:0;0;12, region:right
+sleep:5
+color:0;0;11, region:right
+sleep:5
+color:0;0;10, region:right
+sleep:5
+color:0;0;9, region:right
+sleep:5
+color:0;0;8, region:right
+sleep:5
+color:0;0;7, region:right
+sleep:5
+color:0;0;6, region:right
+sleep:5
+color:0;0;5, region:right
+sleep:5
+color:0;0;4, region:right
+sleep:5
+color:0;0;3, region:right
+sleep:5
+color:0;0;2, region:right
+sleep:5
+color:0;0;1, region:right
+sleep:5
+color:0;0;0, region:right
+sleep:5
