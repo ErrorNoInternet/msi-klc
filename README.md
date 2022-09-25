@@ -12,7 +12,7 @@ Supports 3 regions, 8 predefined colors, RGB/hex colors, and custom animations.
 	- Rust (cargo)
 	- hidapi
 ```sh
-git clone https://github.com/errorNoInternet/msi-klc
+git clone https://github.com/ErrorNoInternet/msi-klc
 cd msi-klc
 cargo build --release
 sudo cp target/release/msi-klc /usr/local/bin
@@ -30,7 +30,7 @@ msi-klc set --color red --region left
 # turn off all the LEDs on the keyboard
 msi-klc off
 
-# ...and then them back on
+# ...and turn them back on
 msi-klc reset
 
 # make the keyboard cyan
