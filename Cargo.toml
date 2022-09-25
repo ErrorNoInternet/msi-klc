@@ -5,10 +5,10 @@ edition = "2021"
 authors = ["ErrorNoInternet <error.nointernet@gmail.com>"]
 license = "MIT"
 description = "MSI Keyboard Light Controller"
-homepage = "https://github.com/errorNoInternet/msi-klc"
-repository = "https://github.com/errorNoInternet/msi-klc"
+homepage = "https://github.com/ErrorNoInternet/msi-klc"
+repository = "https://github.com/ErrorNoInternet/msi-klc"
 readme = "README.md"
-keywords = ["msi", "laptop", "rgb", "backlight", "steelseries"]
+keywords = ["msi", "laptop", "rgb", "backlight", "steelseries", "keyboard"]
 exclude = ["animations"]
 
 [dependencies]
