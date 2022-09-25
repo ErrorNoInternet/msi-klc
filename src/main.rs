@@ -12,15 +12,46 @@ fn main() {
     let command = clap::Command::new("msi-klc")
         .subcommand_required(true)
         .arg_required_else_help(true)
-        .subcommand(clap::Command::new("reset").about("Reset all the LEDs on the keyboard"))
-        .subcommand(clap::Command::new("off").about("Turn off all the LEDs on the keyboard"))
+        .subcommand(clap::Command::new("reset").about("Reset all the LEDs on your keyboard"))
+        .subcommand(clap::Command::new("off").about("Turn off all the LEDs on your keyboard"))
         .subcommand(
             clap::Command::new("set")
-                .about("Set the color/brightness/mode of the LEDs on the keyboard")
+                .about("Set the LEDs on your keyboard")
                 .arg_required_else_help(true)
-                .arg(clap::Arg::new("color"))
-                .arg(clap::Arg::new("brightness"))
-                .arg(clap::Arg::new("mode")),
+                .arg(
+                    clap::Arg::new("region")
+                        .short('r')
+                        .long("region")
+                        .help("The region of the LEDs you want to change")
+                        .long_help("The 3 regions on your keyboard ('left', 'middle', 'right').")
+                        .action(clap::ArgAction::StoreValue)
+                        .required(true),
+                )
+                .arg(
+                    clap::Arg::new("color")
+                        .short('c')
+                        .long("color")
+                        .action(clap::ArgAction::StoreValue)
+                        .help("The color of the LEDs on your keyboard")
+                        .long_help("Supports 8 predefined colors. Setting 'mode' to RGB will allow you to use RGB colors ('255;0;0' = red, '0;255;0' = green, etc).")
+                        .required(true),
+                )
+                .arg(
+                    clap::Arg::new("brightness")
+                        .short('b')
+                        .long("brightness")
+                        .help("The brightness of the LEDs on your keyboard")
+                        .long_help("Support 4 brightness/saturation levels ('dark', 'low', 'medium', and 'high').")
+                        .action(clap::ArgAction::StoreValue),
+                )
+                .arg(
+                    clap::Arg::new("mode")
+                        .short('m')
+                        .long("mode")
+                        .help("The mode of the LEDs on your keyboard")
+                        .long_help("Supports 3 modes ('normal', 'gaming', and 'rgb').")
+                        .action(clap::ArgAction::StoreValue),
+                ),
         );
     match command.get_matches().subcommand() {
         Some(("reset", _)) => keyboard.reset().unwrap(),
