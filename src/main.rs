@@ -40,7 +40,7 @@ fn main() {
                         .short('b')
                         .long("brightness")
                         .help("The brightness of the LEDs on your keyboard")
-                        .long_help("Support 4 brightness/saturation levels ('dark', 'low', 'medium', and 'high').")
+                        .long_help("Supports 4 brightness/saturation levels ('dark', 'low', 'medium', and 'high').")
                         .action(clap::ArgAction::StoreValue),
                 )
                 .arg(
