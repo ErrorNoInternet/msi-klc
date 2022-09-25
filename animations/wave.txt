@@ -1,3062 +1,3074 @@
 loop_forever
 
-color:0;0;0, region:left
+color:0;0;0,region:left
 sleep:5
-color:1;1;1, region:left
+color:1;1;1,region:left
 sleep:5
-color:2;2;2, region:left
+color:2;2;2,region:left
 sleep:5
-color:3;3;3, region:left
+color:3;3;3,region:left
 sleep:5
-color:4;4;4, region:left
+color:4;4;4,region:left
 sleep:5
-color:5;5;5, region:left
+color:5;5;5,region:left
 sleep:5
-color:6;6;6, region:left
+color:6;6;6,region:left
 sleep:5
-color:7;7;7, region:left
+color:7;7;7,region:left
 sleep:5
-color:8;8;8, region:left
+color:8;8;8,region:left
 sleep:5
-color:9;9;9, region:left
+color:9;9;9,region:left
 sleep:5
-color:10;10;10, region:left
+color:10;10;10,region:left
 sleep:5
-color:11;11;11, region:left
+color:11;11;11,region:left
 sleep:5
-color:12;12;12, region:left
+color:12;12;12,region:left
 sleep:5
-color:13;13;13, region:left
+color:13;13;13,region:left
 sleep:5
-color:14;14;14, region:left
+color:14;14;14,region:left
 sleep:5
-color:15;15;15, region:left
+color:15;15;15,region:left
 sleep:5
-color:16;16;16, region:left
+color:16;16;16,region:left
 sleep:5
-color:17;17;17, region:left
+color:17;17;17,region:left
 sleep:5
-color:18;18;18, region:left
+color:18;18;18,region:left
 sleep:5
-color:19;19;19, region:left
+color:19;19;19,region:left
 sleep:5
-color:20;20;20, region:left
+color:20;20;20,region:left
 sleep:5
-color:21;21;21, region:left
+color:21;21;21,region:left
 sleep:5
-color:22;22;22, region:left
+color:22;22;22,region:left
 sleep:5
-color:23;23;23, region:left
+color:23;23;23,region:left
 sleep:5
-color:24;24;24, region:left
+color:24;24;24,region:left
 sleep:5
-color:25;25;25, region:left
+color:25;25;25,region:left
 sleep:5
-color:26;26;26, region:left
+color:26;26;26,region:left
 sleep:5
-color:27;27;27, region:left
+color:27;27;27,region:left
 sleep:5
-color:28;28;28, region:left
+color:28;28;28,region:left
 sleep:5
-color:29;29;29, region:left
+color:29;29;29,region:left
 sleep:5
-color:30;30;30, region:left
+color:30;30;30,region:left
 sleep:5
-color:31;31;31, region:left
+color:31;31;31,region:left
 sleep:5
-color:32;32;32, region:left
+color:32;32;32,region:left
 sleep:5
-color:33;33;33, region:left
+color:33;33;33,region:left
 sleep:5
-color:34;34;34, region:left
+color:34;34;34,region:left
 sleep:5
-color:35;35;35, region:left
+color:35;35;35,region:left
 sleep:5
-color:36;36;36, region:left
+color:36;36;36,region:left
 sleep:5
-color:37;37;37, region:left
+color:37;37;37,region:left
 sleep:5
-color:38;38;38, region:left
+color:38;38;38,region:left
 sleep:5
-color:39;39;39, region:left
+color:39;39;39,region:left
 sleep:5
-color:40;40;40, region:left
+color:40;40;40,region:left
 sleep:5
-color:41;41;41, region:left
+color:41;41;41,region:left
 sleep:5
-color:42;42;42, region:left
+color:42;42;42,region:left
 sleep:5
-color:43;43;43, region:left
+color:43;43;43,region:left
 sleep:5
-color:44;44;44, region:left
+color:44;44;44,region:left
 sleep:5
-color:45;45;45, region:left
+color:45;45;45,region:left
 sleep:5
-color:46;46;46, region:left
+color:46;46;46,region:left
 sleep:5
-color:47;47;47, region:left
+color:47;47;47,region:left
 sleep:5
-color:48;48;48, region:left
+color:48;48;48,region:left
 sleep:5
-color:49;49;49, region:left
+color:49;49;49,region:left
 sleep:5
-color:50;50;50, region:left
+color:50;50;50,region:left
 sleep:5
-color:51;51;51, region:left
+color:51;51;51,region:left
 sleep:5
-color:52;52;52, region:left
+color:52;52;52,region:left
 sleep:5
-color:53;53;53, region:left
+color:53;53;53,region:left
 sleep:5
-color:54;54;54, region:left
+color:54;54;54,region:left
 sleep:5
-color:55;55;55, region:left
+color:55;55;55,region:left
 sleep:5
-color:56;56;56, region:left
+color:56;56;56,region:left
 sleep:5
-color:57;57;57, region:left
+color:57;57;57,region:left
 sleep:5
-color:58;58;58, region:left
+color:58;58;58,region:left
 sleep:5
-color:59;59;59, region:left
+color:59;59;59,region:left
 sleep:5
-color:60;60;60, region:left
+color:60;60;60,region:left
 sleep:5
-color:61;61;61, region:left
+color:61;61;61,region:left
 sleep:5
-color:62;62;62, region:left
+color:62;62;62,region:left
 sleep:5
-color:63;63;63, region:left
+color:63;63;63,region:left
 sleep:5
-color:64;64;64, region:left
+color:64;64;64,region:left
 sleep:5
-color:65;65;65, region:left
+color:65;65;65,region:left
 sleep:5
-color:66;66;66, region:left
+color:66;66;66,region:left
 sleep:5
-color:67;67;67, region:left
+color:67;67;67,region:left
 sleep:5
-color:68;68;68, region:left
+color:68;68;68,region:left
 sleep:5
-color:69;69;69, region:left
+color:69;69;69,region:left
 sleep:5
-color:70;70;70, region:left
+color:70;70;70,region:left
 sleep:5
-color:71;71;71, region:left
+color:71;71;71,region:left
 sleep:5
-color:72;72;72, region:left
+color:72;72;72,region:left
 sleep:5
-color:73;73;73, region:left
+color:73;73;73,region:left
 sleep:5
-color:74;74;74, region:left
+color:74;74;74,region:left
 sleep:5
-color:75;75;75, region:left
+color:75;75;75,region:left
 sleep:5
-color:76;76;76, region:left
+color:76;76;76,region:left
 sleep:5
-color:77;77;77, region:left
+color:77;77;77,region:left
 sleep:5
-color:78;78;78, region:left
+color:78;78;78,region:left
 sleep:5
-color:79;79;79, region:left
+color:79;79;79,region:left
 sleep:5
-color:80;80;80, region:left
+color:80;80;80,region:left
 sleep:5
-color:81;81;81, region:left
+color:81;81;81,region:left
 sleep:5
-color:82;82;82, region:left
+color:82;82;82,region:left
 sleep:5
-color:83;83;83, region:left
+color:83;83;83,region:left
 sleep:5
-color:84;84;84, region:left
+color:84;84;84,region:left
 sleep:5
-color:85;85;85, region:left
+color:85;85;85,region:left
 sleep:5
-color:86;86;86, region:left
+color:86;86;86,region:left
 sleep:5
-color:87;87;87, region:left
+color:87;87;87,region:left
 sleep:5
-color:88;88;88, region:left
+color:88;88;88,region:left
 sleep:5
-color:89;89;89, region:left
+color:89;89;89,region:left
 sleep:5
-color:90;90;90, region:left
+color:90;90;90,region:left
 sleep:5
-color:91;91;91, region:left
+color:91;91;91,region:left
 sleep:5
-color:92;92;92, region:left
+color:92;92;92,region:left
 sleep:5
-color:93;93;93, region:left
+color:93;93;93,region:left
 sleep:5
-color:94;94;94, region:left
+color:94;94;94,region:left
 sleep:5
-color:95;95;95, region:left
+color:95;95;95,region:left
 sleep:5
-color:96;96;96, region:left
+color:96;96;96,region:left
 sleep:5
-color:97;97;97, region:left
+color:97;97;97,region:left
 sleep:5
-color:98;98;98, region:left
+color:98;98;98,region:left
 sleep:5
-color:99;99;99, region:left
+color:99;99;99,region:left
 sleep:5
-color:100;100;100, region:left
+color:100;100;100,region:left
 sleep:5
-color:101;101;101, region:left
+color:101;101;101,region:left
 sleep:5
-color:102;102;102, region:left
+color:102;102;102,region:left
 sleep:5
-color:103;103;103, region:left
+color:103;103;103,region:left
 sleep:5
-color:104;104;104, region:left
+color:104;104;104,region:left
 sleep:5
-color:105;105;105, region:left
+color:105;105;105,region:left
 sleep:5
-color:106;106;106, region:left
+color:106;106;106,region:left
 sleep:5
-color:107;107;107, region:left
+color:107;107;107,region:left
 sleep:5
-color:108;108;108, region:left
+color:108;108;108,region:left
 sleep:5
-color:109;109;109, region:left
+color:109;109;109,region:left
 sleep:5
-color:110;110;110, region:left
+color:110;110;110,region:left
 sleep:5
-color:111;111;111, region:left
+color:111;111;111,region:left
 sleep:5
-color:112;112;112, region:left
+color:112;112;112,region:left
 sleep:5
-color:113;113;113, region:left
+color:113;113;113,region:left
 sleep:5
-color:114;114;114, region:left
+color:114;114;114,region:left
 sleep:5
-color:115;115;115, region:left
+color:115;115;115,region:left
 sleep:5
-color:116;116;116, region:left
+color:116;116;116,region:left
 sleep:5
-color:117;117;117, region:left
+color:117;117;117,region:left
 sleep:5
-color:118;118;118, region:left
+color:118;118;118,region:left
 sleep:5
-color:119;119;119, region:left
+color:119;119;119,region:left
 sleep:5
-color:120;120;120, region:left
+color:120;120;120,region:left
 sleep:5
-color:121;121;121, region:left
+color:121;121;121,region:left
 sleep:5
-color:122;122;122, region:left
+color:122;122;122,region:left
 sleep:5
-color:123;123;123, region:left
+color:123;123;123,region:left
 sleep:5
-color:124;124;124, region:left
+color:124;124;124,region:left
 sleep:5
-color:125;125;125, region:left
+color:125;125;125,region:left
 sleep:5
-color:126;126;126, region:left
+color:126;126;126,region:left
 sleep:5
-color:127;127;127, region:left
+color:127;127;127,region:left
 sleep:5
-color:128;128;128, region:left
+color:128;128;128,region:left
 sleep:5
-color:129;129;129, region:left
+color:129;129;129,region:left
 sleep:5
-color:130;130;130, region:left
+color:130;130;130,region:left
 sleep:5
-color:131;131;131, region:left
+color:131;131;131,region:left
 sleep:5
-color:132;132;132, region:left
+color:132;132;132,region:left
 sleep:5
-color:133;133;133, region:left
+color:133;133;133,region:left
 sleep:5
-color:134;134;134, region:left
+color:134;134;134,region:left
 sleep:5
-color:135;135;135, region:left
+color:135;135;135,region:left
 sleep:5
-color:136;136;136, region:left
+color:136;136;136,region:left
 sleep:5
-color:137;137;137, region:left
+color:137;137;137,region:left
 sleep:5
-color:138;138;138, region:left
+color:138;138;138,region:left
 sleep:5
-color:139;139;139, region:left
+color:139;139;139,region:left
 sleep:5
-color:140;140;140, region:left
+color:140;140;140,region:left
 sleep:5
-color:141;141;141, region:left
+color:141;141;141,region:left
 sleep:5
-color:142;142;142, region:left
+color:142;142;142,region:left
 sleep:5
-color:143;143;143, region:left
+color:143;143;143,region:left
 sleep:5
-color:144;144;144, region:left
+color:144;144;144,region:left
 sleep:5
-color:145;145;145, region:left
+color:145;145;145,region:left
 sleep:5
-color:146;146;146, region:left
+color:146;146;146,region:left
 sleep:5
-color:147;147;147, region:left
+color:147;147;147,region:left
 sleep:5
-color:148;148;148, region:left
+color:148;148;148,region:left
 sleep:5
-color:149;149;149, region:left
+color:149;149;149,region:left
 sleep:5
-color:150;150;150, region:left
+color:150;150;150,region:left
 sleep:5
-color:151;151;151, region:left
+color:151;151;151,region:left
 sleep:5
-color:152;152;152, region:left
+color:152;152;152,region:left
 sleep:5
-color:153;153;153, region:left
+color:153;153;153,region:left
 sleep:5
-color:154;154;154, region:left
+color:154;154;154,region:left
 sleep:5
-color:155;155;155, region:left
+color:155;155;155,region:left
 sleep:5
-color:156;156;156, region:left
+color:156;156;156,region:left
 sleep:5
-color:157;157;157, region:left
+color:157;157;157,region:left
 sleep:5
-color:158;158;158, region:left
+color:158;158;158,region:left
 sleep:5
-color:159;159;159, region:left
+color:159;159;159,region:left
 sleep:5
-color:160;160;160, region:left
+color:160;160;160,region:left
 sleep:5
-color:161;161;161, region:left
+color:161;161;161,region:left
 sleep:5
-color:162;162;162, region:left
+color:162;162;162,region:left
 sleep:5
-color:163;163;163, region:left
+color:163;163;163,region:left
 sleep:5
-color:164;164;164, region:left
+color:164;164;164,region:left
 sleep:5
-color:165;165;165, region:left
+color:165;165;165,region:left
 sleep:5
-color:166;166;166, region:left
+color:166;166;166,region:left
 sleep:5
-color:167;167;167, region:left
+color:167;167;167,region:left
 sleep:5
-color:168;168;168, region:left
+color:168;168;168,region:left
 sleep:5
-color:169;169;169, region:left
+color:169;169;169,region:left
 sleep:5
-color:170;170;170, region:left
+color:170;170;170,region:left
 sleep:5
-color:171;171;171, region:left
+color:171;171;171,region:left
 sleep:5
-color:172;172;172, region:left
+color:172;172;172,region:left
 sleep:5
-color:173;173;173, region:left
+color:173;173;173,region:left
 sleep:5
-color:174;174;174, region:left
+color:174;174;174,region:left
 sleep:5
-color:175;175;175, region:left
+color:175;175;175,region:left
 sleep:5
-color:176;176;176, region:left
+color:176;176;176,region:left
 sleep:5
-color:177;177;177, region:left
+color:177;177;177,region:left
 sleep:5
-color:178;178;178, region:left
+color:178;178;178,region:left
 sleep:5
-color:179;179;179, region:left
+color:179;179;179,region:left
 sleep:5
-color:180;180;180, region:left
+color:180;180;180,region:left
 sleep:5
-color:181;181;181, region:left
+color:181;181;181,region:left
 sleep:5
-color:182;182;182, region:left
+color:182;182;182,region:left
 sleep:5
-color:183;183;183, region:left
+color:183;183;183,region:left
 sleep:5
-color:184;184;184, region:left
+color:184;184;184,region:left
 sleep:5
-color:185;185;185, region:left
+color:185;185;185,region:left
 sleep:5
-color:186;186;186, region:left
+color:186;186;186,region:left
 sleep:5
-color:187;187;187, region:left
+color:187;187;187,region:left
 sleep:5
-color:188;188;188, region:left
+color:188;188;188,region:left
 sleep:5
-color:189;189;189, region:left
+color:189;189;189,region:left
 sleep:5
-color:190;190;190, region:left
+color:190;190;190,region:left
 sleep:5
-color:191;191;191, region:left
+color:191;191;191,region:left
 sleep:5
-color:192;192;192, region:left
+color:192;192;192,region:left
 sleep:5
-color:193;193;193, region:left
+color:193;193;193,region:left
 sleep:5
-color:194;194;194, region:left
+color:194;194;194,region:left
 sleep:5
-color:195;195;195, region:left
+color:195;195;195,region:left
 sleep:5
-color:196;196;196, region:left
+color:196;196;196,region:left
 sleep:5
-color:197;197;197, region:left
+color:197;197;197,region:left
 sleep:5
-color:198;198;198, region:left
+color:198;198;198,region:left
 sleep:5
-color:199;199;199, region:left
+color:199;199;199,region:left
 sleep:5
-color:200;200;200, region:left
+color:200;200;200,region:left
 sleep:5
-color:201;201;201, region:left
+color:201;201;201,region:left
 sleep:5
-color:202;202;202, region:left
+color:202;202;202,region:left
 sleep:5
-color:203;203;203, region:left
+color:203;203;203,region:left
 sleep:5
-color:204;204;204, region:left
+color:204;204;204,region:left
 sleep:5
-color:205;205;205, region:left
+color:205;205;205,region:left
 sleep:5
-color:206;206;206, region:left
+color:206;206;206,region:left
 sleep:5
-color:207;207;207, region:left
+color:207;207;207,region:left
 sleep:5
-color:208;208;208, region:left
+color:208;208;208,region:left
 sleep:5
-color:209;209;209, region:left
+color:209;209;209,region:left
 sleep:5
-color:210;210;210, region:left
+color:210;210;210,region:left
 sleep:5
-color:211;211;211, region:left
+color:211;211;211,region:left
 sleep:5
-color:212;212;212, region:left
+color:212;212;212,region:left
 sleep:5
-color:213;213;213, region:left
+color:213;213;213,region:left
 sleep:5
-color:214;214;214, region:left
+color:214;214;214,region:left
 sleep:5
-color:215;215;215, region:left
+color:215;215;215,region:left
 sleep:5
-color:216;216;216, region:left
+color:216;216;216,region:left
 sleep:5
-color:217;217;217, region:left
+color:217;217;217,region:left
 sleep:5
-color:218;218;218, region:left
+color:218;218;218,region:left
 sleep:5
-color:219;219;219, region:left
+color:219;219;219,region:left
 sleep:5
-color:220;220;220, region:left
+color:220;220;220,region:left
 sleep:5
-color:221;221;221, region:left
+color:221;221;221,region:left
 sleep:5
-color:222;222;222, region:left
+color:222;222;222,region:left
 sleep:5
-color:223;223;223, region:left
+color:223;223;223,region:left
 sleep:5
-color:224;224;224, region:left
+color:224;224;224,region:left
 sleep:5
-color:225;225;225, region:left
+color:225;225;225,region:left
 sleep:5
-color:226;226;226, region:left
+color:226;226;226,region:left
 sleep:5
-color:227;227;227, region:left
+color:227;227;227,region:left
 sleep:5
-color:228;228;228, region:left
+color:228;228;228,region:left
 sleep:5
-color:229;229;229, region:left
+color:229;229;229,region:left
 sleep:5
-color:230;230;230, region:left
+color:230;230;230,region:left
 sleep:5
-color:231;231;231, region:left
+color:231;231;231,region:left
 sleep:5
-color:232;232;232, region:left
+color:232;232;232,region:left
 sleep:5
-color:233;233;233, region:left
+color:233;233;233,region:left
 sleep:5
-color:234;234;234, region:left
+color:234;234;234,region:left
 sleep:5
-color:235;235;235, region:left
+color:235;235;235,region:left
 sleep:5
-color:236;236;236, region:left
+color:236;236;236,region:left
 sleep:5
-color:237;237;237, region:left
+color:237;237;237,region:left
 sleep:5
-color:238;238;238, region:left
+color:238;238;238,region:left
 sleep:5
-color:239;239;239, region:left
+color:239;239;239,region:left
 sleep:5
-color:240;240;240, region:left
+color:240;240;240,region:left
 sleep:5
-color:241;241;241, region:left
+color:241;241;241,region:left
 sleep:5
-color:242;242;242, region:left
+color:242;242;242,region:left
 sleep:5
-color:243;243;243, region:left
+color:243;243;243,region:left
 sleep:5
-color:244;244;244, region:left
+color:244;244;244,region:left
 sleep:5
-color:245;245;245, region:left
+color:245;245;245,region:left
 sleep:5
-color:246;246;246, region:left
+color:246;246;246,region:left
 sleep:5
-color:247;247;247, region:left
+color:247;247;247,region:left
 sleep:5
-color:248;248;248, region:left
+color:248;248;248,region:left
 sleep:5
-color:249;249;249, region:left
+color:249;249;249,region:left
 sleep:5
-color:250;250;250, region:left
+color:250;250;250,region:left
 sleep:5
-color:251;251;251, region:left
+color:251;251;251,region:left
 sleep:5
-color:252;252;252, region:left
+color:252;252;252,region:left
 sleep:5
-color:253;253;253, region:left
+color:253;253;253,region:left
 sleep:5
-color:254;254;254, region:left
+color:254;254;254,region:left
 sleep:5
-color:254;254;254, region:left
+color:255;255;255,region:left
 sleep:5
-color:1;1;1, region:middle
+color:255;255;255,region:left
 sleep:5
-color:253;253;253, region:left
+color:0;0;0,region:middle
 sleep:5
-color:2;2;2, region:middle
+color:254;254;254,region:left
 sleep:5
-color:252;252;252, region:left
+color:1;1;1,region:middle
 sleep:5
-color:3;3;3, region:middle
+color:253;253;253,region:left
 sleep:5
-color:251;251;251, region:left
+color:2;2;2,region:middle
 sleep:5
-color:4;4;4, region:middle
+color:252;252;252,region:left
 sleep:5
-color:250;250;250, region:left
+color:3;3;3,region:middle
 sleep:5
-color:5;5;5, region:middle
+color:251;251;251,region:left
 sleep:5
-color:249;249;249, region:left
+color:4;4;4,region:middle
 sleep:5
-color:6;6;6, region:middle
+color:250;250;250,region:left
 sleep:5
-color:248;248;248, region:left
+color:5;5;5,region:middle
 sleep:5
-color:7;7;7, region:middle
+color:249;249;249,region:left
 sleep:5
-color:247;247;247, region:left
+color:6;6;6,region:middle
 sleep:5
-color:8;8;8, region:middle
+color:248;248;248,region:left
 sleep:5
-color:246;246;246, region:left
+color:7;7;7,region:middle
 sleep:5
-color:9;9;9, region:middle
+color:247;247;247,region:left
 sleep:5
-color:245;245;245, region:left
+color:8;8;8,region:middle
 sleep:5
-color:10;10;10, region:middle
+color:246;246;246,region:left
 sleep:5
-color:244;244;244, region:left
+color:9;9;9,region:middle
 sleep:5
-color:11;11;11, region:middle
+color:245;245;245,region:left
 sleep:5
-color:243;243;243, region:left
+color:10;10;10,region:middle
 sleep:5
-color:12;12;12, region:middle
+color:244;244;244,region:left
 sleep:5
-color:242;242;242, region:left
+color:11;11;11,region:middle
 sleep:5
-color:13;13;13, region:middle
+color:243;243;243,region:left
 sleep:5
-color:241;241;241, region:left
+color:12;12;12,region:middle
 sleep:5
-color:14;14;14, region:middle
+color:242;242;242,region:left
 sleep:5
-color:240;240;240, region:left
+color:13;13;13,region:middle
 sleep:5
-color:15;15;15, region:middle
+color:241;241;241,region:left
 sleep:5
-color:239;239;239, region:left
+color:14;14;14,region:middle
 sleep:5
-color:16;16;16, region:middle
+color:240;240;240,region:left
 sleep:5
-color:238;238;238, region:left
+color:15;15;15,region:middle
 sleep:5
-color:17;17;17, region:middle
+color:239;239;239,region:left
 sleep:5
-color:237;237;237, region:left
+color:16;16;16,region:middle
 sleep:5
-color:18;18;18, region:middle
+color:238;238;238,region:left
 sleep:5
-color:236;236;236, region:left
+color:17;17;17,region:middle
 sleep:5
-color:19;19;19, region:middle
+color:237;237;237,region:left
 sleep:5
-color:235;235;235, region:left
+color:18;18;18,region:middle
 sleep:5
-color:20;20;20, region:middle
+color:236;236;236,region:left
 sleep:5
-color:234;234;234, region:left
+color:19;19;19,region:middle
 sleep:5
-color:21;21;21, region:middle
+color:235;235;235,region:left
 sleep:5
-color:233;233;233, region:left
+color:20;20;20,region:middle
 sleep:5
-color:22;22;22, region:middle
+color:234;234;234,region:left
 sleep:5
-color:232;232;232, region:left
+color:21;21;21,region:middle
 sleep:5
-color:23;23;23, region:middle
+color:233;233;233,region:left
 sleep:5
-color:231;231;231, region:left
+color:22;22;22,region:middle
 sleep:5
-color:24;24;24, region:middle
+color:232;232;232,region:left
 sleep:5
-color:230;230;230, region:left
+color:23;23;23,region:middle
 sleep:5
-color:25;25;25, region:middle
+color:231;231;231,region:left
 sleep:5
-color:229;229;229, region:left
+color:24;24;24,region:middle
 sleep:5
-color:26;26;26, region:middle
+color:230;230;230,region:left
 sleep:5
-color:228;228;228, region:left
+color:25;25;25,region:middle
 sleep:5
-color:27;27;27, region:middle
+color:229;229;229,region:left
 sleep:5
-color:227;227;227, region:left
+color:26;26;26,region:middle
 sleep:5
-color:28;28;28, region:middle
+color:228;228;228,region:left
 sleep:5
-color:226;226;226, region:left
+color:27;27;27,region:middle
 sleep:5
-color:29;29;29, region:middle
+color:227;227;227,region:left
 sleep:5
-color:225;225;225, region:left
+color:28;28;28,region:middle
 sleep:5
-color:30;30;30, region:middle
+color:226;226;226,region:left
 sleep:5
-color:224;224;224, region:left
+color:29;29;29,region:middle
 sleep:5
-color:31;31;31, region:middle
+color:225;225;225,region:left
 sleep:5
-color:223;223;223, region:left
+color:30;30;30,region:middle
 sleep:5
-color:32;32;32, region:middle
+color:224;224;224,region:left
 sleep:5
-color:222;222;222, region:left
+color:31;31;31,region:middle
 sleep:5
-color:33;33;33, region:middle
+color:223;223;223,region:left
 sleep:5
-color:221;221;221, region:left
+color:32;32;32,region:middle
 sleep:5
-color:34;34;34, region:middle
+color:222;222;222,region:left
 sleep:5
-color:220;220;220, region:left
+color:33;33;33,region:middle
 sleep:5
-color:35;35;35, region:middle
+color:221;221;221,region:left
 sleep:5
-color:219;219;219, region:left
+color:34;34;34,region:middle
 sleep:5
-color:36;36;36, region:middle
+color:220;220;220,region:left
 sleep:5
-color:218;218;218, region:left
+color:35;35;35,region:middle
 sleep:5
-color:37;37;37, region:middle
+color:219;219;219,region:left
 sleep:5
-color:217;217;217, region:left
+color:36;36;36,region:middle
 sleep:5
-color:38;38;38, region:middle
+color:218;218;218,region:left
 sleep:5
-color:216;216;216, region:left
+color:37;37;37,region:middle
 sleep:5
-color:39;39;39, region:middle
+color:217;217;217,region:left
 sleep:5
-color:215;215;215, region:left
+color:38;38;38,region:middle
 sleep:5
-color:40;40;40, region:middle
+color:216;216;216,region:left
 sleep:5
-color:214;214;214, region:left
+color:39;39;39,region:middle
 sleep:5
-color:41;41;41, region:middle
+color:215;215;215,region:left
 sleep:5
-color:213;213;213, region:left
+color:40;40;40,region:middle
 sleep:5
-color:42;42;42, region:middle
+color:214;214;214,region:left
 sleep:5
-color:212;212;212, region:left
+color:41;41;41,region:middle
 sleep:5
-color:43;43;43, region:middle
+color:213;213;213,region:left
 sleep:5
-color:211;211;211, region:left
+color:42;42;42,region:middle
 sleep:5
-color:44;44;44, region:middle
+color:212;212;212,region:left
 sleep:5
-color:210;210;210, region:left
+color:43;43;43,region:middle
 sleep:5
-color:45;45;45, region:middle
+color:211;211;211,region:left
 sleep:5
-color:209;209;209, region:left
+color:44;44;44,region:middle
 sleep:5
-color:46;46;46, region:middle
+color:210;210;210,region:left
 sleep:5
-color:208;208;208, region:left
+color:45;45;45,region:middle
 sleep:5
-color:47;47;47, region:middle
+color:209;209;209,region:left
 sleep:5
-color:207;207;207, region:left
+color:46;46;46,region:middle
 sleep:5
-color:48;48;48, region:middle
+color:208;208;208,region:left
 sleep:5
-color:206;206;206, region:left
+color:47;47;47,region:middle
 sleep:5
-color:49;49;49, region:middle
+color:207;207;207,region:left
 sleep:5
-color:205;205;205, region:left
+color:48;48;48,region:middle
 sleep:5
-color:50;50;50, region:middle
+color:206;206;206,region:left
 sleep:5
-color:204;204;204, region:left
+color:49;49;49,region:middle
 sleep:5
-color:51;51;51, region:middle
+color:205;205;205,region:left
 sleep:5
-color:203;203;203, region:left
+color:50;50;50,region:middle
 sleep:5
-color:52;52;52, region:middle
+color:204;204;204,region:left
 sleep:5
-color:202;202;202, region:left
+color:51;51;51,region:middle
 sleep:5
-color:53;53;53, region:middle
+color:203;203;203,region:left
 sleep:5
-color:201;201;201, region:left
+color:52;52;52,region:middle
 sleep:5
-color:54;54;54, region:middle
+color:202;202;202,region:left
 sleep:5
-color:200;200;200, region:left
+color:53;53;53,region:middle
 sleep:5
-color:55;55;55, region:middle
+color:201;201;201,region:left
 sleep:5
-color:199;199;199, region:left
+color:54;54;54,region:middle
 sleep:5
-color:56;56;56, region:middle
+color:200;200;200,region:left
 sleep:5
-color:198;198;198, region:left
+color:55;55;55,region:middle
 sleep:5
-color:57;57;57, region:middle
+color:199;199;199,region:left
 sleep:5
-color:197;197;197, region:left
+color:56;56;56,region:middle
 sleep:5
-color:58;58;58, region:middle
+color:198;198;198,region:left
 sleep:5
-color:196;196;196, region:left
+color:57;57;57,region:middle
 sleep:5
-color:59;59;59, region:middle
+color:197;197;197,region:left
 sleep:5
-color:195;195;195, region:left
+color:58;58;58,region:middle
 sleep:5
-color:60;60;60, region:middle
+color:196;196;196,region:left
 sleep:5
-color:194;194;194, region:left
+color:59;59;59,region:middle
 sleep:5
-color:61;61;61, region:middle
+color:195;195;195,region:left
 sleep:5
-color:193;193;193, region:left
+color:60;60;60,region:middle
 sleep:5
-color:62;62;62, region:middle
+color:194;194;194,region:left
 sleep:5
-color:192;192;192, region:left
+color:61;61;61,region:middle
 sleep:5
-color:63;63;63, region:middle
+color:193;193;193,region:left
 sleep:5
-color:191;191;191, region:left
+color:62;62;62,region:middle
 sleep:5
-color:64;64;64, region:middle
+color:192;192;192,region:left
 sleep:5
-color:190;190;190, region:left
+color:63;63;63,region:middle
 sleep:5
-color:65;65;65, region:middle
+color:191;191;191,region:left
 sleep:5
-color:189;189;189, region:left
+color:64;64;64,region:middle
 sleep:5
-color:66;66;66, region:middle
+color:190;190;190,region:left
 sleep:5
-color:188;188;188, region:left
+color:65;65;65,region:middle
 sleep:5
-color:67;67;67, region:middle
+color:189;189;189,region:left
 sleep:5
-color:187;187;187, region:left
+color:66;66;66,region:middle
 sleep:5
-color:68;68;68, region:middle
+color:188;188;188,region:left
 sleep:5
-color:186;186;186, region:left
+color:67;67;67,region:middle
 sleep:5
-color:69;69;69, region:middle
+color:187;187;187,region:left
 sleep:5
-color:185;185;185, region:left
+color:68;68;68,region:middle
 sleep:5
-color:70;70;70, region:middle
+color:186;186;186,region:left
 sleep:5
-color:184;184;184, region:left
+color:69;69;69,region:middle
 sleep:5
-color:71;71;71, region:middle
+color:185;185;185,region:left
 sleep:5
-color:183;183;183, region:left
+color:70;70;70,region:middle
 sleep:5
-color:72;72;72, region:middle
+color:184;184;184,region:left
 sleep:5
-color:182;182;182, region:left
+color:71;71;71,region:middle
 sleep:5
-color:73;73;73, region:middle
+color:183;183;183,region:left
 sleep:5
-color:181;181;181, region:left
+color:72;72;72,region:middle
 sleep:5
-color:74;74;74, region:middle
+color:182;182;182,region:left
 sleep:5
-color:180;180;180, region:left
+color:73;73;73,region:middle
 sleep:5
-color:75;75;75, region:middle
+color:181;181;181,region:left
 sleep:5
-color:179;179;179, region:left
+color:74;74;74,region:middle
 sleep:5
-color:76;76;76, region:middle
+color:180;180;180,region:left
 sleep:5
-color:178;178;178, region:left
+color:75;75;75,region:middle
 sleep:5
-color:77;77;77, region:middle
+color:179;179;179,region:left
 sleep:5
-color:177;177;177, region:left
+color:76;76;76,region:middle
 sleep:5
-color:78;78;78, region:middle
+color:178;178;178,region:left
 sleep:5
-color:176;176;176, region:left
+color:77;77;77,region:middle
 sleep:5
-color:79;79;79, region:middle
+color:177;177;177,region:left
 sleep:5
-color:175;175;175, region:left
+color:78;78;78,region:middle
 sleep:5
-color:80;80;80, region:middle
+color:176;176;176,region:left
 sleep:5
-color:174;174;174, region:left
+color:79;79;79,region:middle
 sleep:5
-color:81;81;81, region:middle
+color:175;175;175,region:left
 sleep:5
-color:173;173;173, region:left
+color:80;80;80,region:middle
 sleep:5
-color:82;82;82, region:middle
+color:174;174;174,region:left
 sleep:5
-color:172;172;172, region:left
+color:81;81;81,region:middle
 sleep:5
-color:83;83;83, region:middle
+color:173;173;173,region:left
 sleep:5
-color:171;171;171, region:left
+color:82;82;82,region:middle
 sleep:5
-color:84;84;84, region:middle
+color:172;172;172,region:left
 sleep:5
-color:170;170;170, region:left
+color:83;83;83,region:middle
 sleep:5
-color:85;85;85, region:middle
+color:171;171;171,region:left
 sleep:5
-color:169;169;169, region:left
+color:84;84;84,region:middle
 sleep:5
-color:86;86;86, region:middle
+color:170;170;170,region:left
 sleep:5
-color:168;168;168, region:left
+color:85;85;85,region:middle
 sleep:5
-color:87;87;87, region:middle
+color:169;169;169,region:left
 sleep:5
-color:167;167;167, region:left
+color:86;86;86,region:middle
 sleep:5
-color:88;88;88, region:middle
+color:168;168;168,region:left
 sleep:5
-color:166;166;166, region:left
+color:87;87;87,region:middle
 sleep:5
-color:89;89;89, region:middle
+color:167;167;167,region:left
 sleep:5
-color:165;165;165, region:left
+color:88;88;88,region:middle
 sleep:5
-color:90;90;90, region:middle
+color:166;166;166,region:left
 sleep:5
-color:164;164;164, region:left
+color:89;89;89,region:middle
 sleep:5
-color:91;91;91, region:middle
+color:165;165;165,region:left
 sleep:5
-color:163;163;163, region:left
+color:90;90;90,region:middle
 sleep:5
-color:92;92;92, region:middle
+color:164;164;164,region:left
 sleep:5
-color:162;162;162, region:left
+color:91;91;91,region:middle
 sleep:5
-color:93;93;93, region:middle
+color:163;163;163,region:left
 sleep:5
-color:161;161;161, region:left
+color:92;92;92,region:middle
 sleep:5
-color:94;94;94, region:middle
+color:162;162;162,region:left
 sleep:5
-color:160;160;160, region:left
+color:93;93;93,region:middle
 sleep:5
-color:95;95;95, region:middle
+color:161;161;161,region:left
 sleep:5
-color:159;159;159, region:left
+color:94;94;94,region:middle
 sleep:5
-color:96;96;96, region:middle
+color:160;160;160,region:left
 sleep:5
-color:158;158;158, region:left
+color:95;95;95,region:middle
 sleep:5
-color:97;97;97, region:middle
+color:159;159;159,region:left
 sleep:5
-color:157;157;157, region:left
+color:96;96;96,region:middle
 sleep:5
-color:98;98;98, region:middle
+color:158;158;158,region:left
 sleep:5
-color:156;156;156, region:left
+color:97;97;97,region:middle
 sleep:5
-color:99;99;99, region:middle
+color:157;157;157,region:left
 sleep:5
-color:155;155;155, region:left
+color:98;98;98,region:middle
 sleep:5
-color:100;100;100, region:middle
+color:156;156;156,region:left
 sleep:5
-color:154;154;154, region:left
+color:99;99;99,region:middle
 sleep:5
-color:101;101;101, region:middle
+color:155;155;155,region:left
 sleep:5
-color:153;153;153, region:left
+color:100;100;100,region:middle
 sleep:5
-color:102;102;102, region:middle
+color:154;154;154,region:left
 sleep:5
-color:152;152;152, region:left
+color:101;101;101,region:middle
 sleep:5
-color:103;103;103, region:middle
+color:153;153;153,region:left
 sleep:5
-color:151;151;151, region:left
+color:102;102;102,region:middle
 sleep:5
-color:104;104;104, region:middle
+color:152;152;152,region:left
 sleep:5
-color:150;150;150, region:left
+color:103;103;103,region:middle
 sleep:5
-color:105;105;105, region:middle
+color:151;151;151,region:left
 sleep:5
-color:149;149;149, region:left
+color:104;104;104,region:middle
 sleep:5
-color:106;106;106, region:middle
+color:150;150;150,region:left
 sleep:5
-color:148;148;148, region:left
+color:105;105;105,region:middle
 sleep:5
-color:107;107;107, region:middle
+color:149;149;149,region:left
 sleep:5
-color:147;147;147, region:left
+color:106;106;106,region:middle
 sleep:5
-color:108;108;108, region:middle
+color:148;148;148,region:left
 sleep:5
-color:146;146;146, region:left
+color:107;107;107,region:middle
 sleep:5
-color:109;109;109, region:middle
+color:147;147;147,region:left
 sleep:5
-color:145;145;145, region:left
+color:108;108;108,region:middle
 sleep:5
-color:110;110;110, region:middle
+color:146;146;146,region:left
 sleep:5
-color:144;144;144, region:left
+color:109;109;109,region:middle
 sleep:5
-color:111;111;111, region:middle
+color:145;145;145,region:left
 sleep:5
-color:143;143;143, region:left
+color:110;110;110,region:middle
 sleep:5
-color:112;112;112, region:middle
+color:144;144;144,region:left
 sleep:5
-color:142;142;142, region:left
+color:111;111;111,region:middle
 sleep:5
-color:113;113;113, region:middle
+color:143;143;143,region:left
 sleep:5
-color:141;141;141, region:left
+color:112;112;112,region:middle
 sleep:5
-color:114;114;114, region:middle
+color:142;142;142,region:left
 sleep:5
-color:140;140;140, region:left
+color:113;113;113,region:middle
 sleep:5
-color:115;115;115, region:middle
+color:141;141;141,region:left
 sleep:5
-color:139;139;139, region:left
+color:114;114;114,region:middle
 sleep:5
-color:116;116;116, region:middle
+color:140;140;140,region:left
 sleep:5
-color:138;138;138, region:left
+color:115;115;115,region:middle
 sleep:5
-color:117;117;117, region:middle
+color:139;139;139,region:left
 sleep:5
-color:137;137;137, region:left
+color:116;116;116,region:middle
 sleep:5
-color:118;118;118, region:middle
+color:138;138;138,region:left
 sleep:5
-color:136;136;136, region:left
+color:117;117;117,region:middle
 sleep:5
-color:119;119;119, region:middle
+color:137;137;137,region:left
 sleep:5
-color:135;135;135, region:left
+color:118;118;118,region:middle
 sleep:5
-color:120;120;120, region:middle
+color:136;136;136,region:left
 sleep:5
-color:134;134;134, region:left
+color:119;119;119,region:middle
 sleep:5
-color:121;121;121, region:middle
+color:135;135;135,region:left
 sleep:5
-color:133;133;133, region:left
+color:120;120;120,region:middle
 sleep:5
-color:122;122;122, region:middle
+color:134;134;134,region:left
 sleep:5
-color:132;132;132, region:left
+color:121;121;121,region:middle
 sleep:5
-color:123;123;123, region:middle
+color:133;133;133,region:left
 sleep:5
-color:131;131;131, region:left
+color:122;122;122,region:middle
 sleep:5
-color:124;124;124, region:middle
+color:132;132;132,region:left
 sleep:5
-color:130;130;130, region:left
+color:123;123;123,region:middle
 sleep:5
-color:125;125;125, region:middle
+color:131;131;131,region:left
 sleep:5
-color:129;129;129, region:left
+color:124;124;124,region:middle
 sleep:5
-color:126;126;126, region:middle
+color:130;130;130,region:left
 sleep:5
-color:128;128;128, region:left
+color:125;125;125,region:middle
 sleep:5
-color:127;127;127, region:middle
+color:129;129;129,region:left
 sleep:5
-color:127;127;127, region:left
+color:126;126;126,region:middle
 sleep:5
-color:128;128;128, region:middle
+color:128;128;128,region:left
 sleep:5
-color:126;126;126, region:left
+color:127;127;127,region:middle
 sleep:5
-color:129;129;129, region:middle
+color:127;127;127,region:left
 sleep:5
-color:125;125;125, region:left
+color:128;128;128,region:middle
 sleep:5
-color:130;130;130, region:middle
+color:126;126;126,region:left
 sleep:5
-color:124;124;124, region:left
+color:129;129;129,region:middle
 sleep:5
-color:131;131;131, region:middle
+color:125;125;125,region:left
 sleep:5
-color:123;123;123, region:left
+color:130;130;130,region:middle
 sleep:5
-color:132;132;132, region:middle
+color:124;124;124,region:left
 sleep:5
-color:122;122;122, region:left
+color:131;131;131,region:middle
 sleep:5
-color:133;133;133, region:middle
+color:123;123;123,region:left
 sleep:5
-color:121;121;121, region:left
+color:132;132;132,region:middle
 sleep:5
-color:134;134;134, region:middle
+color:122;122;122,region:left
 sleep:5
-color:120;120;120, region:left
+color:133;133;133,region:middle
 sleep:5
-color:135;135;135, region:middle
+color:121;121;121,region:left
 sleep:5
-color:119;119;119, region:left
+color:134;134;134,region:middle
 sleep:5
-color:136;136;136, region:middle
+color:120;120;120,region:left
 sleep:5
-color:118;118;118, region:left
+color:135;135;135,region:middle
 sleep:5
-color:137;137;137, region:middle
+color:119;119;119,region:left
 sleep:5
-color:117;117;117, region:left
+color:136;136;136,region:middle
 sleep:5
-color:138;138;138, region:middle
+color:118;118;118,region:left
 sleep:5
-color:116;116;116, region:left
+color:137;137;137,region:middle
 sleep:5
-color:139;139;139, region:middle
+color:117;117;117,region:left
 sleep:5
-color:115;115;115, region:left
+color:138;138;138,region:middle
 sleep:5
-color:140;140;140, region:middle
+color:116;116;116,region:left
 sleep:5
-color:114;114;114, region:left
+color:139;139;139,region:middle
 sleep:5
-color:141;141;141, region:middle
+color:115;115;115,region:left
 sleep:5
-color:113;113;113, region:left
+color:140;140;140,region:middle
 sleep:5
-color:142;142;142, region:middle
+color:114;114;114,region:left
 sleep:5
-color:112;112;112, region:left
+color:141;141;141,region:middle
 sleep:5
-color:143;143;143, region:middle
+color:113;113;113,region:left
 sleep:5
-color:111;111;111, region:left
+color:142;142;142,region:middle
 sleep:5
-color:144;144;144, region:middle
+color:112;112;112,region:left
 sleep:5
-color:110;110;110, region:left
+color:143;143;143,region:middle
 sleep:5
-color:145;145;145, region:middle
+color:111;111;111,region:left
 sleep:5
-color:109;109;109, region:left
+color:144;144;144,region:middle
 sleep:5
-color:146;146;146, region:middle
+color:110;110;110,region:left
 sleep:5
-color:108;108;108, region:left
+color:145;145;145,region:middle
 sleep:5
-color:147;147;147, region:middle
+color:109;109;109,region:left
 sleep:5
-color:107;107;107, region:left
+color:146;146;146,region:middle
 sleep:5
-color:148;148;148, region:middle
+color:108;108;108,region:left
 sleep:5
-color:106;106;106, region:left
+color:147;147;147,region:middle
 sleep:5
-color:149;149;149, region:middle
+color:107;107;107,region:left
 sleep:5
-color:105;105;105, region:left
+color:148;148;148,region:middle
 sleep:5
-color:150;150;150, region:middle
+color:106;106;106,region:left
 sleep:5
-color:104;104;104, region:left
+color:149;149;149,region:middle
 sleep:5
-color:151;151;151, region:middle
+color:105;105;105,region:left
 sleep:5
-color:103;103;103, region:left
+color:150;150;150,region:middle
 sleep:5
-color:152;152;152, region:middle
+color:104;104;104,region:left
 sleep:5
-color:102;102;102, region:left
+color:151;151;151,region:middle
 sleep:5
-color:153;153;153, region:middle
+color:103;103;103,region:left
 sleep:5
-color:101;101;101, region:left
+color:152;152;152,region:middle
 sleep:5
-color:154;154;154, region:middle
+color:102;102;102,region:left
 sleep:5
-color:100;100;100, region:left
+color:153;153;153,region:middle
 sleep:5
-color:155;155;155, region:middle
+color:101;101;101,region:left
 sleep:5
-color:99;99;99, region:left
+color:154;154;154,region:middle
 sleep:5
-color:156;156;156, region:middle
+color:100;100;100,region:left
 sleep:5
-color:98;98;98, region:left
+color:155;155;155,region:middle
 sleep:5
-color:157;157;157, region:middle
+color:99;99;99,region:left
 sleep:5
-color:97;97;97, region:left
+color:156;156;156,region:middle
 sleep:5
-color:158;158;158, region:middle
+color:98;98;98,region:left
 sleep:5
-color:96;96;96, region:left
+color:157;157;157,region:middle
 sleep:5
-color:159;159;159, region:middle
+color:97;97;97,region:left
 sleep:5
-color:95;95;95, region:left
+color:158;158;158,region:middle
 sleep:5
-color:160;160;160, region:middle
+color:96;96;96,region:left
 sleep:5
-color:94;94;94, region:left
+color:159;159;159,region:middle
 sleep:5
-color:161;161;161, region:middle
+color:95;95;95,region:left
 sleep:5
-color:93;93;93, region:left
+color:160;160;160,region:middle
 sleep:5
-color:162;162;162, region:middle
+color:94;94;94,region:left
 sleep:5
-color:92;92;92, region:left
+color:161;161;161,region:middle
 sleep:5
-color:163;163;163, region:middle
+color:93;93;93,region:left
 sleep:5
-color:91;91;91, region:left
+color:162;162;162,region:middle
 sleep:5
-color:164;164;164, region:middle
+color:92;92;92,region:left
 sleep:5
-color:90;90;90, region:left
+color:163;163;163,region:middle
 sleep:5
-color:165;165;165, region:middle
+color:91;91;91,region:left
 sleep:5
-color:89;89;89, region:left
+color:164;164;164,region:middle
 sleep:5
-color:166;166;166, region:middle
+color:90;90;90,region:left
 sleep:5
-color:88;88;88, region:left
+color:165;165;165,region:middle
 sleep:5
-color:167;167;167, region:middle
+color:89;89;89,region:left
 sleep:5
-color:87;87;87, region:left
+color:166;166;166,region:middle
 sleep:5
-color:168;168;168, region:middle
+color:88;88;88,region:left
 sleep:5
-color:86;86;86, region:left
+color:167;167;167,region:middle
 sleep:5
-color:169;169;169, region:middle
+color:87;87;87,region:left
 sleep:5
-color:85;85;85, region:left
+color:168;168;168,region:middle
 sleep:5
-color:170;170;170, region:middle
+color:86;86;86,region:left
 sleep:5
-color:84;84;84, region:left
+color:169;169;169,region:middle
 sleep:5
-color:171;171;171, region:middle
+color:85;85;85,region:left
 sleep:5
-color:83;83;83, region:left
+color:170;170;170,region:middle
 sleep:5
-color:172;172;172, region:middle
+color:84;84;84,region:left
 sleep:5
-color:82;82;82, region:left
+color:171;171;171,region:middle
 sleep:5
-color:173;173;173, region:middle
+color:83;83;83,region:left
 sleep:5
-color:81;81;81, region:left
+color:172;172;172,region:middle
 sleep:5
-color:174;174;174, region:middle
+color:82;82;82,region:left
 sleep:5
-color:80;80;80, region:left
+color:173;173;173,region:middle
 sleep:5
-color:175;175;175, region:middle
+color:81;81;81,region:left
 sleep:5
-color:79;79;79, region:left
+color:174;174;174,region:middle
 sleep:5
-color:176;176;176, region:middle
+color:80;80;80,region:left
 sleep:5
-color:78;78;78, region:left
+color:175;175;175,region:middle
 sleep:5
-color:177;177;177, region:middle
+color:79;79;79,region:left
 sleep:5
-color:77;77;77, region:left
+color:176;176;176,region:middle
 sleep:5
-color:178;178;178, region:middle
+color:78;78;78,region:left
 sleep:5
-color:76;76;76, region:left
+color:177;177;177,region:middle
 sleep:5
-color:179;179;179, region:middle
+color:77;77;77,region:left
 sleep:5
-color:75;75;75, region:left
+color:178;178;178,region:middle
 sleep:5
-color:180;180;180, region:middle
+color:76;76;76,region:left
 sleep:5
-color:74;74;74, region:left
+color:179;179;179,region:middle
 sleep:5
-color:181;181;181, region:middle
+color:75;75;75,region:left
 sleep:5
-color:73;73;73, region:left
+color:180;180;180,region:middle
 sleep:5
-color:182;182;182, region:middle
+color:74;74;74,region:left
 sleep:5
-color:72;72;72, region:left
+color:181;181;181,region:middle
 sleep:5
-color:183;183;183, region:middle
+color:73;73;73,region:left
 sleep:5
-color:71;71;71, region:left
+color:182;182;182,region:middle
 sleep:5
-color:184;184;184, region:middle
+color:72;72;72,region:left
 sleep:5
-color:70;70;70, region:left
+color:183;183;183,region:middle
 sleep:5
-color:185;185;185, region:middle
+color:71;71;71,region:left
 sleep:5
-color:69;69;69, region:left
+color:184;184;184,region:middle
 sleep:5
-color:186;186;186, region:middle
+color:70;70;70,region:left
 sleep:5
-color:68;68;68, region:left
+color:185;185;185,region:middle
 sleep:5
-color:187;187;187, region:middle
+color:69;69;69,region:left
 sleep:5
-color:67;67;67, region:left
+color:186;186;186,region:middle
 sleep:5
-color:188;188;188, region:middle
+color:68;68;68,region:left
 sleep:5
-color:66;66;66, region:left
+color:187;187;187,region:middle
 sleep:5
-color:189;189;189, region:middle
+color:67;67;67,region:left
 sleep:5
-color:65;65;65, region:left
+color:188;188;188,region:middle
 sleep:5
-color:190;190;190, region:middle
+color:66;66;66,region:left
 sleep:5
-color:64;64;64, region:left
+color:189;189;189,region:middle
 sleep:5
-color:191;191;191, region:middle
+color:65;65;65,region:left
 sleep:5
-color:63;63;63, region:left
+color:190;190;190,region:middle
 sleep:5
-color:192;192;192, region:middle
+color:64;64;64,region:left
 sleep:5
-color:62;62;62, region:left
+color:191;191;191,region:middle
 sleep:5
-color:193;193;193, region:middle
+color:63;63;63,region:left
 sleep:5
-color:61;61;61, region:left
+color:192;192;192,region:middle
 sleep:5
-color:194;194;194, region:middle
+color:62;62;62,region:left
 sleep:5
-color:60;60;60, region:left
+color:193;193;193,region:middle
 sleep:5
-color:195;195;195, region:middle
+color:61;61;61,region:left
 sleep:5
-color:59;59;59, region:left
+color:194;194;194,region:middle
 sleep:5
-color:196;196;196, region:middle
+color:60;60;60,region:left
 sleep:5
-color:58;58;58, region:left
+color:195;195;195,region:middle
 sleep:5
-color:197;197;197, region:middle
+color:59;59;59,region:left
 sleep:5
-color:57;57;57, region:left
+color:196;196;196,region:middle
 sleep:5
-color:198;198;198, region:middle
+color:58;58;58,region:left
 sleep:5
-color:56;56;56, region:left
+color:197;197;197,region:middle
 sleep:5
-color:199;199;199, region:middle
+color:57;57;57,region:left
 sleep:5
-color:55;55;55, region:left
+color:198;198;198,region:middle
 sleep:5
-color:200;200;200, region:middle
+color:56;56;56,region:left
 sleep:5
-color:54;54;54, region:left
+color:199;199;199,region:middle
 sleep:5
-color:201;201;201, region:middle
+color:55;55;55,region:left
 sleep:5
-color:53;53;53, region:left
+color:200;200;200,region:middle
 sleep:5
-color:202;202;202, region:middle
+color:54;54;54,region:left
 sleep:5
-color:52;52;52, region:left
+color:201;201;201,region:middle
 sleep:5
-color:203;203;203, region:middle
+color:53;53;53,region:left
 sleep:5
-color:51;51;51, region:left
+color:202;202;202,region:middle
 sleep:5
-color:204;204;204, region:middle
+color:52;52;52,region:left
 sleep:5
-color:50;50;50, region:left
+color:203;203;203,region:middle
 sleep:5
-color:205;205;205, region:middle
+color:51;51;51,region:left
 sleep:5
-color:49;49;49, region:left
+color:204;204;204,region:middle
 sleep:5
-color:206;206;206, region:middle
+color:50;50;50,region:left
 sleep:5
-color:48;48;48, region:left
+color:205;205;205,region:middle
 sleep:5
-color:207;207;207, region:middle
+color:49;49;49,region:left
 sleep:5
-color:47;47;47, region:left
+color:206;206;206,region:middle
 sleep:5
-color:208;208;208, region:middle
+color:48;48;48,region:left
 sleep:5
-color:46;46;46, region:left
+color:207;207;207,region:middle
 sleep:5
-color:209;209;209, region:middle
+color:47;47;47,region:left
 sleep:5
-color:45;45;45, region:left
+color:208;208;208,region:middle
 sleep:5
-color:210;210;210, region:middle
+color:46;46;46,region:left
 sleep:5
-color:44;44;44, region:left
+color:209;209;209,region:middle
 sleep:5
-color:211;211;211, region:middle
+color:45;45;45,region:left
 sleep:5
-color:43;43;43, region:left
+color:210;210;210,region:middle
 sleep:5
-color:212;212;212, region:middle
+color:44;44;44,region:left
 sleep:5
-color:42;42;42, region:left
+color:211;211;211,region:middle
 sleep:5
-color:213;213;213, region:middle
+color:43;43;43,region:left
 sleep:5
-color:41;41;41, region:left
+color:212;212;212,region:middle
 sleep:5
-color:214;214;214, region:middle
+color:42;42;42,region:left
 sleep:5
-color:40;40;40, region:left
+color:213;213;213,region:middle
 sleep:5
-color:215;215;215, region:middle
+color:41;41;41,region:left
 sleep:5
-color:39;39;39, region:left
+color:214;214;214,region:middle
 sleep:5
-color:216;216;216, region:middle
+color:40;40;40,region:left
 sleep:5
-color:38;38;38, region:left
+color:215;215;215,region:middle
 sleep:5
-color:217;217;217, region:middle
+color:39;39;39,region:left
 sleep:5
-color:37;37;37, region:left
+color:216;216;216,region:middle
 sleep:5
-color:218;218;218, region:middle
+color:38;38;38,region:left
 sleep:5
-color:36;36;36, region:left
+color:217;217;217,region:middle
 sleep:5
-color:219;219;219, region:middle
+color:37;37;37,region:left
 sleep:5
-color:35;35;35, region:left
+color:218;218;218,region:middle
 sleep:5
-color:220;220;220, region:middle
+color:36;36;36,region:left
 sleep:5
-color:34;34;34, region:left
+color:219;219;219,region:middle
 sleep:5
-color:221;221;221, region:middle
+color:35;35;35,region:left
 sleep:5
-color:33;33;33, region:left
+color:220;220;220,region:middle
 sleep:5
-color:222;222;222, region:middle
+color:34;34;34,region:left
 sleep:5
-color:32;32;32, region:left
+color:221;221;221,region:middle
 sleep:5
-color:223;223;223, region:middle
+color:33;33;33,region:left
 sleep:5
-color:31;31;31, region:left
+color:222;222;222,region:middle
 sleep:5
-color:224;224;224, region:middle
+color:32;32;32,region:left
 sleep:5
-color:30;30;30, region:left
+color:223;223;223,region:middle
 sleep:5
-color:225;225;225, region:middle
+color:31;31;31,region:left
 sleep:5
-color:29;29;29, region:left
+color:224;224;224,region:middle
 sleep:5
-color:226;226;226, region:middle
+color:30;30;30,region:left
 sleep:5
-color:28;28;28, region:left
+color:225;225;225,region:middle
 sleep:5
-color:227;227;227, region:middle
+color:29;29;29,region:left
 sleep:5
-color:27;27;27, region:left
+color:226;226;226,region:middle
 sleep:5
-color:228;228;228, region:middle
+color:28;28;28,region:left
 sleep:5
-color:26;26;26, region:left
+color:227;227;227,region:middle
 sleep:5
-color:229;229;229, region:middle
+color:27;27;27,region:left
 sleep:5
-color:25;25;25, region:left
+color:228;228;228,region:middle
 sleep:5
-color:230;230;230, region:middle
+color:26;26;26,region:left
 sleep:5
-color:24;24;24, region:left
+color:229;229;229,region:middle
 sleep:5
-color:231;231;231, region:middle
+color:25;25;25,region:left
 sleep:5
-color:23;23;23, region:left
+color:230;230;230,region:middle
 sleep:5
-color:232;232;232, region:middle
+color:24;24;24,region:left
 sleep:5
-color:22;22;22, region:left
+color:231;231;231,region:middle
 sleep:5
-color:233;233;233, region:middle
+color:23;23;23,region:left
 sleep:5
-color:21;21;21, region:left
+color:232;232;232,region:middle
 sleep:5
-color:234;234;234, region:middle
+color:22;22;22,region:left
 sleep:5
-color:20;20;20, region:left
+color:233;233;233,region:middle
 sleep:5
-color:235;235;235, region:middle
+color:21;21;21,region:left
 sleep:5
-color:19;19;19, region:left
+color:234;234;234,region:middle
 sleep:5
-color:236;236;236, region:middle
+color:20;20;20,region:left
 sleep:5
-color:18;18;18, region:left
+color:235;235;235,region:middle
 sleep:5
-color:237;237;237, region:middle
+color:19;19;19,region:left
 sleep:5
-color:17;17;17, region:left
+color:236;236;236,region:middle
 sleep:5
-color:238;238;238, region:middle
+color:18;18;18,region:left
 sleep:5
-color:16;16;16, region:left
+color:237;237;237,region:middle
 sleep:5
-color:239;239;239, region:middle
+color:17;17;17,region:left
 sleep:5
-color:15;15;15, region:left
+color:238;238;238,region:middle
 sleep:5
-color:240;240;240, region:middle
+color:16;16;16,region:left
 sleep:5
-color:14;14;14, region:left
+color:239;239;239,region:middle
 sleep:5
-color:241;241;241, region:middle
+color:15;15;15,region:left
 sleep:5
-color:13;13;13, region:left
+color:240;240;240,region:middle
 sleep:5
-color:242;242;242, region:middle
+color:14;14;14,region:left
 sleep:5
-color:12;12;12, region:left
+color:241;241;241,region:middle
 sleep:5
-color:243;243;243, region:middle
+color:13;13;13,region:left
 sleep:5
-color:11;11;11, region:left
+color:242;242;242,region:middle
 sleep:5
-color:244;244;244, region:middle
+color:12;12;12,region:left
 sleep:5
-color:10;10;10, region:left
+color:243;243;243,region:middle
 sleep:5
-color:245;245;245, region:middle
+color:11;11;11,region:left
 sleep:5
-color:9;9;9, region:left
+color:244;244;244,region:middle
 sleep:5
-color:246;246;246, region:middle
+color:10;10;10,region:left
 sleep:5
-color:8;8;8, region:left
+color:245;245;245,region:middle
 sleep:5
-color:247;247;247, region:middle
+color:9;9;9,region:left
 sleep:5
-color:7;7;7, region:left
+color:246;246;246,region:middle
 sleep:5
-color:248;248;248, region:middle
+color:8;8;8,region:left
 sleep:5
-color:6;6;6, region:left
+color:247;247;247,region:middle
 sleep:5
-color:249;249;249, region:middle
+color:7;7;7,region:left
 sleep:5
-color:5;5;5, region:left
+color:248;248;248,region:middle
 sleep:5
-color:250;250;250, region:middle
+color:6;6;6,region:left
 sleep:5
-color:4;4;4, region:left
+color:249;249;249,region:middle
 sleep:5
-color:251;251;251, region:middle
+color:5;5;5,region:left
 sleep:5
-color:3;3;3, region:left
+color:250;250;250,region:middle
 sleep:5
-color:252;252;252, region:middle
+color:4;4;4,region:left
 sleep:5
-color:2;2;2, region:left
+color:251;251;251,region:middle
 sleep:5
-color:253;253;253, region:middle
+color:3;3;3,region:left
 sleep:5
-color:1;1;1, region:left
+color:252;252;252,region:middle
 sleep:5
-color:254;254;254, region:middle
+color:2;2;2,region:left
 sleep:5
-color:0;0;0, region:left
+color:253;253;253,region:middle
 sleep:5
-color:255;255;255, region:middle
+color:1;1;1,region:left
 sleep:5
-color:254;254;254, region:middle
+color:254;254;254,region:middle
 sleep:5
-color:1;1;1, region:right
+color:0;0;0,region:left
 sleep:5
-color:253;253;253, region:middle
+color:255;255;255,region:middle
 sleep:5
-color:2;2;2, region:right
+color:255;255;255,region:middle
 sleep:5
-color:252;252;252, region:middle
+color:0;0;0,region:right
 sleep:5
-color:3;3;3, region:right
+color:254;254;254,region:middle
 sleep:5
-color:251;251;251, region:middle
+color:1;1;1,region:right
 sleep:5
-color:4;4;4, region:right
+color:253;253;253,region:middle
 sleep:5
-color:250;250;250, region:middle
+color:2;2;2,region:right
 sleep:5
-color:5;5;5, region:right
+color:252;252;252,region:middle
 sleep:5
-color:249;249;249, region:middle
+color:3;3;3,region:right
 sleep:5
-color:6;6;6, region:right
+color:251;251;251,region:middle
 sleep:5
-color:248;248;248, region:middle
+color:4;4;4,region:right
 sleep:5
-color:7;7;7, region:right
+color:250;250;250,region:middle
 sleep:5
-color:247;247;247, region:middle
+color:5;5;5,region:right
 sleep:5
-color:8;8;8, region:right
+color:249;249;249,region:middle
 sleep:5
-color:246;246;246, region:middle
+color:6;6;6,region:right
 sleep:5
-color:9;9;9, region:right
+color:248;248;248,region:middle
 sleep:5
-color:245;245;245, region:middle
+color:7;7;7,region:right
 sleep:5
-color:10;10;10, region:right
+color:247;247;247,region:middle
 sleep:5
-color:244;244;244, region:middle
+color:8;8;8,region:right
 sleep:5
-color:11;11;11, region:right
+color:246;246;246,region:middle
 sleep:5
-color:243;243;243, region:middle
+color:9;9;9,region:right
 sleep:5
-color:12;12;12, region:right
+color:245;245;245,region:middle
 sleep:5
-color:242;242;242, region:middle
+color:10;10;10,region:right
 sleep:5
-color:13;13;13, region:right
+color:244;244;244,region:middle
 sleep:5
-color:241;241;241, region:middle
+color:11;11;11,region:right
 sleep:5
-color:14;14;14, region:right
+color:243;243;243,region:middle
 sleep:5
-color:240;240;240, region:middle
+color:12;12;12,region:right
 sleep:5
-color:15;15;15, region:right
+color:242;242;242,region:middle
 sleep:5
-color:239;239;239, region:middle
+color:13;13;13,region:right
 sleep:5
-color:16;16;16, region:right
+color:241;241;241,region:middle
 sleep:5
-color:238;238;238, region:middle
+color:14;14;14,region:right
 sleep:5
-color:17;17;17, region:right
+color:240;240;240,region:middle
 sleep:5
-color:237;237;237, region:middle
+color:15;15;15,region:right
 sleep:5
-color:18;18;18, region:right
+color:239;239;239,region:middle
 sleep:5
-color:236;236;236, region:middle
+color:16;16;16,region:right
 sleep:5
-color:19;19;19, region:right
+color:238;238;238,region:middle
 sleep:5
-color:235;235;235, region:middle
+color:17;17;17,region:right
 sleep:5
-color:20;20;20, region:right
+color:237;237;237,region:middle
 sleep:5
-color:234;234;234, region:middle
+color:18;18;18,region:right
 sleep:5
-color:21;21;21, region:right
+color:236;236;236,region:middle
 sleep:5
-color:233;233;233, region:middle
+color:19;19;19,region:right
 sleep:5
-color:22;22;22, region:right
+color:235;235;235,region:middle
 sleep:5
-color:232;232;232, region:middle
+color:20;20;20,region:right
 sleep:5
-color:23;23;23, region:right
+color:234;234;234,region:middle
 sleep:5
-color:231;231;231, region:middle
+color:21;21;21,region:right
 sleep:5
-color:24;24;24, region:right
+color:233;233;233,region:middle
 sleep:5
-color:230;230;230, region:middle
+color:22;22;22,region:right
 sleep:5
-color:25;25;25, region:right
+color:232;232;232,region:middle
 sleep:5
-color:229;229;229, region:middle
+color:23;23;23,region:right
 sleep:5
-color:26;26;26, region:right
+color:231;231;231,region:middle
 sleep:5
-color:228;228;228, region:middle
+color:24;24;24,region:right
 sleep:5
-color:27;27;27, region:right
+color:230;230;230,region:middle
 sleep:5
-color:227;227;227, region:middle
+color:25;25;25,region:right
 sleep:5
-color:28;28;28, region:right
+color:229;229;229,region:middle
 sleep:5
-color:226;226;226, region:middle
+color:26;26;26,region:right
 sleep:5
-color:29;29;29, region:right
+color:228;228;228,region:middle
 sleep:5
-color:225;225;225, region:middle
+color:27;27;27,region:right
 sleep:5
-color:30;30;30, region:right
+color:227;227;227,region:middle
 sleep:5
-color:224;224;224, region:middle
+color:28;28;28,region:right
 sleep:5
-color:31;31;31, region:right
+color:226;226;226,region:middle
 sleep:5
-color:223;223;223, region:middle
+color:29;29;29,region:right
 sleep:5
-color:32;32;32, region:right
+color:225;225;225,region:middle
 sleep:5
-color:222;222;222, region:middle
+color:30;30;30,region:right
 sleep:5
-color:33;33;33, region:right
+color:224;224;224,region:middle
 sleep:5
-color:221;221;221, region:middle
+color:31;31;31,region:right
 sleep:5
-color:34;34;34, region:right
+color:223;223;223,region:middle
 sleep:5
-color:220;220;220, region:middle
+color:32;32;32,region:right
 sleep:5
-color:35;35;35, region:right
+color:222;222;222,region:middle
 sleep:5
-color:219;219;219, region:middle
+color:33;33;33,region:right
 sleep:5
-color:36;36;36, region:right
+color:221;221;221,region:middle
 sleep:5
-color:218;218;218, region:middle
+color:34;34;34,region:right
 sleep:5
-color:37;37;37, region:right
+color:220;220;220,region:middle
 sleep:5
-color:217;217;217, region:middle
+color:35;35;35,region:right
 sleep:5
-color:38;38;38, region:right
+color:219;219;219,region:middle
 sleep:5
-color:216;216;216, region:middle
+color:36;36;36,region:right
 sleep:5
-color:39;39;39, region:right
+color:218;218;218,region:middle
 sleep:5
-color:215;215;215, region:middle
+color:37;37;37,region:right
 sleep:5
-color:40;40;40, region:right
+color:217;217;217,region:middle
 sleep:5
-color:214;214;214, region:middle
+color:38;38;38,region:right
 sleep:5
-color:41;41;41, region:right
+color:216;216;216,region:middle
 sleep:5
-color:213;213;213, region:middle
+color:39;39;39,region:right
 sleep:5
-color:42;42;42, region:right
+color:215;215;215,region:middle
 sleep:5
-color:212;212;212, region:middle
+color:40;40;40,region:right
 sleep:5
-color:43;43;43, region:right
+color:214;214;214,region:middle
 sleep:5
-color:211;211;211, region:middle
+color:41;41;41,region:right
 sleep:5
-color:44;44;44, region:right
+color:213;213;213,region:middle
 sleep:5
-color:210;210;210, region:middle
+color:42;42;42,region:right
 sleep:5
-color:45;45;45, region:right
+color:212;212;212,region:middle
 sleep:5
-color:209;209;209, region:middle
+color:43;43;43,region:right
 sleep:5
-color:46;46;46, region:right
+color:211;211;211,region:middle
 sleep:5
-color:208;208;208, region:middle
+color:44;44;44,region:right
 sleep:5
-color:47;47;47, region:right
+color:210;210;210,region:middle
 sleep:5
-color:207;207;207, region:middle
+color:45;45;45,region:right
 sleep:5
-color:48;48;48, region:right
+color:209;209;209,region:middle
 sleep:5
-color:206;206;206, region:middle
+color:46;46;46,region:right
 sleep:5
-color:49;49;49, region:right
+color:208;208;208,region:middle
 sleep:5
-color:205;205;205, region:middle
+color:47;47;47,region:right
 sleep:5
-color:50;50;50, region:right
+color:207;207;207,region:middle
 sleep:5
-color:204;204;204, region:middle
+color:48;48;48,region:right
 sleep:5
-color:51;51;51, region:right
+color:206;206;206,region:middle
 sleep:5
-color:203;203;203, region:middle
+color:49;49;49,region:right
 sleep:5
-color:52;52;52, region:right
+color:205;205;205,region:middle
 sleep:5
-color:202;202;202, region:middle
+color:50;50;50,region:right
 sleep:5
-color:53;53;53, region:right
+color:204;204;204,region:middle
 sleep:5
-color:201;201;201, region:middle
+color:51;51;51,region:right
 sleep:5
-color:54;54;54, region:right
+color:203;203;203,region:middle
 sleep:5
-color:200;200;200, region:middle
+color:52;52;52,region:right
 sleep:5
-color:55;55;55, region:right
+color:202;202;202,region:middle
 sleep:5
-color:199;199;199, region:middle
+color:53;53;53,region:right
 sleep:5
-color:56;56;56, region:right
+color:201;201;201,region:middle
 sleep:5
-color:198;198;198, region:middle
+color:54;54;54,region:right
 sleep:5
-color:57;57;57, region:right
+color:200;200;200,region:middle
 sleep:5
-color:197;197;197, region:middle
+color:55;55;55,region:right
 sleep:5
-color:58;58;58, region:right
+color:199;199;199,region:middle
 sleep:5
-color:196;196;196, region:middle
+color:56;56;56,region:right
 sleep:5
-color:59;59;59, region:right
+color:198;198;198,region:middle
 sleep:5
-color:195;195;195, region:middle
+color:57;57;57,region:right
 sleep:5
-color:60;60;60, region:right
+color:197;197;197,region:middle
 sleep:5
-color:194;194;194, region:middle
+color:58;58;58,region:right
 sleep:5
-color:61;61;61, region:right
+color:196;196;196,region:middle
 sleep:5
-color:193;193;193, region:middle
+color:59;59;59,region:right
 sleep:5
-color:62;62;62, region:right
+color:195;195;195,region:middle
 sleep:5
-color:192;192;192, region:middle
+color:60;60;60,region:right
 sleep:5
-color:63;63;63, region:right
+color:194;194;194,region:middle
 sleep:5
-color:191;191;191, region:middle
+color:61;61;61,region:right
 sleep:5
-color:64;64;64, region:right
+color:193;193;193,region:middle
 sleep:5
-color:190;190;190, region:middle
+color:62;62;62,region:right
 sleep:5
-color:65;65;65, region:right
+color:192;192;192,region:middle
 sleep:5
-color:189;189;189, region:middle
+color:63;63;63,region:right
 sleep:5
-color:66;66;66, region:right
+color:191;191;191,region:middle
 sleep:5
-color:188;188;188, region:middle
+color:64;64;64,region:right
 sleep:5
-color:67;67;67, region:right
+color:190;190;190,region:middle
 sleep:5
-color:187;187;187, region:middle
+color:65;65;65,region:right
 sleep:5
-color:68;68;68, region:right
+color:189;189;189,region:middle
 sleep:5
-color:186;186;186, region:middle
+color:66;66;66,region:right
 sleep:5
-color:69;69;69, region:right
+color:188;188;188,region:middle
 sleep:5
-color:185;185;185, region:middle
+color:67;67;67,region:right
 sleep:5
-color:70;70;70, region:right
+color:187;187;187,region:middle
 sleep:5
-color:184;184;184, region:middle
+color:68;68;68,region:right
 sleep:5
-color:71;71;71, region:right
+color:186;186;186,region:middle
 sleep:5
-color:183;183;183, region:middle
+color:69;69;69,region:right
 sleep:5
-color:72;72;72, region:right
+color:185;185;185,region:middle
 sleep:5
-color:182;182;182, region:middle
+color:70;70;70,region:right
 sleep:5
-color:73;73;73, region:right
+color:184;184;184,region:middle
 sleep:5
-color:181;181;181, region:middle
+color:71;71;71,region:right
 sleep:5
-color:74;74;74, region:right
+color:183;183;183,region:middle
 sleep:5
-color:180;180;180, region:middle
+color:72;72;72,region:right
 sleep:5
-color:75;75;75, region:right
+color:182;182;182,region:middle
 sleep:5
-color:179;179;179, region:middle
+color:73;73;73,region:right
 sleep:5
-color:76;76;76, region:right
+color:181;181;181,region:middle
 sleep:5
-color:178;178;178, region:middle
+color:74;74;74,region:right
 sleep:5
-color:77;77;77, region:right
+color:180;180;180,region:middle
 sleep:5
-color:177;177;177, region:middle
+color:75;75;75,region:right
 sleep:5
-color:78;78;78, region:right
+color:179;179;179,region:middle
 sleep:5
-color:176;176;176, region:middle
+color:76;76;76,region:right
 sleep:5
-color:79;79;79, region:right
+color:178;178;178,region:middle
 sleep:5
-color:175;175;175, region:middle
+color:77;77;77,region:right
 sleep:5
-color:80;80;80, region:right
+color:177;177;177,region:middle
 sleep:5
-color:174;174;174, region:middle
+color:78;78;78,region:right
 sleep:5
-color:81;81;81, region:right
+color:176;176;176,region:middle
 sleep:5
-color:173;173;173, region:middle
+color:79;79;79,region:right
 sleep:5
-color:82;82;82, region:right
+color:175;175;175,region:middle
 sleep:5
-color:172;172;172, region:middle
+color:80;80;80,region:right
 sleep:5
-color:83;83;83, region:right
+color:174;174;174,region:middle
 sleep:5
-color:171;171;171, region:middle
+color:81;81;81,region:right
 sleep:5
-color:84;84;84, region:right
+color:173;173;173,region:middle
 sleep:5
-color:170;170;170, region:middle
+color:82;82;82,region:right
 sleep:5
-color:85;85;85, region:right
+color:172;172;172,region:middle
 sleep:5
-color:169;169;169, region:middle
+color:83;83;83,region:right
 sleep:5
-color:86;86;86, region:right
+color:171;171;171,region:middle
 sleep:5
-color:168;168;168, region:middle
+color:84;84;84,region:right
 sleep:5
-color:87;87;87, region:right
+color:170;170;170,region:middle
 sleep:5
-color:167;167;167, region:middle
+color:85;85;85,region:right
 sleep:5
-color:88;88;88, region:right
+color:169;169;169,region:middle
 sleep:5
-color:166;166;166, region:middle
+color:86;86;86,region:right
 sleep:5
-color:89;89;89, region:right
+color:168;168;168,region:middle
 sleep:5
-color:165;165;165, region:middle
+color:87;87;87,region:right
 sleep:5
-color:90;90;90, region:right
+color:167;167;167,region:middle
 sleep:5
-color:164;164;164, region:middle
+color:88;88;88,region:right
 sleep:5
-color:91;91;91, region:right
+color:166;166;166,region:middle
 sleep:5
-color:163;163;163, region:middle
+color:89;89;89,region:right
 sleep:5
-color:92;92;92, region:right
+color:165;165;165,region:middle
 sleep:5
-color:162;162;162, region:middle
+color:90;90;90,region:right
 sleep:5
-color:93;93;93, region:right
+color:164;164;164,region:middle
 sleep:5
-color:161;161;161, region:middle
+color:91;91;91,region:right
 sleep:5
-color:94;94;94, region:right
+color:163;163;163,region:middle
 sleep:5
-color:160;160;160, region:middle
+color:92;92;92,region:right
 sleep:5
-color:95;95;95, region:right
+color:162;162;162,region:middle
 sleep:5
-color:159;159;159, region:middle
+color:93;93;93,region:right
 sleep:5
-color:96;96;96, region:right
+color:161;161;161,region:middle
 sleep:5
-color:158;158;158, region:middle
+color:94;94;94,region:right
 sleep:5
-color:97;97;97, region:right
+color:160;160;160,region:middle
 sleep:5
-color:157;157;157, region:middle
+color:95;95;95,region:right
 sleep:5
-color:98;98;98, region:right
+color:159;159;159,region:middle
 sleep:5
-color:156;156;156, region:middle
+color:96;96;96,region:right
 sleep:5
-color:99;99;99, region:right
+color:158;158;158,region:middle
 sleep:5
-color:155;155;155, region:middle
+color:97;97;97,region:right
 sleep:5
-color:100;100;100, region:right
+color:157;157;157,region:middle
 sleep:5
-color:154;154;154, region:middle
+color:98;98;98,region:right
 sleep:5
-color:101;101;101, region:right
+color:156;156;156,region:middle
 sleep:5
-color:153;153;153, region:middle
+color:99;99;99,region:right
 sleep:5
-color:102;102;102, region:right
+color:155;155;155,region:middle
 sleep:5
-color:152;152;152, region:middle
+color:100;100;100,region:right
 sleep:5
-color:103;103;103, region:right
+color:154;154;154,region:middle
 sleep:5
-color:151;151;151, region:middle
+color:101;101;101,region:right
 sleep:5
-color:104;104;104, region:right
+color:153;153;153,region:middle
 sleep:5
-color:150;150;150, region:middle
+color:102;102;102,region:right
 sleep:5
-color:105;105;105, region:right
+color:152;152;152,region:middle
 sleep:5
-color:149;149;149, region:middle
+color:103;103;103,region:right
 sleep:5
-color:106;106;106, region:right
+color:151;151;151,region:middle
 sleep:5
-color:148;148;148, region:middle
+color:104;104;104,region:right
 sleep:5
-color:107;107;107, region:right
+color:150;150;150,region:middle
 sleep:5
-color:147;147;147, region:middle
+color:105;105;105,region:right
 sleep:5
-color:108;108;108, region:right
+color:149;149;149,region:middle
 sleep:5
-color:146;146;146, region:middle
+color:106;106;106,region:right
 sleep:5
-color:109;109;109, region:right
+color:148;148;148,region:middle
 sleep:5
-color:145;145;145, region:middle
+color:107;107;107,region:right
 sleep:5
-color:110;110;110, region:right
+color:147;147;147,region:middle
 sleep:5
-color:144;144;144, region:middle
+color:108;108;108,region:right
 sleep:5
-color:111;111;111, region:right
+color:146;146;146,region:middle
 sleep:5
-color:143;143;143, region:middle
+color:109;109;109,region:right
 sleep:5
-color:112;112;112, region:right
+color:145;145;145,region:middle
 sleep:5
-color:142;142;142, region:middle
+color:110;110;110,region:right
 sleep:5
-color:113;113;113, region:right
+color:144;144;144,region:middle
 sleep:5
-color:141;141;141, region:middle
+color:111;111;111,region:right
 sleep:5
-color:114;114;114, region:right
+color:143;143;143,region:middle
 sleep:5
-color:140;140;140, region:middle
+color:112;112;112,region:right
 sleep:5
-color:115;115;115, region:right
+color:142;142;142,region:middle
 sleep:5
-color:139;139;139, region:middle
+color:113;113;113,region:right
 sleep:5
-color:116;116;116, region:right
+color:141;141;141,region:middle
 sleep:5
-color:138;138;138, region:middle
+color:114;114;114,region:right
 sleep:5
-color:117;117;117, region:right
+color:140;140;140,region:middle
 sleep:5
-color:137;137;137, region:middle
+color:115;115;115,region:right
 sleep:5
-color:118;118;118, region:right
+color:139;139;139,region:middle
 sleep:5
-color:136;136;136, region:middle
+color:116;116;116,region:right
 sleep:5
-color:119;119;119, region:right
+color:138;138;138,region:middle
 sleep:5
-color:135;135;135, region:middle
+color:117;117;117,region:right
 sleep:5
-color:120;120;120, region:right
+color:137;137;137,region:middle
 sleep:5
-color:134;134;134, region:middle
+color:118;118;118,region:right
 sleep:5
-color:121;121;121, region:right
+color:136;136;136,region:middle
 sleep:5
-color:133;133;133, region:middle
+color:119;119;119,region:right
 sleep:5
-color:122;122;122, region:right
+color:135;135;135,region:middle
 sleep:5
-color:132;132;132, region:middle
+color:120;120;120,region:right
 sleep:5
-color:123;123;123, region:right
+color:134;134;134,region:middle
 sleep:5
-color:131;131;131, region:middle
+color:121;121;121,region:right
 sleep:5
-color:124;124;124, region:right
+color:133;133;133,region:middle
 sleep:5
-color:130;130;130, region:middle
+color:122;122;122,region:right
 sleep:5
-color:125;125;125, region:right
+color:132;132;132,region:middle
 sleep:5
-color:129;129;129, region:middle
+color:123;123;123,region:right
 sleep:5
-color:126;126;126, region:right
+color:131;131;131,region:middle
 sleep:5
-color:128;128;128, region:middle
+color:124;124;124,region:right
 sleep:5
-color:127;127;127, region:right
+color:130;130;130,region:middle
 sleep:5
-color:127;127;127, region:middle
+color:125;125;125,region:right
 sleep:5
-color:128;128;128, region:right
+color:129;129;129,region:middle
 sleep:5
-color:126;126;126, region:middle
+color:126;126;126,region:right
 sleep:5
-color:129;129;129, region:right
+color:128;128;128,region:middle
 sleep:5
-color:125;125;125, region:middle
+color:127;127;127,region:right
 sleep:5
-color:130;130;130, region:right
+color:127;127;127,region:middle
 sleep:5
-color:124;124;124, region:middle
+color:128;128;128,region:right
 sleep:5
-color:131;131;131, region:right
+color:126;126;126,region:middle
 sleep:5
-color:123;123;123, region:middle
+color:129;129;129,region:right
 sleep:5
-color:132;132;132, region:right
+color:125;125;125,region:middle
 sleep:5
-color:122;122;122, region:middle
+color:130;130;130,region:right
 sleep:5
-color:133;133;133, region:right
+color:124;124;124,region:middle
 sleep:5
-color:121;121;121, region:middle
+color:131;131;131,region:right
 sleep:5
-color:134;134;134, region:right
+color:123;123;123,region:middle
 sleep:5
-color:120;120;120, region:middle
+color:132;132;132,region:right
 sleep:5
-color:135;135;135, region:right
+color:122;122;122,region:middle
 sleep:5
-color:119;119;119, region:middle
+color:133;133;133,region:right
 sleep:5
-color:136;136;136, region:right
+color:121;121;121,region:middle
 sleep:5
-color:118;118;118, region:middle
+color:134;134;134,region:right
 sleep:5
-color:137;137;137, region:right
+color:120;120;120,region:middle
 sleep:5
-color:117;117;117, region:middle
+color:135;135;135,region:right
 sleep:5
-color:138;138;138, region:right
+color:119;119;119,region:middle
 sleep:5
-color:116;116;116, region:middle
+color:136;136;136,region:right
 sleep:5
-color:139;139;139, region:right
+color:118;118;118,region:middle
 sleep:5
-color:115;115;115, region:middle
+color:137;137;137,region:right
 sleep:5
-color:140;140;140, region:right
+color:117;117;117,region:middle
 sleep:5
-color:114;114;114, region:middle
+color:138;138;138,region:right
 sleep:5
-color:141;141;141, region:right
+color:116;116;116,region:middle
 sleep:5
-color:113;113;113, region:middle
+color:139;139;139,region:right
 sleep:5
-color:142;142;142, region:right
+color:115;115;115,region:middle
 sleep:5
-color:112;112;112, region:middle
+color:140;140;140,region:right
 sleep:5
-color:143;143;143, region:right
+color:114;114;114,region:middle
 sleep:5
-color:111;111;111, region:middle
+color:141;141;141,region:right
 sleep:5
-color:144;144;144, region:right
+color:113;113;113,region:middle
 sleep:5
-color:110;110;110, region:middle
+color:142;142;142,region:right
 sleep:5
-color:145;145;145, region:right
+color:112;112;112,region:middle
 sleep:5
-color:109;109;109, region:middle
+color:143;143;143,region:right
 sleep:5
-color:146;146;146, region:right
+color:111;111;111,region:middle
 sleep:5
-color:108;108;108, region:middle
+color:144;144;144,region:right
 sleep:5
-color:147;147;147, region:right
+color:110;110;110,region:middle
 sleep:5
-color:107;107;107, region:middle
+color:145;145;145,region:right
 sleep:5
-color:148;148;148, region:right
+color:109;109;109,region:middle
 sleep:5
-color:106;106;106, region:middle
+color:146;146;146,region:right
 sleep:5
-color:149;149;149, region:right
+color:108;108;108,region:middle
 sleep:5
-color:105;105;105, region:middle
+color:147;147;147,region:right
 sleep:5
-color:150;150;150, region:right
+color:107;107;107,region:middle
 sleep:5
-color:104;104;104, region:middle
+color:148;148;148,region:right
 sleep:5
-color:151;151;151, region:right
+color:106;106;106,region:middle
 sleep:5
-color:103;103;103, region:middle
+color:149;149;149,region:right
 sleep:5
-color:152;152;152, region:right
+color:105;105;105,region:middle
 sleep:5
-color:102;102;102, region:middle
+color:150;150;150,region:right
 sleep:5
-color:153;153;153, region:right
+color:104;104;104,region:middle
 sleep:5
-color:101;101;101, region:middle
+color:151;151;151,region:right
 sleep:5
-color:154;154;154, region:right
+color:103;103;103,region:middle
 sleep:5
-color:100;100;100, region:middle
+color:152;152;152,region:right
 sleep:5
-color:155;155;155, region:right
+color:102;102;102,region:middle
 sleep:5
-color:99;99;99, region:middle
+color:153;153;153,region:right
 sleep:5
-color:156;156;156, region:right
+color:101;101;101,region:middle
 sleep:5
-color:98;98;98, region:middle
+color:154;154;154,region:right
 sleep:5
-color:157;157;157, region:right
+color:100;100;100,region:middle
 sleep:5
-color:97;97;97, region:middle
+color:155;155;155,region:right
 sleep:5
-color:158;158;158, region:right
+color:99;99;99,region:middle
 sleep:5
-color:96;96;96, region:middle
+color:156;156;156,region:right
 sleep:5
-color:159;159;159, region:right
+color:98;98;98,region:middle
 sleep:5
-color:95;95;95, region:middle
+color:157;157;157,region:right
 sleep:5
-color:160;160;160, region:right
+color:97;97;97,region:middle
 sleep:5
-color:94;94;94, region:middle
+color:158;158;158,region:right
 sleep:5
-color:161;161;161, region:right
+color:96;96;96,region:middle
 sleep:5
-color:93;93;93, region:middle
+color:159;159;159,region:right
 sleep:5
-color:162;162;162, region:right
+color:95;95;95,region:middle
 sleep:5
-color:92;92;92, region:middle
+color:160;160;160,region:right
 sleep:5
-color:163;163;163, region:right
+color:94;94;94,region:middle
 sleep:5
-color:91;91;91, region:middle
+color:161;161;161,region:right
 sleep:5
-color:164;164;164, region:right
+color:93;93;93,region:middle
 sleep:5
-color:90;90;90, region:middle
+color:162;162;162,region:right
 sleep:5
-color:165;165;165, region:right
+color:92;92;92,region:middle
 sleep:5
-color:89;89;89, region:middle
+color:163;163;163,region:right
 sleep:5
-color:166;166;166, region:right
+color:91;91;91,region:middle
 sleep:5
-color:88;88;88, region:middle
+color:164;164;164,region:right
 sleep:5
-color:167;167;167, region:right
+color:90;90;90,region:middle
 sleep:5
-color:87;87;87, region:middle
+color:165;165;165,region:right
 sleep:5
-color:168;168;168, region:right
+color:89;89;89,region:middle
 sleep:5
-color:86;86;86, region:middle
+color:166;166;166,region:right
 sleep:5
-color:169;169;169, region:right
+color:88;88;88,region:middle
 sleep:5
-color:85;85;85, region:middle
+color:167;167;167,region:right
 sleep:5
-color:170;170;170, region:right
+color:87;87;87,region:middle
 sleep:5
-color:84;84;84, region:middle
+color:168;168;168,region:right
 sleep:5
-color:171;171;171, region:right
+color:86;86;86,region:middle
 sleep:5
-color:83;83;83, region:middle
+color:169;169;169,region:right
 sleep:5
-color:172;172;172, region:right
+color:85;85;85,region:middle
 sleep:5
-color:82;82;82, region:middle
+color:170;170;170,region:right
 sleep:5
-color:173;173;173, region:right
+color:84;84;84,region:middle
 sleep:5
-color:81;81;81, region:middle
+color:171;171;171,region:right
 sleep:5
-color:174;174;174, region:right
+color:83;83;83,region:middle
 sleep:5
-color:80;80;80, region:middle
+color:172;172;172,region:right
 sleep:5
-color:175;175;175, region:right
+color:82;82;82,region:middle
 sleep:5
-color:79;79;79, region:middle
+color:173;173;173,region:right
 sleep:5
-color:176;176;176, region:right
+color:81;81;81,region:middle
 sleep:5
-color:78;78;78, region:middle
+color:174;174;174,region:right
 sleep:5
-color:177;177;177, region:right
+color:80;80;80,region:middle
 sleep:5
-color:77;77;77, region:middle
+color:175;175;175,region:right
 sleep:5
-color:178;178;178, region:right
+color:79;79;79,region:middle
 sleep:5
-color:76;76;76, region:middle
+color:176;176;176,region:right
 sleep:5
-color:179;179;179, region:right
+color:78;78;78,region:middle
 sleep:5
-color:75;75;75, region:middle
+color:177;177;177,region:right
 sleep:5
-color:180;180;180, region:right
+color:77;77;77,region:middle
 sleep:5
-color:74;74;74, region:middle
+color:178;178;178,region:right
 sleep:5
-color:181;181;181, region:right
+color:76;76;76,region:middle
 sleep:5
-color:73;73;73, region:middle
+color:179;179;179,region:right
 sleep:5
-color:182;182;182, region:right
+color:75;75;75,region:middle
 sleep:5
-color:72;72;72, region:middle
+color:180;180;180,region:right
 sleep:5
-color:183;183;183, region:right
+color:74;74;74,region:middle
 sleep:5
-color:71;71;71, region:middle
+color:181;181;181,region:right
 sleep:5
-color:184;184;184, region:right
+color:73;73;73,region:middle
 sleep:5
-color:70;70;70, region:middle
+color:182;182;182,region:right
 sleep:5
-color:185;185;185, region:right
+color:72;72;72,region:middle
 sleep:5
-color:69;69;69, region:middle
+color:183;183;183,region:right
 sleep:5
-color:186;186;186, region:right
+color:71;71;71,region:middle
 sleep:5
-color:68;68;68, region:middle
+color:184;184;184,region:right
 sleep:5
-color:187;187;187, region:right
+color:70;70;70,region:middle
 sleep:5
-color:67;67;67, region:middle
+color:185;185;185,region:right
 sleep:5
-color:188;188;188, region:right
+color:69;69;69,region:middle
 sleep:5
-color:66;66;66, region:middle
+color:186;186;186,region:right
 sleep:5
-color:189;189;189, region:right
+color:68;68;68,region:middle
 sleep:5
-color:65;65;65, region:middle
+color:187;187;187,region:right
 sleep:5
-color:190;190;190, region:right
+color:67;67;67,region:middle
 sleep:5
-color:64;64;64, region:middle
+color:188;188;188,region:right
 sleep:5
-color:191;191;191, region:right
+color:66;66;66,region:middle
 sleep:5
-color:63;63;63, region:middle
+color:189;189;189,region:right
 sleep:5
-color:192;192;192, region:right
+color:65;65;65,region:middle
 sleep:5
-color:62;62;62, region:middle
+color:190;190;190,region:right
 sleep:5
-color:193;193;193, region:right
+color:64;64;64,region:middle
 sleep:5
-color:61;61;61, region:middle
+color:191;191;191,region:right
 sleep:5
-color:194;194;194, region:right
+color:63;63;63,region:middle
 sleep:5
-color:60;60;60, region:middle
+color:192;192;192,region:right
 sleep:5
-color:195;195;195, region:right
+color:62;62;62,region:middle
 sleep:5
-color:59;59;59, region:middle
+color:193;193;193,region:right
 sleep:5
-color:196;196;196, region:right
+color:61;61;61,region:middle
 sleep:5
-color:58;58;58, region:middle
+color:194;194;194,region:right
 sleep:5
-color:197;197;197, region:right
+color:60;60;60,region:middle
 sleep:5
-color:57;57;57, region:middle
+color:195;195;195,region:right
 sleep:5
-color:198;198;198, region:right
+color:59;59;59,region:middle
 sleep:5
-color:56;56;56, region:middle
+color:196;196;196,region:right
 sleep:5
-color:199;199;199, region:right
+color:58;58;58,region:middle
 sleep:5
-color:55;55;55, region:middle
+color:197;197;197,region:right
 sleep:5
-color:200;200;200, region:right
+color:57;57;57,region:middle
 sleep:5
-color:54;54;54, region:middle
+color:198;198;198,region:right
 sleep:5
-color:201;201;201, region:right
+color:56;56;56,region:middle
 sleep:5
-color:53;53;53, region:middle
+color:199;199;199,region:right
 sleep:5
-color:202;202;202, region:right
+color:55;55;55,region:middle
 sleep:5
-color:52;52;52, region:middle
+color:200;200;200,region:right
 sleep:5
-color:203;203;203, region:right
+color:54;54;54,region:middle
 sleep:5
-color:51;51;51, region:middle
+color:201;201;201,region:right
 sleep:5
-color:204;204;204, region:right
+color:53;53;53,region:middle
 sleep:5
-color:50;50;50, region:middle
+color:202;202;202,region:right
 sleep:5
-color:205;205;205, region:right
+color:52;52;52,region:middle
 sleep:5
-color:49;49;49, region:middle
+color:203;203;203,region:right
 sleep:5
-color:206;206;206, region:right
+color:51;51;51,region:middle
 sleep:5
-color:48;48;48, region:middle
+color:204;204;204,region:right
 sleep:5
-color:207;207;207, region:right
+color:50;50;50,region:middle
 sleep:5
-color:47;47;47, region:middle
+color:205;205;205,region:right
 sleep:5
-color:208;208;208, region:right
+color:49;49;49,region:middle
 sleep:5
-color:46;46;46, region:middle
+color:206;206;206,region:right
 sleep:5
-color:209;209;209, region:right
+color:48;48;48,region:middle
 sleep:5
-color:45;45;45, region:middle
+color:207;207;207,region:right
 sleep:5
-color:210;210;210, region:right
+color:47;47;47,region:middle
 sleep:5
-color:44;44;44, region:middle
+color:208;208;208,region:right
 sleep:5
-color:211;211;211, region:right
+color:46;46;46,region:middle
 sleep:5
-color:43;43;43, region:middle
+color:209;209;209,region:right
 sleep:5
-color:212;212;212, region:right
+color:45;45;45,region:middle
 sleep:5
-color:42;42;42, region:middle
+color:210;210;210,region:right
 sleep:5
-color:213;213;213, region:right
+color:44;44;44,region:middle
 sleep:5
-color:41;41;41, region:middle
+color:211;211;211,region:right
 sleep:5
-color:214;214;214, region:right
+color:43;43;43,region:middle
 sleep:5
-color:40;40;40, region:middle
+color:212;212;212,region:right
 sleep:5
-color:215;215;215, region:right
+color:42;42;42,region:middle
 sleep:5
-color:39;39;39, region:middle
+color:213;213;213,region:right
 sleep:5
-color:216;216;216, region:right
+color:41;41;41,region:middle
 sleep:5
-color:38;38;38, region:middle
+color:214;214;214,region:right
 sleep:5
-color:217;217;217, region:right
+color:40;40;40,region:middle
 sleep:5
-color:37;37;37, region:middle
+color:215;215;215,region:right
 sleep:5
-color:218;218;218, region:right
+color:39;39;39,region:middle
 sleep:5
-color:36;36;36, region:middle
+color:216;216;216,region:right
 sleep:5
-color:219;219;219, region:right
+color:38;38;38,region:middle
 sleep:5
-color:35;35;35, region:middle
+color:217;217;217,region:right
 sleep:5
-color:220;220;220, region:right
+color:37;37;37,region:middle
 sleep:5
-color:34;34;34, region:middle
+color:218;218;218,region:right
 sleep:5
-color:221;221;221, region:right
+color:36;36;36,region:middle
 sleep:5
-color:33;33;33, region:middle
+color:219;219;219,region:right
 sleep:5
-color:222;222;222, region:right
+color:35;35;35,region:middle
 sleep:5
-color:32;32;32, region:middle
+color:220;220;220,region:right
 sleep:5
-color:223;223;223, region:right
+color:34;34;34,region:middle
 sleep:5
-color:31;31;31, region:middle
+color:221;221;221,region:right
 sleep:5
-color:224;224;224, region:right
+color:33;33;33,region:middle
 sleep:5
-color:30;30;30, region:middle
+color:222;222;222,region:right
 sleep:5
-color:225;225;225, region:right
+color:32;32;32,region:middle
 sleep:5
-color:29;29;29, region:middle
+color:223;223;223,region:right
 sleep:5
-color:226;226;226, region:right
+color:31;31;31,region:middle
 sleep:5
-color:28;28;28, region:middle
+color:224;224;224,region:right
 sleep:5
-color:227;227;227, region:right
+color:30;30;30,region:middle
 sleep:5
-color:27;27;27, region:middle
+color:225;225;225,region:right
 sleep:5
-color:228;228;228, region:right
+color:29;29;29,region:middle
 sleep:5
-color:26;26;26, region:middle
+color:226;226;226,region:right
 sleep:5
-color:229;229;229, region:right
+color:28;28;28,region:middle
 sleep:5
-color:25;25;25, region:middle
+color:227;227;227,region:right
 sleep:5
-color:230;230;230, region:right
+color:27;27;27,region:middle
 sleep:5
-color:24;24;24, region:middle
+color:228;228;228,region:right
 sleep:5
-color:231;231;231, region:right
+color:26;26;26,region:middle
 sleep:5
-color:23;23;23, region:middle
+color:229;229;229,region:right
 sleep:5
-color:232;232;232, region:right
+color:25;25;25,region:middle
 sleep:5
-color:22;22;22, region:middle
+color:230;230;230,region:right
 sleep:5
-color:233;233;233, region:right
+color:24;24;24,region:middle
 sleep:5
-color:21;21;21, region:middle
+color:231;231;231,region:right
 sleep:5
-color:234;234;234, region:right
+color:23;23;23,region:middle
 sleep:5
-color:20;20;20, region:middle
+color:232;232;232,region:right
 sleep:5
-color:235;235;235, region:right
+color:22;22;22,region:middle
 sleep:5
-color:19;19;19, region:middle
+color:233;233;233,region:right
 sleep:5
-color:236;236;236, region:right
+color:21;21;21,region:middle
 sleep:5
-color:18;18;18, region:middle
+color:234;234;234,region:right
 sleep:5
-color:237;237;237, region:right
+color:20;20;20,region:middle
 sleep:5
-color:17;17;17, region:middle
+color:235;235;235,region:right
 sleep:5
-color:238;238;238, region:right
+color:19;19;19,region:middle
 sleep:5
-color:16;16;16, region:middle
+color:236;236;236,region:right
 sleep:5
-color:239;239;239, region:right
+color:18;18;18,region:middle
 sleep:5
-color:15;15;15, region:middle
+color:237;237;237,region:right
 sleep:5
-color:240;240;240, region:right
+color:17;17;17,region:middle
 sleep:5
-color:14;14;14, region:middle
+color:238;238;238,region:right
 sleep:5
-color:241;241;241, region:right
+color:16;16;16,region:middle
 sleep:5
-color:13;13;13, region:middle
+color:239;239;239,region:right
 sleep:5
-color:242;242;242, region:right
+color:15;15;15,region:middle
 sleep:5
-color:12;12;12, region:middle
+color:240;240;240,region:right
 sleep:5
-color:243;243;243, region:right
+color:14;14;14,region:middle
 sleep:5
-color:11;11;11, region:middle
+color:241;241;241,region:right
 sleep:5
-color:244;244;244, region:right
+color:13;13;13,region:middle
 sleep:5
-color:10;10;10, region:middle
+color:242;242;242,region:right
 sleep:5
-color:245;245;245, region:right
+color:12;12;12,region:middle
 sleep:5
-color:9;9;9, region:middle
+color:243;243;243,region:right
 sleep:5
-color:246;246;246, region:right
+color:11;11;11,region:middle
 sleep:5
-color:8;8;8, region:middle
+color:244;244;244,region:right
 sleep:5
-color:247;247;247, region:right
+color:10;10;10,region:middle
 sleep:5
-color:7;7;7, region:middle
+color:245;245;245,region:right
 sleep:5
-color:248;248;248, region:right
+color:9;9;9,region:middle
 sleep:5
-color:6;6;6, region:middle
+color:246;246;246,region:right
 sleep:5
-color:249;249;249, region:right
+color:8;8;8,region:middle
 sleep:5
-color:5;5;5, region:middle
+color:247;247;247,region:right
 sleep:5
-color:250;250;250, region:right
+color:7;7;7,region:middle
 sleep:5
-color:4;4;4, region:middle
+color:248;248;248,region:right
 sleep:5
-color:251;251;251, region:right
+color:6;6;6,region:middle
 sleep:5
-color:3;3;3, region:middle
+color:249;249;249,region:right
 sleep:5
-color:252;252;252, region:right
+color:5;5;5,region:middle
 sleep:5
-color:2;2;2, region:middle
+color:250;250;250,region:right
 sleep:5
-color:253;253;253, region:right
+color:4;4;4,region:middle
 sleep:5
-color:1;1;1, region:middle
+color:251;251;251,region:right
 sleep:5
-color:254;254;254, region:right
+color:3;3;3,region:middle
 sleep:5
-color:0;0;0, region:middle
+color:252;252;252,region:right
 sleep:5
-color:255;255;255, region:right
+color:2;2;2,region:middle
 sleep:5
-color:254;254;254, region:right
+color:253;253;253,region:right
 sleep:5
-color:253;253;253, region:right
+color:1;1;1,region:middle
 sleep:5
-color:252;252;252, region:right
+color:254;254;254,region:right
 sleep:5
-color:251;251;251, region:right
+color:0;0;0,region:middle
 sleep:5
-color:250;250;250, region:right
+color:255;255;255,region:right
 sleep:5
-color:249;249;249, region:right
+color:255;255;255,region:right
 sleep:5
-color:248;248;248, region:right
+color:254;254;254,region:right
 sleep:5
-color:247;247;247, region:right
+color:253;253;253,region:right
 sleep:5
-color:246;246;246, region:right
+color:252;252;252,region:right
 sleep:5
-color:245;245;245, region:right
+color:251;251;251,region:right
 sleep:5
-color:244;244;244, region:right
+color:250;250;250,region:right
 sleep:5
-color:243;243;243, region:right
+color:249;249;249,region:right
 sleep:5
-color:242;242;242, region:right
+color:248;248;248,region:right
 sleep:5
-color:241;241;241, region:right
+color:247;247;247,region:right
 sleep:5
-color:240;240;240, region:right
+color:246;246;246,region:right
 sleep:5
-color:239;239;239, region:right
+color:245;245;245,region:right
 sleep:5
-color:238;238;238, region:right
+color:244;244;244,region:right
 sleep:5
-color:237;237;237, region:right
+color:243;243;243,region:right
 sleep:5
-color:236;236;236, region:right
+color:242;242;242,region:right
 sleep:5
-color:235;235;235, region:right
+color:241;241;241,region:right
 sleep:5
-color:234;234;234, region:right
+color:240;240;240,region:right
 sleep:5
-color:233;233;233, region:right
+color:239;239;239,region:right
 sleep:5
-color:232;232;232, region:right
+color:238;238;238,region:right
 sleep:5
-color:231;231;231, region:right
+color:237;237;237,region:right
 sleep:5
-color:230;230;230, region:right
+color:236;236;236,region:right
 sleep:5
-color:229;229;229, region:right
+color:235;235;235,region:right
 sleep:5
-color:228;228;228, region:right
+color:234;234;234,region:right
 sleep:5
-color:227;227;227, region:right
+color:233;233;233,region:right
 sleep:5
-color:226;226;226, region:right
+color:232;232;232,region:right
 sleep:5
-color:225;225;225, region:right
+color:231;231;231,region:right
 sleep:5
-color:224;224;224, region:right
+color:230;230;230,region:right
 sleep:5
-color:223;223;223, region:right
+color:229;229;229,region:right
 sleep:5
-color:222;222;222, region:right
+color:228;228;228,region:right
 sleep:5
-color:221;221;221, region:right
+color:227;227;227,region:right
 sleep:5
-color:220;220;220, region:right
+color:226;226;226,region:right
 sleep:5
-color:219;219;219, region:right
+color:225;225;225,region:right
 sleep:5
-color:218;218;218, region:right
+color:224;224;224,region:right
 sleep:5
-color:217;217;217, region:right
+color:223;223;223,region:right
 sleep:5
-color:216;216;216, region:right
+color:222;222;222,region:right
 sleep:5
-color:215;215;215, region:right
+color:221;221;221,region:right
 sleep:5
-color:214;214;214, region:right
+color:220;220;220,region:right
 sleep:5
-color:213;213;213, region:right
+color:219;219;219,region:right
 sleep:5
-color:212;212;212, region:right
+color:218;218;218,region:right
 sleep:5
-color:211;211;211, region:right
+color:217;217;217,region:right
 sleep:5
-color:210;210;210, region:right
+color:216;216;216,region:right
 sleep:5
-color:209;209;209, region:right
+color:215;215;215,region:right
 sleep:5
-color:208;208;208, region:right
+color:214;214;214,region:right
 sleep:5
-color:207;207;207, region:right
+color:213;213;213,region:right
 sleep:5
-color:206;206;206, region:right
+color:212;212;212,region:right
 sleep:5
-color:205;205;205, region:right
+color:211;211;211,region:right
 sleep:5
-color:204;204;204, region:right
+color:210;210;210,region:right
 sleep:5
-color:203;203;203, region:right
+color:209;209;209,region:right
 sleep:5
-color:202;202;202, region:right
+color:208;208;208,region:right
 sleep:5
-color:201;201;201, region:right
+color:207;207;207,region:right
 sleep:5
-color:200;200;200, region:right
+color:206;206;206,region:right
 sleep:5
-color:199;199;199, region:right
+color:205;205;205,region:right
 sleep:5
-color:198;198;198, region:right
+color:204;204;204,region:right
 sleep:5
-color:197;197;197, region:right
+color:203;203;203,region:right
 sleep:5
-color:196;196;196, region:right
+color:202;202;202,region:right
 sleep:5
-color:195;195;195, region:right
+color:201;201;201,region:right
 sleep:5
-color:194;194;194, region:right
+color:200;200;200,region:right
 sleep:5
-color:193;193;193, region:right
+color:199;199;199,region:right
 sleep:5
-color:192;192;192, region:right
+color:198;198;198,region:right
 sleep:5
-color:191;191;191, region:right
+color:197;197;197,region:right
 sleep:5
-color:190;190;190, region:right
+color:196;196;196,region:right
 sleep:5
-color:189;189;189, region:right
+color:195;195;195,region:right
 sleep:5
-color:188;188;188, region:right
+color:194;194;194,region:right
 sleep:5
-color:187;187;187, region:right
+color:193;193;193,region:right
 sleep:5
-color:186;186;186, region:right
+color:192;192;192,region:right
 sleep:5
-color:185;185;185, region:right
+color:191;191;191,region:right
 sleep:5
-color:184;184;184, region:right
+color:190;190;190,region:right
 sleep:5
-color:183;183;183, region:right
+color:189;189;189,region:right
 sleep:5
-color:182;182;182, region:right
+color:188;188;188,region:right
 sleep:5
-color:181;181;181, region:right
+color:187;187;187,region:right
 sleep:5
-color:180;180;180, region:right
+color:186;186;186,region:right
 sleep:5
-color:179;179;179, region:right
+color:185;185;185,region:right
 sleep:5
-color:178;178;178, region:right
+color:184;184;184,region:right
 sleep:5
-color:177;177;177, region:right
+color:183;183;183,region:right
 sleep:5
-color:176;176;176, region:right
+color:182;182;182,region:right
 sleep:5
-color:175;175;175, region:right
+color:181;181;181,region:right
 sleep:5
-color:174;174;174, region:right
+color:180;180;180,region:right
 sleep:5
-color:173;173;173, region:right
+color:179;179;179,region:right
 sleep:5
-color:172;172;172, region:right
+color:178;178;178,region:right
 sleep:5
-color:171;171;171, region:right
+color:177;177;177,region:right
 sleep:5
-color:170;170;170, region:right
+color:176;176;176,region:right
 sleep:5
-color:169;169;169, region:right
+color:175;175;175,region:right
 sleep:5
-color:168;168;168, region:right
+color:174;174;174,region:right
 sleep:5
-color:167;167;167, region:right
+color:173;173;173,region:right
 sleep:5
-color:166;166;166, region:right
+color:172;172;172,region:right
 sleep:5
-color:165;165;165, region:right
+color:171;171;171,region:right
 sleep:5
-color:164;164;164, region:right
+color:170;170;170,region:right
 sleep:5
-color:163;163;163, region:right
+color:169;169;169,region:right
 sleep:5
-color:162;162;162, region:right
+color:168;168;168,region:right
 sleep:5
-color:161;161;161, region:right
+color:167;167;167,region:right
 sleep:5
-color:160;160;160, region:right
+color:166;166;166,region:right
 sleep:5
-color:159;159;159, region:right
+color:165;165;165,region:right
 sleep:5
-color:158;158;158, region:right
+color:164;164;164,region:right
 sleep:5
-color:157;157;157, region:right
+color:163;163;163,region:right
 sleep:5
-color:156;156;156, region:right
+color:162;162;162,region:right
 sleep:5
-color:155;155;155, region:right
+color:161;161;161,region:right
 sleep:5
-color:154;154;154, region:right
+color:160;160;160,region:right
 sleep:5
-color:153;153;153, region:right
+color:159;159;159,region:right
 sleep:5
-color:152;152;152, region:right
+color:158;158;158,region:right
 sleep:5
-color:151;151;151, region:right
+color:157;157;157,region:right
 sleep:5
-color:150;150;150, region:right
+color:156;156;156,region:right
 sleep:5
-color:149;149;149, region:right
+color:155;155;155,region:right
 sleep:5
-color:148;148;148, region:right
+color:154;154;154,region:right
 sleep:5
-color:147;147;147, region:right
+color:153;153;153,region:right
 sleep:5
-color:146;146;146, region:right
+color:152;152;152,region:right
 sleep:5
-color:145;145;145, region:right
+color:151;151;151,region:right
 sleep:5
-color:144;144;144, region:right
+color:150;150;150,region:right
 sleep:5
-color:143;143;143, region:right
+color:149;149;149,region:right
 sleep:5
-color:142;142;142, region:right
+color:148;148;148,region:right
 sleep:5
-color:141;141;141, region:right
+color:147;147;147,region:right
 sleep:5
-color:140;140;140, region:right
+color:146;146;146,region:right
 sleep:5
-color:139;139;139, region:right
+color:145;145;145,region:right
 sleep:5
-color:138;138;138, region:right
+color:144;144;144,region:right
 sleep:5
-color:137;137;137, region:right
+color:143;143;143,region:right
 sleep:5
-color:136;136;136, region:right
+color:142;142;142,region:right
 sleep:5
-color:135;135;135, region:right
+color:141;141;141,region:right
 sleep:5
-color:134;134;134, region:right
+color:140;140;140,region:right
 sleep:5
-color:133;133;133, region:right
+color:139;139;139,region:right
 sleep:5
-color:132;132;132, region:right
+color:138;138;138,region:right
 sleep:5
-color:131;131;131, region:right
+color:137;137;137,region:right
 sleep:5
-color:130;130;130, region:right
+color:136;136;136,region:right
 sleep:5
-color:129;129;129, region:right
+color:135;135;135,region:right
 sleep:5
-color:128;128;128, region:right
+color:134;134;134,region:right
 sleep:5
-color:127;127;127, region:right
+color:133;133;133,region:right
 sleep:5
-color:126;126;126, region:right
+color:132;132;132,region:right
 sleep:5
-color:125;125;125, region:right
+color:131;131;131,region:right
 sleep:5
-color:124;124;124, region:right
+color:130;130;130,region:right
 sleep:5
-color:123;123;123, region:right
+color:129;129;129,region:right
 sleep:5
-color:122;122;122, region:right
+color:128;128;128,region:right
 sleep:5
-color:121;121;121, region:right
+color:127;127;127,region:right
 sleep:5
-color:120;120;120, region:right
+color:126;126;126,region:right
 sleep:5
-color:119;119;119, region:right
+color:125;125;125,region:right
 sleep:5
-color:118;118;118, region:right
+color:124;124;124,region:right
 sleep:5
-color:117;117;117, region:right
+color:123;123;123,region:right
 sleep:5
-color:116;116;116, region:right
+color:122;122;122,region:right
 sleep:5
-color:115;115;115, region:right
+color:121;121;121,region:right
 sleep:5
-color:114;114;114, region:right
+color:120;120;120,region:right
 sleep:5
-color:113;113;113, region:right
+color:119;119;119,region:right
 sleep:5
-color:112;112;112, region:right
+color:118;118;118,region:right
 sleep:5
-color:111;111;111, region:right
+color:117;117;117,region:right
 sleep:5
-color:110;110;110, region:right
+color:116;116;116,region:right
 sleep:5
-color:109;109;109, region:right
+color:115;115;115,region:right
 sleep:5
-color:108;108;108, region:right
+color:114;114;114,region:right
 sleep:5
-color:107;107;107, region:right
+color:113;113;113,region:right
 sleep:5
-color:106;106;106, region:right
+color:112;112;112,region:right
 sleep:5
-color:105;105;105, region:right
+color:111;111;111,region:right
 sleep:5
-color:104;104;104, region:right
+color:110;110;110,region:right
 sleep:5
-color:103;103;103, region:right
+color:109;109;109,region:right
 sleep:5
-color:102;102;102, region:right
+color:108;108;108,region:right
 sleep:5
-color:101;101;101, region:right
+color:107;107;107,region:right
 sleep:5
-color:100;100;100, region:right
+color:106;106;106,region:right
 sleep:5
-color:99;99;99, region:right
+color:105;105;105,region:right
 sleep:5
-color:98;98;98, region:right
+color:104;104;104,region:right
 sleep:5
-color:97;97;97, region:right
+color:103;103;103,region:right
 sleep:5
-color:96;96;96, region:right
+color:102;102;102,region:right
 sleep:5
-color:95;95;95, region:right
+color:101;101;101,region:right
 sleep:5
-color:94;94;94, region:right
+color:100;100;100,region:right
 sleep:5
-color:93;93;93, region:right
+color:99;99;99,region:right
 sleep:5
-color:92;92;92, region:right
+color:98;98;98,region:right
 sleep:5
-color:91;91;91, region:right
+color:97;97;97,region:right
 sleep:5
-color:90;90;90, region:right
+color:96;96;96,region:right
 sleep:5
-color:89;89;89, region:right
+color:95;95;95,region:right
 sleep:5
-color:88;88;88, region:right
+color:94;94;94,region:right
 sleep:5
-color:87;87;87, region:right
+color:93;93;93,region:right
 sleep:5
-color:86;86;86, region:right
+color:92;92;92,region:right
 sleep:5
-color:85;85;85, region:right
+color:91;91;91,region:right
 sleep:5
-color:84;84;84, region:right
+color:90;90;90,region:right
 sleep:5
-color:83;83;83, region:right
+color:89;89;89,region:right
 sleep:5
-color:82;82;82, region:right
+color:88;88;88,region:right
 sleep:5
-color:81;81;81, region:right
+color:87;87;87,region:right
 sleep:5
-color:80;80;80, region:right
+color:86;86;86,region:right
 sleep:5
-color:79;79;79, region:right
+color:85;85;85,region:right
 sleep:5
-color:78;78;78, region:right
+color:84;84;84,region:right
 sleep:5
-color:77;77;77, region:right
+color:83;83;83,region:right
 sleep:5
-color:76;76;76, region:right
+color:82;82;82,region:right
 sleep:5
-color:75;75;75, region:right
+color:81;81;81,region:right
 sleep:5
-color:74;74;74, region:right
+color:80;80;80,region:right
 sleep:5
-color:73;73;73, region:right
+color:79;79;79,region:right
 sleep:5
-color:72;72;72, region:right
+color:78;78;78,region:right
 sleep:5
-color:71;71;71, region:right
+color:77;77;77,region:right
 sleep:5
-color:70;70;70, region:right
+color:76;76;76,region:right
 sleep:5
-color:69;69;69, region:right
+color:75;75;75,region:right
 sleep:5
-color:68;68;68, region:right
+color:74;74;74,region:right
 sleep:5
-color:67;67;67, region:right
+color:73;73;73,region:right
 sleep:5
-color:66;66;66, region:right
+color:72;72;72,region:right
 sleep:5
-color:65;65;65, region:right
+color:71;71;71,region:right
 sleep:5
-color:64;64;64, region:right
+color:70;70;70,region:right
 sleep:5
-color:63;63;63, region:right
+color:69;69;69,region:right
 sleep:5
-color:62;62;62, region:right
+color:68;68;68,region:right
 sleep:5
-color:61;61;61, region:right
+color:67;67;67,region:right
 sleep:5
-color:60;60;60, region:right
+color:66;66;66,region:right
 sleep:5
-color:59;59;59, region:right
+color:65;65;65,region:right
 sleep:5
-color:58;58;58, region:right
+color:64;64;64,region:right
 sleep:5
-color:57;57;57, region:right
+color:63;63;63,region:right
 sleep:5
-color:56;56;56, region:right
+color:62;62;62,region:right
 sleep:5
-color:55;55;55, region:right
+color:61;61;61,region:right
 sleep:5
-color:54;54;54, region:right
+color:60;60;60,region:right
 sleep:5
-color:53;53;53, region:right
+color:59;59;59,region:right
 sleep:5
-color:52;52;52, region:right
+color:58;58;58,region:right
 sleep:5
-color:51;51;51, region:right
+color:57;57;57,region:right
 sleep:5
-color:50;50;50, region:right
+color:56;56;56,region:right
 sleep:5
-color:49;49;49, region:right
+color:55;55;55,region:right
 sleep:5
-color:48;48;48, region:right
+color:54;54;54,region:right
 sleep:5
-color:47;47;47, region:right
+color:53;53;53,region:right
 sleep:5
-color:46;46;46, region:right
+color:52;52;52,region:right
 sleep:5
-color:45;45;45, region:right
+color:51;51;51,region:right
 sleep:5
-color:44;44;44, region:right
+color:50;50;50,region:right
 sleep:5
-color:43;43;43, region:right
+color:49;49;49,region:right
 sleep:5
-color:42;42;42, region:right
+color:48;48;48,region:right
 sleep:5
-color:41;41;41, region:right
+color:47;47;47,region:right
 sleep:5
-color:40;40;40, region:right
+color:46;46;46,region:right
 sleep:5
-color:39;39;39, region:right
+color:45;45;45,region:right
 sleep:5
-color:38;38;38, region:right
+color:44;44;44,region:right
 sleep:5
-color:37;37;37, region:right
+color:43;43;43,region:right
 sleep:5
-color:36;36;36, region:right
+color:42;42;42,region:right
 sleep:5
-color:35;35;35, region:right
+color:41;41;41,region:right
 sleep:5
-color:34;34;34, region:right
+color:40;40;40,region:right
 sleep:5
-color:33;33;33, region:right
+color:39;39;39,region:right
 sleep:5
-color:32;32;32, region:right
+color:38;38;38,region:right
 sleep:5
-color:31;31;31, region:right
+color:37;37;37,region:right
 sleep:5
-color:30;30;30, region:right
+color:36;36;36,region:right
 sleep:5
-color:29;29;29, region:right
+color:35;35;35,region:right
 sleep:5
-color:28;28;28, region:right
+color:34;34;34,region:right
 sleep:5
-color:27;27;27, region:right
+color:33;33;33,region:right
 sleep:5
-color:26;26;26, region:right
+color:32;32;32,region:right
 sleep:5
-color:25;25;25, region:right
+color:31;31;31,region:right
 sleep:5
-color:24;24;24, region:right
+color:30;30;30,region:right
 sleep:5
-color:23;23;23, region:right
+color:29;29;29,region:right
 sleep:5
-color:22;22;22, region:right
+color:28;28;28,region:right
 sleep:5
-color:21;21;21, region:right
+color:27;27;27,region:right
 sleep:5
-color:20;20;20, region:right
+color:26;26;26,region:right
 sleep:5
-color:19;19;19, region:right
+color:25;25;25,region:right
 sleep:5
-color:18;18;18, region:right
+color:24;24;24,region:right
 sleep:5
-color:17;17;17, region:right
+color:23;23;23,region:right
 sleep:5
-color:16;16;16, region:right
+color:22;22;22,region:right
 sleep:5
-color:15;15;15, region:right
+color:21;21;21,region:right
 sleep:5
-color:14;14;14, region:right
+color:20;20;20,region:right
 sleep:5
-color:13;13;13, region:right
+color:19;19;19,region:right
 sleep:5
-color:12;12;12, region:right
+color:18;18;18,region:right
 sleep:5
-color:11;11;11, region:right
+color:17;17;17,region:right
 sleep:5
-color:10;10;10, region:right
+color:16;16;16,region:right
 sleep:5
-color:9;9;9, region:right
+color:15;15;15,region:right
 sleep:5
-color:8;8;8, region:right
+color:14;14;14,region:right
 sleep:5
-color:7;7;7, region:right
+color:13;13;13,region:right
 sleep:5
-color:6;6;6, region:right
+color:12;12;12,region:right
 sleep:5
-color:5;5;5, region:right
+color:11;11;11,region:right
 sleep:5
-color:4;4;4, region:right
+color:10;10;10,region:right
 sleep:5
-color:3;3;3, region:right
+color:9;9;9,region:right
 sleep:5
-color:2;2;2, region:right
+color:8;8;8,region:right
 sleep:5
-color:1;1;1, region:right
+color:7;7;7,region:right
 sleep:5
-color:0;0;0, region:right
+color:6;6;6,region:right
+sleep:5
+color:5;5;5,region:right
+sleep:5
+color:4;4;4,region:right
+sleep:5
+color:3;3;3,region:right
+sleep:5
+color:2;2;2,region:right
+sleep:5
+color:1;1;1,region:right
+sleep:5
+color:0;0;0,region:right
 sleep:5
