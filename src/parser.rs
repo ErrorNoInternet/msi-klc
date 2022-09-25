@@ -57,7 +57,7 @@ pub fn parse_rgb_colors(color: &String) -> [u8; 3] {
             rgb_colors[i] = u8::from_str_radix(hex_code.as_str(), 16).unwrap_or(0);
         }
     } else {
-        for (color_index, rgb_color) in color.split(",").enumerate() {
+        for (color_index, rgb_color) in color.split(";").enumerate() {
             if color_index < 3 {
                 rgb_colors[color_index] = rgb_color.parse().unwrap_or(0);
             }

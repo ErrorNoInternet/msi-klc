@@ -119,43 +119,50 @@ fn main() {
                     std::process::exit(1);
                 }
             };
+            let loop_forever = file_lines.contains(&"loop_forever".to_string());
 
-            for line in file_lines {
-                if line.trim().len() <= 0 {
-                    continue;
-                }
-
-                let mut region = String::new();
-                let mut color = String::new();
-                for segment in line.split(",") {
-                    let segment = segment.trim().to_string();
-                    let action: Vec<String> = segment
-                        .split(":")
-                        .into_iter()
-                        .map(|item| item.to_string())
-                        .collect();
-                    match action[0].trim().to_lowercase().as_str() {
-                        "reset" => keyboard.reset().unwrap(),
-                        "off" => keyboard.off().unwrap(),
-                        "region" => region = action[1].clone(),
-                        "color" => color = action[1].clone(),
-                        "sleep" => std::thread::sleep(std::time::Duration::from_millis(
-                            action[1].parse().unwrap_or(0),
-                        )),
-                        _ => (),
+            loop {
+                for line in &file_lines {
+                    if line.trim().len() <= 0 {
+                        continue;
                     }
-                }
-                if region == "" && color == "" {
-                    continue;
+
+                    let mut region = String::new();
+                    let mut color = String::new();
+                    for segment in line.split(",") {
+                        let segment = segment.trim().to_string();
+                        let action: Vec<String> = segment
+                            .split(":")
+                            .into_iter()
+                            .map(|item| item.to_string())
+                            .collect();
+                        match action[0].trim().to_lowercase().as_str() {
+                            "reset" => keyboard.reset().unwrap(),
+                            "off" => keyboard.off().unwrap(),
+                            "region" => region = action[1].clone(),
+                            "color" => color = action[1].clone(),
+                            "sleep" => std::thread::sleep(std::time::Duration::from_millis(
+                                action[1].parse().unwrap_or(0),
+                            )),
+                            _ => (),
+                        }
+                    }
+                    if region == "" && color == "" {
+                        continue;
+                    }
+
+                    let rgb_colors = parser::parse_rgb_colors(&color);
+                    keyboard
+                        .set_rgb_color(&KeyboardRGBLightData::new(
+                            &parser::parse_region(&region),
+                            &(rgb_colors[0], rgb_colors[1], rgb_colors[2]),
+                        ))
+                        .unwrap();
                 }
 
-                let rgb_colors = parser::parse_rgb_colors(&color);
-                keyboard
-                    .set_rgb_color(&KeyboardRGBLightData::new(
-                        &parser::parse_region(&region),
-                        &(rgb_colors[0], rgb_colors[1], rgb_colors[2]),
-                    ))
-                    .unwrap();
+                if !loop_forever {
+                    break;
+                }
             }
         }
         _ => unreachable!(),
