@@ -21,7 +21,7 @@ cd msi-klc
 cargo build --release
 sudo cp target/release/msi-klc /usr/local/bin
 ```
-#### Using `cargo`
+#### Using cargo
 ```sh
 cargo install msi-klc
 ```
