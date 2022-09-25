@@ -1,5 +1,5 @@
 file = open("breathe.txt", "w+")
-file.write("loop_forever\n")
+file.write("loop_forever\n\n")
 for i in range(0, 255):
     file.write(f"color:{i};{i};{i}\nsleep:10\n")
 for i in reversed(range(0, 255)):
@@ -7,7 +7,7 @@ for i in reversed(range(0, 255)):
 file.close()
 
 file = open("wave.txt", "w+")
-file.write("loop_forever\n")
+file.write("loop_forever\n\n")
 for i in range(0, 255):
     file.write(f"color:{i};{i};{i}, region:left\nsleep:5\n")
 
