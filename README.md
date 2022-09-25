@@ -22,8 +22,8 @@ sudo cp target/release/msi-klc /usr/local/bin
 ```
 
 ## Usage
-### CLI
 Make sure to run with root privileges (sudo)
+### CLI
 ```sh
 # make the entire keyboard blue
 msi-klc set --color blue
