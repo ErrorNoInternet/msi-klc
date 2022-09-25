@@ -223,8 +223,6 @@ impl Keyboard {
         keyboard_mode_data: &KeyboardModeData,
     ) -> Result<(), hidapi::HidError> {
         let mode_data: [u8; 8] = keyboard_mode_data.to_owned().into();
-        self.keyboard.send_feature_report(&mode_data)?;
-
-        Ok(())
+        self.keyboard.send_feature_report(&mode_data)
     }
 }
