@@ -9,7 +9,7 @@ homepage = "https://github.com/errorNoInternet/msi-klc"
 repository = "https://github.com/errorNoInternet/msi-klc"
 readme = "README.md"
 keywords = ["msi", "laptop", "rgb", "backlight", "steelseries"]
-exclude = ["animations/*", "src/main.rs", "src/parser.rs"]
+exclude = ["animations"]
 
 [dependencies]
 clap = "3.2.22"
