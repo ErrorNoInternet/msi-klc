@@ -8,7 +8,14 @@ description = "MSI Keyboard Light Controller"
 homepage = "https://github.com/ErrorNoInternet/msi-klc"
 repository = "https://github.com/ErrorNoInternet/msi-klc"
 readme = "README.md"
-keywords = ["msi", "laptop", "rgb", "backlight", "steelseries", "keyboard"]
+keywords = [
+    "msi",
+    "laptop",
+    "rgb",
+    "backlight",
+    "steelseries",
+    "keyboard",
+]
 exclude = ["animations"]
 
 [dependencies]
