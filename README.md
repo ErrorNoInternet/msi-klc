@@ -2,9 +2,9 @@
 A tool that allows you to control the backlight of your MSI SteelSeries laptop keyboard.\
 Supports 3 regions, 8 predefined colors, RGB/hex colors, and custom animations.
 
-### Supported
+### Supported Devices
 #### Linux
-[x] MSI GE60 2PE
+- [x] MSI GE60 2PE
 
 ## Installation
 ### Compiling
