@@ -1,0 +1,3061 @@
+loop_forever
+color:0;0;0, region:left
+sleep:5
+color:1;1;1, region:left
+sleep:5
+color:2;2;2, region:left
+sleep:5
+color:3;3;3, region:left
+sleep:5
+color:4;4;4, region:left
+sleep:5
+color:5;5;5, region:left
+sleep:5
+color:6;6;6, region:left
+sleep:5
+color:7;7;7, region:left
+sleep:5
+color:8;8;8, region:left
+sleep:5
+color:9;9;9, region:left
+sleep:5
+color:10;10;10, region:left
+sleep:5
+color:11;11;11, region:left
+sleep:5
+color:12;12;12, region:left
+sleep:5
+color:13;13;13, region:left
+sleep:5
+color:14;14;14, region:left
+sleep:5
+color:15;15;15, region:left
+sleep:5
+color:16;16;16, region:left
+sleep:5
+color:17;17;17, region:left
+sleep:5
+color:18;18;18, region:left
+sleep:5
+color:19;19;19, region:left
+sleep:5
+color:20;20;20, region:left
+sleep:5
+color:21;21;21, region:left
+sleep:5
+color:22;22;22, region:left
+sleep:5
+color:23;23;23, region:left
+sleep:5
+color:24;24;24, region:left
+sleep:5
+color:25;25;25, region:left
+sleep:5
+color:26;26;26, region:left
+sleep:5
+color:27;27;27, region:left
+sleep:5
+color:28;28;28, region:left
+sleep:5
+color:29;29;29, region:left
+sleep:5
+color:30;30;30, region:left
+sleep:5
+color:31;31;31, region:left
+sleep:5
+color:32;32;32, region:left
+sleep:5
+color:33;33;33, region:left
+sleep:5
+color:34;34;34, region:left
+sleep:5
+color:35;35;35, region:left
+sleep:5
+color:36;36;36, region:left
+sleep:5
+color:37;37;37, region:left
+sleep:5
+color:38;38;38, region:left
+sleep:5
+color:39;39;39, region:left
+sleep:5
+color:40;40;40, region:left
+sleep:5
+color:41;41;41, region:left
+sleep:5
+color:42;42;42, region:left
+sleep:5
+color:43;43;43, region:left
+sleep:5
+color:44;44;44, region:left
+sleep:5
+color:45;45;45, region:left
+sleep:5
+color:46;46;46, region:left
+sleep:5
+color:47;47;47, region:left
+sleep:5
+color:48;48;48, region:left
+sleep:5
+color:49;49;49, region:left
+sleep:5
+color:50;50;50, region:left
+sleep:5
+color:51;51;51, region:left
+sleep:5
+color:52;52;52, region:left
+sleep:5
+color:53;53;53, region:left
+sleep:5
+color:54;54;54, region:left
+sleep:5
+color:55;55;55, region:left
+sleep:5
+color:56;56;56, region:left
+sleep:5
+color:57;57;57, region:left
+sleep:5
+color:58;58;58, region:left
+sleep:5
+color:59;59;59, region:left
+sleep:5
+color:60;60;60, region:left
+sleep:5
+color:61;61;61, region:left
+sleep:5
+color:62;62;62, region:left
+sleep:5
+color:63;63;63, region:left
+sleep:5
+color:64;64;64, region:left
+sleep:5
+color:65;65;65, region:left
+sleep:5
+color:66;66;66, region:left
+sleep:5
+color:67;67;67, region:left
+sleep:5
+color:68;68;68, region:left
+sleep:5
+color:69;69;69, region:left
+sleep:5
+color:70;70;70, region:left
+sleep:5
+color:71;71;71, region:left
+sleep:5
+color:72;72;72, region:left
+sleep:5
+color:73;73;73, region:left
+sleep:5
+color:74;74;74, region:left
+sleep:5
+color:75;75;75, region:left
+sleep:5
+color:76;76;76, region:left
+sleep:5
+color:77;77;77, region:left
+sleep:5
+color:78;78;78, region:left
+sleep:5
+color:79;79;79, region:left
+sleep:5
+color:80;80;80, region:left
+sleep:5
+color:81;81;81, region:left
+sleep:5
+color:82;82;82, region:left
+sleep:5
+color:83;83;83, region:left
+sleep:5
+color:84;84;84, region:left
+sleep:5
+color:85;85;85, region:left
+sleep:5
+color:86;86;86, region:left
+sleep:5
+color:87;87;87, region:left
+sleep:5
+color:88;88;88, region:left
+sleep:5
+color:89;89;89, region:left
+sleep:5
+color:90;90;90, region:left
+sleep:5
+color:91;91;91, region:left
+sleep:5
+color:92;92;92, region:left
+sleep:5
+color:93;93;93, region:left
+sleep:5
+color:94;94;94, region:left
+sleep:5
+color:95;95;95, region:left
+sleep:5
+color:96;96;96, region:left
+sleep:5
+color:97;97;97, region:left
+sleep:5
+color:98;98;98, region:left
+sleep:5
+color:99;99;99, region:left
+sleep:5
+color:100;100;100, region:left
+sleep:5
+color:101;101;101, region:left
+sleep:5
+color:102;102;102, region:left
+sleep:5
+color:103;103;103, region:left
+sleep:5
+color:104;104;104, region:left
+sleep:5
+color:105;105;105, region:left
+sleep:5
+color:106;106;106, region:left
+sleep:5
+color:107;107;107, region:left
+sleep:5
+color:108;108;108, region:left
+sleep:5
+color:109;109;109, region:left
+sleep:5
+color:110;110;110, region:left
+sleep:5
+color:111;111;111, region:left
+sleep:5
+color:112;112;112, region:left
+sleep:5
+color:113;113;113, region:left
+sleep:5
+color:114;114;114, region:left
+sleep:5
+color:115;115;115, region:left
+sleep:5
+color:116;116;116, region:left
+sleep:5
+color:117;117;117, region:left
+sleep:5
+color:118;118;118, region:left
+sleep:5
+color:119;119;119, region:left
+sleep:5
+color:120;120;120, region:left
+sleep:5
+color:121;121;121, region:left
+sleep:5
+color:122;122;122, region:left
+sleep:5
+color:123;123;123, region:left
+sleep:5
+color:124;124;124, region:left
+sleep:5
+color:125;125;125, region:left
+sleep:5
+color:126;126;126, region:left
+sleep:5
+color:127;127;127, region:left
+sleep:5
+color:128;128;128, region:left
+sleep:5
+color:129;129;129, region:left
+sleep:5
+color:130;130;130, region:left
+sleep:5
+color:131;131;131, region:left
+sleep:5
+color:132;132;132, region:left
+sleep:5
+color:133;133;133, region:left
+sleep:5
+color:134;134;134, region:left
+sleep:5
+color:135;135;135, region:left
+sleep:5
+color:136;136;136, region:left
+sleep:5
+color:137;137;137, region:left
+sleep:5
+color:138;138;138, region:left
+sleep:5
+color:139;139;139, region:left
+sleep:5
+color:140;140;140, region:left
+sleep:5
+color:141;141;141, region:left
+sleep:5
+color:142;142;142, region:left
+sleep:5
+color:143;143;143, region:left
+sleep:5
+color:144;144;144, region:left
+sleep:5
+color:145;145;145, region:left
+sleep:5
+color:146;146;146, region:left
+sleep:5
+color:147;147;147, region:left
+sleep:5
+color:148;148;148, region:left
+sleep:5
+color:149;149;149, region:left
+sleep:5
+color:150;150;150, region:left
+sleep:5
+color:151;151;151, region:left
+sleep:5
+color:152;152;152, region:left
+sleep:5
+color:153;153;153, region:left
+sleep:5
+color:154;154;154, region:left
+sleep:5
+color:155;155;155, region:left
+sleep:5
+color:156;156;156, region:left
+sleep:5
+color:157;157;157, region:left
+sleep:5
+color:158;158;158, region:left
+sleep:5
+color:159;159;159, region:left
+sleep:5
+color:160;160;160, region:left
+sleep:5
+color:161;161;161, region:left
+sleep:5
+color:162;162;162, region:left
+sleep:5
+color:163;163;163, region:left
+sleep:5
+color:164;164;164, region:left
+sleep:5
+color:165;165;165, region:left
+sleep:5
+color:166;166;166, region:left
+sleep:5
+color:167;167;167, region:left
+sleep:5
+color:168;168;168, region:left
+sleep:5
+color:169;169;169, region:left
+sleep:5
+color:170;170;170, region:left
+sleep:5
+color:171;171;171, region:left
+sleep:5
+color:172;172;172, region:left
+sleep:5
+color:173;173;173, region:left
+sleep:5
+color:174;174;174, region:left
+sleep:5
+color:175;175;175, region:left
+sleep:5
+color:176;176;176, region:left
+sleep:5
+color:177;177;177, region:left
+sleep:5
+color:178;178;178, region:left
+sleep:5
+color:179;179;179, region:left
+sleep:5
+color:180;180;180, region:left
+sleep:5
+color:181;181;181, region:left
+sleep:5
+color:182;182;182, region:left
+sleep:5
+color:183;183;183, region:left
+sleep:5
+color:184;184;184, region:left
+sleep:5
+color:185;185;185, region:left
+sleep:5
+color:186;186;186, region:left
+sleep:5
+color:187;187;187, region:left
+sleep:5
+color:188;188;188, region:left
+sleep:5
+color:189;189;189, region:left
+sleep:5
+color:190;190;190, region:left
+sleep:5
+color:191;191;191, region:left
+sleep:5
+color:192;192;192, region:left
+sleep:5
+color:193;193;193, region:left
+sleep:5
+color:194;194;194, region:left
+sleep:5
+color:195;195;195, region:left
+sleep:5
+color:196;196;196, region:left
+sleep:5
+color:197;197;197, region:left
+sleep:5
+color:198;198;198, region:left
+sleep:5
+color:199;199;199, region:left
+sleep:5
+color:200;200;200, region:left
+sleep:5
+color:201;201;201, region:left
+sleep:5
+color:202;202;202, region:left
+sleep:5
+color:203;203;203, region:left
+sleep:5
+color:204;204;204, region:left
+sleep:5
+color:205;205;205, region:left
+sleep:5
+color:206;206;206, region:left
+sleep:5
+color:207;207;207, region:left
+sleep:5
+color:208;208;208, region:left
+sleep:5
+color:209;209;209, region:left
+sleep:5
+color:210;210;210, region:left
+sleep:5
+color:211;211;211, region:left
+sleep:5
+color:212;212;212, region:left
+sleep:5
+color:213;213;213, region:left
+sleep:5
+color:214;214;214, region:left
+sleep:5
+color:215;215;215, region:left
+sleep:5
+color:216;216;216, region:left
+sleep:5
+color:217;217;217, region:left
+sleep:5
+color:218;218;218, region:left
+sleep:5
+color:219;219;219, region:left
+sleep:5
+color:220;220;220, region:left
+sleep:5
+color:221;221;221, region:left
+sleep:5
+color:222;222;222, region:left
+sleep:5
+color:223;223;223, region:left
+sleep:5
+color:224;224;224, region:left
+sleep:5
+color:225;225;225, region:left
+sleep:5
+color:226;226;226, region:left
+sleep:5
+color:227;227;227, region:left
+sleep:5
+color:228;228;228, region:left
+sleep:5
+color:229;229;229, region:left
+sleep:5
+color:230;230;230, region:left
+sleep:5
+color:231;231;231, region:left
+sleep:5
+color:232;232;232, region:left
+sleep:5
+color:233;233;233, region:left
+sleep:5
+color:234;234;234, region:left
+sleep:5
+color:235;235;235, region:left
+sleep:5
+color:236;236;236, region:left
+sleep:5
+color:237;237;237, region:left
+sleep:5
+color:238;238;238, region:left
+sleep:5
+color:239;239;239, region:left
+sleep:5
+color:240;240;240, region:left
+sleep:5
+color:241;241;241, region:left
+sleep:5
+color:242;242;242, region:left
+sleep:5
+color:243;243;243, region:left
+sleep:5
+color:244;244;244, region:left
+sleep:5
+color:245;245;245, region:left
+sleep:5
+color:246;246;246, region:left
+sleep:5
+color:247;247;247, region:left
+sleep:5
+color:248;248;248, region:left
+sleep:5
+color:249;249;249, region:left
+sleep:5
+color:250;250;250, region:left
+sleep:5
+color:251;251;251, region:left
+sleep:5
+color:252;252;252, region:left
+sleep:5
+color:253;253;253, region:left
+sleep:5
+color:254;254;254, region:left
+sleep:5
+color:254;254;254, region:left
+sleep:5
+color:1;1;1, region:middle
+sleep:5
+color:253;253;253, region:left
+sleep:5
+color:2;2;2, region:middle
+sleep:5
+color:252;252;252, region:left
+sleep:5
+color:3;3;3, region:middle
+sleep:5
+color:251;251;251, region:left
+sleep:5
+color:4;4;4, region:middle
+sleep:5
+color:250;250;250, region:left
+sleep:5
+color:5;5;5, region:middle
+sleep:5
+color:249;249;249, region:left
+sleep:5
+color:6;6;6, region:middle
+sleep:5
+color:248;248;248, region:left
+sleep:5
+color:7;7;7, region:middle
+sleep:5
+color:247;247;247, region:left
+sleep:5
+color:8;8;8, region:middle
+sleep:5
+color:246;246;246, region:left
+sleep:5
+color:9;9;9, region:middle
+sleep:5
+color:245;245;245, region:left
+sleep:5
+color:10;10;10, region:middle
+sleep:5
+color:244;244;244, region:left
+sleep:5
+color:11;11;11, region:middle
+sleep:5
+color:243;243;243, region:left
+sleep:5
+color:12;12;12, region:middle
+sleep:5
+color:242;242;242, region:left
+sleep:5
+color:13;13;13, region:middle
+sleep:5
+color:241;241;241, region:left
+sleep:5
+color:14;14;14, region:middle
+sleep:5
+color:240;240;240, region:left
+sleep:5
+color:15;15;15, region:middle
+sleep:5
+color:239;239;239, region:left
+sleep:5
+color:16;16;16, region:middle
+sleep:5
+color:238;238;238, region:left
+sleep:5
+color:17;17;17, region:middle
+sleep:5
+color:237;237;237, region:left
+sleep:5
+color:18;18;18, region:middle
+sleep:5
+color:236;236;236, region:left
+sleep:5
+color:19;19;19, region:middle
+sleep:5
+color:235;235;235, region:left
+sleep:5
+color:20;20;20, region:middle
+sleep:5
+color:234;234;234, region:left
+sleep:5
+color:21;21;21, region:middle
+sleep:5
+color:233;233;233, region:left
+sleep:5
+color:22;22;22, region:middle
+sleep:5
+color:232;232;232, region:left
+sleep:5
+color:23;23;23, region:middle
+sleep:5
+color:231;231;231, region:left
+sleep:5
+color:24;24;24, region:middle
+sleep:5
+color:230;230;230, region:left
+sleep:5
+color:25;25;25, region:middle
+sleep:5
+color:229;229;229, region:left
+sleep:5
+color:26;26;26, region:middle
+sleep:5
+color:228;228;228, region:left
+sleep:5
+color:27;27;27, region:middle
+sleep:5
+color:227;227;227, region:left
+sleep:5
+color:28;28;28, region:middle
+sleep:5
+color:226;226;226, region:left
+sleep:5
+color:29;29;29, region:middle
+sleep:5
+color:225;225;225, region:left
+sleep:5
+color:30;30;30, region:middle
+sleep:5
+color:224;224;224, region:left
+sleep:5
+color:31;31;31, region:middle
+sleep:5
+color:223;223;223, region:left
+sleep:5
+color:32;32;32, region:middle
+sleep:5
+color:222;222;222, region:left
+sleep:5
+color:33;33;33, region:middle
+sleep:5
+color:221;221;221, region:left
+sleep:5
+color:34;34;34, region:middle
+sleep:5
+color:220;220;220, region:left
+sleep:5
+color:35;35;35, region:middle
+sleep:5
+color:219;219;219, region:left
+sleep:5
+color:36;36;36, region:middle
+sleep:5
+color:218;218;218, region:left
+sleep:5
+color:37;37;37, region:middle
+sleep:5
+color:217;217;217, region:left
+sleep:5
+color:38;38;38, region:middle
+sleep:5
+color:216;216;216, region:left
+sleep:5
+color:39;39;39, region:middle
+sleep:5
+color:215;215;215, region:left
+sleep:5
+color:40;40;40, region:middle
+sleep:5
+color:214;214;214, region:left
+sleep:5
+color:41;41;41, region:middle
+sleep:5
+color:213;213;213, region:left
+sleep:5
+color:42;42;42, region:middle
+sleep:5
+color:212;212;212, region:left
+sleep:5
+color:43;43;43, region:middle
+sleep:5
+color:211;211;211, region:left
+sleep:5
+color:44;44;44, region:middle
+sleep:5
+color:210;210;210, region:left
+sleep:5
+color:45;45;45, region:middle
+sleep:5
+color:209;209;209, region:left
+sleep:5
+color:46;46;46, region:middle
+sleep:5
+color:208;208;208, region:left
+sleep:5
+color:47;47;47, region:middle
+sleep:5
+color:207;207;207, region:left
+sleep:5
+color:48;48;48, region:middle
+sleep:5
+color:206;206;206, region:left
+sleep:5
+color:49;49;49, region:middle
+sleep:5
+color:205;205;205, region:left
+sleep:5
+color:50;50;50, region:middle
+sleep:5
+color:204;204;204, region:left
+sleep:5
+color:51;51;51, region:middle
+sleep:5
+color:203;203;203, region:left
+sleep:5
+color:52;52;52, region:middle
+sleep:5
+color:202;202;202, region:left
+sleep:5
+color:53;53;53, region:middle
+sleep:5
+color:201;201;201, region:left
+sleep:5
+color:54;54;54, region:middle
+sleep:5
+color:200;200;200, region:left
+sleep:5
+color:55;55;55, region:middle
+sleep:5
+color:199;199;199, region:left
+sleep:5
+color:56;56;56, region:middle
+sleep:5
+color:198;198;198, region:left
+sleep:5
+color:57;57;57, region:middle
+sleep:5
+color:197;197;197, region:left
+sleep:5
+color:58;58;58, region:middle
+sleep:5
+color:196;196;196, region:left
+sleep:5
+color:59;59;59, region:middle
+sleep:5
+color:195;195;195, region:left
+sleep:5
+color:60;60;60, region:middle
+sleep:5
+color:194;194;194, region:left
+sleep:5
+color:61;61;61, region:middle
+sleep:5
+color:193;193;193, region:left
+sleep:5
+color:62;62;62, region:middle
+sleep:5
+color:192;192;192, region:left
+sleep:5
+color:63;63;63, region:middle
+sleep:5
+color:191;191;191, region:left
+sleep:5
+color:64;64;64, region:middle
+sleep:5
+color:190;190;190, region:left
+sleep:5
+color:65;65;65, region:middle
+sleep:5
+color:189;189;189, region:left
+sleep:5
+color:66;66;66, region:middle
+sleep:5
+color:188;188;188, region:left
+sleep:5
+color:67;67;67, region:middle
+sleep:5
+color:187;187;187, region:left
+sleep:5
+color:68;68;68, region:middle
+sleep:5
+color:186;186;186, region:left
+sleep:5
+color:69;69;69, region:middle
+sleep:5
+color:185;185;185, region:left
+sleep:5
+color:70;70;70, region:middle
+sleep:5
+color:184;184;184, region:left
+sleep:5
+color:71;71;71, region:middle
+sleep:5
+color:183;183;183, region:left
+sleep:5
+color:72;72;72, region:middle
+sleep:5
+color:182;182;182, region:left
+sleep:5
+color:73;73;73, region:middle
+sleep:5
+color:181;181;181, region:left
+sleep:5
+color:74;74;74, region:middle
+sleep:5
+color:180;180;180, region:left
+sleep:5
+color:75;75;75, region:middle
+sleep:5
+color:179;179;179, region:left
+sleep:5
+color:76;76;76, region:middle
+sleep:5
+color:178;178;178, region:left
+sleep:5
+color:77;77;77, region:middle
+sleep:5
+color:177;177;177, region:left
+sleep:5
+color:78;78;78, region:middle
+sleep:5
+color:176;176;176, region:left
+sleep:5
+color:79;79;79, region:middle
+sleep:5
+color:175;175;175, region:left
+sleep:5
+color:80;80;80, region:middle
+sleep:5
+color:174;174;174, region:left
+sleep:5
+color:81;81;81, region:middle
+sleep:5
+color:173;173;173, region:left
+sleep:5
+color:82;82;82, region:middle
+sleep:5
+color:172;172;172, region:left
+sleep:5
+color:83;83;83, region:middle
+sleep:5
+color:171;171;171, region:left
+sleep:5
+color:84;84;84, region:middle
+sleep:5
+color:170;170;170, region:left
+sleep:5
+color:85;85;85, region:middle
+sleep:5
+color:169;169;169, region:left
+sleep:5
+color:86;86;86, region:middle
+sleep:5
+color:168;168;168, region:left
+sleep:5
+color:87;87;87, region:middle
+sleep:5
+color:167;167;167, region:left
+sleep:5
+color:88;88;88, region:middle
+sleep:5
+color:166;166;166, region:left
+sleep:5
+color:89;89;89, region:middle
+sleep:5
+color:165;165;165, region:left
+sleep:5
+color:90;90;90, region:middle
+sleep:5
+color:164;164;164, region:left
+sleep:5
+color:91;91;91, region:middle
+sleep:5
+color:163;163;163, region:left
+sleep:5
+color:92;92;92, region:middle
+sleep:5
+color:162;162;162, region:left
+sleep:5
+color:93;93;93, region:middle
+sleep:5
+color:161;161;161, region:left
+sleep:5
+color:94;94;94, region:middle
+sleep:5
+color:160;160;160, region:left
+sleep:5
+color:95;95;95, region:middle
+sleep:5
+color:159;159;159, region:left
+sleep:5
+color:96;96;96, region:middle
+sleep:5
+color:158;158;158, region:left
+sleep:5
+color:97;97;97, region:middle
+sleep:5
+color:157;157;157, region:left
+sleep:5
+color:98;98;98, region:middle
+sleep:5
+color:156;156;156, region:left
+sleep:5
+color:99;99;99, region:middle
+sleep:5
+color:155;155;155, region:left
+sleep:5
+color:100;100;100, region:middle
+sleep:5
+color:154;154;154, region:left
+sleep:5
+color:101;101;101, region:middle
+sleep:5
+color:153;153;153, region:left
+sleep:5
+color:102;102;102, region:middle
+sleep:5
+color:152;152;152, region:left
+sleep:5
+color:103;103;103, region:middle
+sleep:5
+color:151;151;151, region:left
+sleep:5
+color:104;104;104, region:middle
+sleep:5
+color:150;150;150, region:left
+sleep:5
+color:105;105;105, region:middle
+sleep:5
+color:149;149;149, region:left
+sleep:5
+color:106;106;106, region:middle
+sleep:5
+color:148;148;148, region:left
+sleep:5
+color:107;107;107, region:middle
+sleep:5
+color:147;147;147, region:left
+sleep:5
+color:108;108;108, region:middle
+sleep:5
+color:146;146;146, region:left
+sleep:5
+color:109;109;109, region:middle
+sleep:5
+color:145;145;145, region:left
+sleep:5
+color:110;110;110, region:middle
+sleep:5
+color:144;144;144, region:left
+sleep:5
+color:111;111;111, region:middle
+sleep:5
+color:143;143;143, region:left
+sleep:5
+color:112;112;112, region:middle
+sleep:5
+color:142;142;142, region:left
+sleep:5
+color:113;113;113, region:middle
+sleep:5
+color:141;141;141, region:left
+sleep:5
+color:114;114;114, region:middle
+sleep:5
+color:140;140;140, region:left
+sleep:5
+color:115;115;115, region:middle
+sleep:5
+color:139;139;139, region:left
+sleep:5
+color:116;116;116, region:middle
+sleep:5
+color:138;138;138, region:left
+sleep:5
+color:117;117;117, region:middle
+sleep:5
+color:137;137;137, region:left
+sleep:5
+color:118;118;118, region:middle
+sleep:5
+color:136;136;136, region:left
+sleep:5
+color:119;119;119, region:middle
+sleep:5
+color:135;135;135, region:left
+sleep:5
+color:120;120;120, region:middle
+sleep:5
+color:134;134;134, region:left
+sleep:5
+color:121;121;121, region:middle
+sleep:5
+color:133;133;133, region:left
+sleep:5
+color:122;122;122, region:middle
+sleep:5
+color:132;132;132, region:left
+sleep:5
+color:123;123;123, region:middle
+sleep:5
+color:131;131;131, region:left
+sleep:5
+color:124;124;124, region:middle
+sleep:5
+color:130;130;130, region:left
+sleep:5
+color:125;125;125, region:middle
+sleep:5
+color:129;129;129, region:left
+sleep:5
+color:126;126;126, region:middle
+sleep:5
+color:128;128;128, region:left
+sleep:5
+color:127;127;127, region:middle
+sleep:5
+color:127;127;127, region:left
+sleep:5
+color:128;128;128, region:middle
+sleep:5
+color:126;126;126, region:left
+sleep:5
+color:129;129;129, region:middle
+sleep:5
+color:125;125;125, region:left
+sleep:5
+color:130;130;130, region:middle
+sleep:5
+color:124;124;124, region:left
+sleep:5
+color:131;131;131, region:middle
+sleep:5
+color:123;123;123, region:left
+sleep:5
+color:132;132;132, region:middle
+sleep:5
+color:122;122;122, region:left
+sleep:5
+color:133;133;133, region:middle
+sleep:5
+color:121;121;121, region:left
+sleep:5
+color:134;134;134, region:middle
+sleep:5
+color:120;120;120, region:left
+sleep:5
+color:135;135;135, region:middle
+sleep:5
+color:119;119;119, region:left
+sleep:5
+color:136;136;136, region:middle
+sleep:5
+color:118;118;118, region:left
+sleep:5
+color:137;137;137, region:middle
+sleep:5
+color:117;117;117, region:left
+sleep:5
+color:138;138;138, region:middle
+sleep:5
+color:116;116;116, region:left
+sleep:5
+color:139;139;139, region:middle
+sleep:5
+color:115;115;115, region:left
+sleep:5
+color:140;140;140, region:middle
+sleep:5
+color:114;114;114, region:left
+sleep:5
+color:141;141;141, region:middle
+sleep:5
+color:113;113;113, region:left
+sleep:5
+color:142;142;142, region:middle
+sleep:5
+color:112;112;112, region:left
+sleep:5
+color:143;143;143, region:middle
+sleep:5
+color:111;111;111, region:left
+sleep:5
+color:144;144;144, region:middle
+sleep:5
+color:110;110;110, region:left
+sleep:5
+color:145;145;145, region:middle
+sleep:5
+color:109;109;109, region:left
+sleep:5
+color:146;146;146, region:middle
+sleep:5
+color:108;108;108, region:left
+sleep:5
+color:147;147;147, region:middle
+sleep:5
+color:107;107;107, region:left
+sleep:5
+color:148;148;148, region:middle
+sleep:5
+color:106;106;106, region:left
+sleep:5
+color:149;149;149, region:middle
+sleep:5
+color:105;105;105, region:left
+sleep:5
+color:150;150;150, region:middle
+sleep:5
+color:104;104;104, region:left
+sleep:5
+color:151;151;151, region:middle
+sleep:5
+color:103;103;103, region:left
+sleep:5
+color:152;152;152, region:middle
+sleep:5
+color:102;102;102, region:left
+sleep:5
+color:153;153;153, region:middle
+sleep:5
+color:101;101;101, region:left
+sleep:5
+color:154;154;154, region:middle
+sleep:5
+color:100;100;100, region:left
+sleep:5
+color:155;155;155, region:middle
+sleep:5
+color:99;99;99, region:left
+sleep:5
+color:156;156;156, region:middle
+sleep:5
+color:98;98;98, region:left
+sleep:5
+color:157;157;157, region:middle
+sleep:5
+color:97;97;97, region:left
+sleep:5
+color:158;158;158, region:middle
+sleep:5
+color:96;96;96, region:left
+sleep:5
+color:159;159;159, region:middle
+sleep:5
+color:95;95;95, region:left
+sleep:5
+color:160;160;160, region:middle
+sleep:5
+color:94;94;94, region:left
+sleep:5
+color:161;161;161, region:middle
+sleep:5
+color:93;93;93, region:left
+sleep:5
+color:162;162;162, region:middle
+sleep:5
+color:92;92;92, region:left
+sleep:5
+color:163;163;163, region:middle
+sleep:5
+color:91;91;91, region:left
+sleep:5
+color:164;164;164, region:middle
+sleep:5
+color:90;90;90, region:left
+sleep:5
+color:165;165;165, region:middle
+sleep:5
+color:89;89;89, region:left
+sleep:5
+color:166;166;166, region:middle
+sleep:5
+color:88;88;88, region:left
+sleep:5
+color:167;167;167, region:middle
+sleep:5
+color:87;87;87, region:left
+sleep:5
+color:168;168;168, region:middle
+sleep:5
+color:86;86;86, region:left
+sleep:5
+color:169;169;169, region:middle
+sleep:5
+color:85;85;85, region:left
+sleep:5
+color:170;170;170, region:middle
+sleep:5
+color:84;84;84, region:left
+sleep:5
+color:171;171;171, region:middle
+sleep:5
+color:83;83;83, region:left
+sleep:5
+color:172;172;172, region:middle
+sleep:5
+color:82;82;82, region:left
+sleep:5
+color:173;173;173, region:middle
+sleep:5
+color:81;81;81, region:left
+sleep:5
+color:174;174;174, region:middle
+sleep:5
+color:80;80;80, region:left
+sleep:5
+color:175;175;175, region:middle
+sleep:5
+color:79;79;79, region:left
+sleep:5
+color:176;176;176, region:middle
+sleep:5
+color:78;78;78, region:left
+sleep:5
+color:177;177;177, region:middle
+sleep:5
+color:77;77;77, region:left
+sleep:5
+color:178;178;178, region:middle
+sleep:5
+color:76;76;76, region:left
+sleep:5
+color:179;179;179, region:middle
+sleep:5
+color:75;75;75, region:left
+sleep:5
+color:180;180;180, region:middle
+sleep:5
+color:74;74;74, region:left
+sleep:5
+color:181;181;181, region:middle
+sleep:5
+color:73;73;73, region:left
+sleep:5
+color:182;182;182, region:middle
+sleep:5
+color:72;72;72, region:left
+sleep:5
+color:183;183;183, region:middle
+sleep:5
+color:71;71;71, region:left
+sleep:5
+color:184;184;184, region:middle
+sleep:5
+color:70;70;70, region:left
+sleep:5
+color:185;185;185, region:middle
+sleep:5
+color:69;69;69, region:left
+sleep:5
+color:186;186;186, region:middle
+sleep:5
+color:68;68;68, region:left
+sleep:5
+color:187;187;187, region:middle
+sleep:5
+color:67;67;67, region:left
+sleep:5
+color:188;188;188, region:middle
+sleep:5
+color:66;66;66, region:left
+sleep:5
+color:189;189;189, region:middle
+sleep:5
+color:65;65;65, region:left
+sleep:5
+color:190;190;190, region:middle
+sleep:5
+color:64;64;64, region:left
+sleep:5
+color:191;191;191, region:middle
+sleep:5
+color:63;63;63, region:left
+sleep:5
+color:192;192;192, region:middle
+sleep:5
+color:62;62;62, region:left
+sleep:5
+color:193;193;193, region:middle
+sleep:5
+color:61;61;61, region:left
+sleep:5
+color:194;194;194, region:middle
+sleep:5
+color:60;60;60, region:left
+sleep:5
+color:195;195;195, region:middle
+sleep:5
+color:59;59;59, region:left
+sleep:5
+color:196;196;196, region:middle
+sleep:5
+color:58;58;58, region:left
+sleep:5
+color:197;197;197, region:middle
+sleep:5
+color:57;57;57, region:left
+sleep:5
+color:198;198;198, region:middle
+sleep:5
+color:56;56;56, region:left
+sleep:5
+color:199;199;199, region:middle
+sleep:5
+color:55;55;55, region:left
+sleep:5
+color:200;200;200, region:middle
+sleep:5
+color:54;54;54, region:left
+sleep:5
+color:201;201;201, region:middle
+sleep:5
+color:53;53;53, region:left
+sleep:5
+color:202;202;202, region:middle
+sleep:5
+color:52;52;52, region:left
+sleep:5
+color:203;203;203, region:middle
+sleep:5
+color:51;51;51, region:left
+sleep:5
+color:204;204;204, region:middle
+sleep:5
+color:50;50;50, region:left
+sleep:5
+color:205;205;205, region:middle
+sleep:5
+color:49;49;49, region:left
+sleep:5
+color:206;206;206, region:middle
+sleep:5
+color:48;48;48, region:left
+sleep:5
+color:207;207;207, region:middle
+sleep:5
+color:47;47;47, region:left
+sleep:5
+color:208;208;208, region:middle
+sleep:5
+color:46;46;46, region:left
+sleep:5
+color:209;209;209, region:middle
+sleep:5
+color:45;45;45, region:left
+sleep:5
+color:210;210;210, region:middle
+sleep:5
+color:44;44;44, region:left
+sleep:5
+color:211;211;211, region:middle
+sleep:5
+color:43;43;43, region:left
+sleep:5
+color:212;212;212, region:middle
+sleep:5
+color:42;42;42, region:left
+sleep:5
+color:213;213;213, region:middle
+sleep:5
+color:41;41;41, region:left
+sleep:5
+color:214;214;214, region:middle
+sleep:5
+color:40;40;40, region:left
+sleep:5
+color:215;215;215, region:middle
+sleep:5
+color:39;39;39, region:left
+sleep:5
+color:216;216;216, region:middle
+sleep:5
+color:38;38;38, region:left
+sleep:5
+color:217;217;217, region:middle
+sleep:5
+color:37;37;37, region:left
+sleep:5
+color:218;218;218, region:middle
+sleep:5
+color:36;36;36, region:left
+sleep:5
+color:219;219;219, region:middle
+sleep:5
+color:35;35;35, region:left
+sleep:5
+color:220;220;220, region:middle
+sleep:5
+color:34;34;34, region:left
+sleep:5
+color:221;221;221, region:middle
+sleep:5
+color:33;33;33, region:left
+sleep:5
+color:222;222;222, region:middle
+sleep:5
+color:32;32;32, region:left
+sleep:5
+color:223;223;223, region:middle
+sleep:5
+color:31;31;31, region:left
+sleep:5
+color:224;224;224, region:middle
+sleep:5
+color:30;30;30, region:left
+sleep:5
+color:225;225;225, region:middle
+sleep:5
+color:29;29;29, region:left
+sleep:5
+color:226;226;226, region:middle
+sleep:5
+color:28;28;28, region:left
+sleep:5
+color:227;227;227, region:middle
+sleep:5
+color:27;27;27, region:left
+sleep:5
+color:228;228;228, region:middle
+sleep:5
+color:26;26;26, region:left
+sleep:5
+color:229;229;229, region:middle
+sleep:5
+color:25;25;25, region:left
+sleep:5
+color:230;230;230, region:middle
+sleep:5
+color:24;24;24, region:left
+sleep:5
+color:231;231;231, region:middle
+sleep:5
+color:23;23;23, region:left
+sleep:5
+color:232;232;232, region:middle
+sleep:5
+color:22;22;22, region:left
+sleep:5
+color:233;233;233, region:middle
+sleep:5
+color:21;21;21, region:left
+sleep:5
+color:234;234;234, region:middle
+sleep:5
+color:20;20;20, region:left
+sleep:5
+color:235;235;235, region:middle
+sleep:5
+color:19;19;19, region:left
+sleep:5
+color:236;236;236, region:middle
+sleep:5
+color:18;18;18, region:left
+sleep:5
+color:237;237;237, region:middle
+sleep:5
+color:17;17;17, region:left
+sleep:5
+color:238;238;238, region:middle
+sleep:5
+color:16;16;16, region:left
+sleep:5
+color:239;239;239, region:middle
+sleep:5
+color:15;15;15, region:left
+sleep:5
+color:240;240;240, region:middle
+sleep:5
+color:14;14;14, region:left
+sleep:5
+color:241;241;241, region:middle
+sleep:5
+color:13;13;13, region:left
+sleep:5
+color:242;242;242, region:middle
+sleep:5
+color:12;12;12, region:left
+sleep:5
+color:243;243;243, region:middle
+sleep:5
+color:11;11;11, region:left
+sleep:5
+color:244;244;244, region:middle
+sleep:5
+color:10;10;10, region:left
+sleep:5
+color:245;245;245, region:middle
+sleep:5
+color:9;9;9, region:left
+sleep:5
+color:246;246;246, region:middle
+sleep:5
+color:8;8;8, region:left
+sleep:5
+color:247;247;247, region:middle
+sleep:5
+color:7;7;7, region:left
+sleep:5
+color:248;248;248, region:middle
+sleep:5
+color:6;6;6, region:left
+sleep:5
+color:249;249;249, region:middle
+sleep:5
+color:5;5;5, region:left
+sleep:5
+color:250;250;250, region:middle
+sleep:5
+color:4;4;4, region:left
+sleep:5
+color:251;251;251, region:middle
+sleep:5
+color:3;3;3, region:left
+sleep:5
+color:252;252;252, region:middle
+sleep:5
+color:2;2;2, region:left
+sleep:5
+color:253;253;253, region:middle
+sleep:5
+color:1;1;1, region:left
+sleep:5
+color:254;254;254, region:middle
+sleep:5
+color:0;0;0, region:left
+sleep:5
+color:255;255;255, region:middle
+sleep:5
+color:254;254;254, region:middle
+sleep:5
+color:1;1;1, region:right
+sleep:5
+color:253;253;253, region:middle
+sleep:5
+color:2;2;2, region:right
+sleep:5
+color:252;252;252, region:middle
+sleep:5
+color:3;3;3, region:right
+sleep:5
+color:251;251;251, region:middle
+sleep:5
+color:4;4;4, region:right
+sleep:5
+color:250;250;250, region:middle
+sleep:5
+color:5;5;5, region:right
+sleep:5
+color:249;249;249, region:middle
+sleep:5
+color:6;6;6, region:right
+sleep:5
+color:248;248;248, region:middle
+sleep:5
+color:7;7;7, region:right
+sleep:5
+color:247;247;247, region:middle
+sleep:5
+color:8;8;8, region:right
+sleep:5
+color:246;246;246, region:middle
+sleep:5
+color:9;9;9, region:right
+sleep:5
+color:245;245;245, region:middle
+sleep:5
+color:10;10;10, region:right
+sleep:5
+color:244;244;244, region:middle
+sleep:5
+color:11;11;11, region:right
+sleep:5
+color:243;243;243, region:middle
+sleep:5
+color:12;12;12, region:right
+sleep:5
+color:242;242;242, region:middle
+sleep:5
+color:13;13;13, region:right
+sleep:5
+color:241;241;241, region:middle
+sleep:5
+color:14;14;14, region:right
+sleep:5
+color:240;240;240, region:middle
+sleep:5
+color:15;15;15, region:right
+sleep:5
+color:239;239;239, region:middle
+sleep:5
+color:16;16;16, region:right
+sleep:5
+color:238;238;238, region:middle
+sleep:5
+color:17;17;17, region:right
+sleep:5
+color:237;237;237, region:middle
+sleep:5
+color:18;18;18, region:right
+sleep:5
+color:236;236;236, region:middle
+sleep:5
+color:19;19;19, region:right
+sleep:5
+color:235;235;235, region:middle
+sleep:5
+color:20;20;20, region:right
+sleep:5
+color:234;234;234, region:middle
+sleep:5
+color:21;21;21, region:right
+sleep:5
+color:233;233;233, region:middle
+sleep:5
+color:22;22;22, region:right
+sleep:5
+color:232;232;232, region:middle
+sleep:5
+color:23;23;23, region:right
+sleep:5
+color:231;231;231, region:middle
+sleep:5
+color:24;24;24, region:right
+sleep:5
+color:230;230;230, region:middle
+sleep:5
+color:25;25;25, region:right
+sleep:5
+color:229;229;229, region:middle
+sleep:5
+color:26;26;26, region:right
+sleep:5
+color:228;228;228, region:middle
+sleep:5
+color:27;27;27, region:right
+sleep:5
+color:227;227;227, region:middle
+sleep:5
+color:28;28;28, region:right
+sleep:5
+color:226;226;226, region:middle
+sleep:5
+color:29;29;29, region:right
+sleep:5
+color:225;225;225, region:middle
+sleep:5
+color:30;30;30, region:right
+sleep:5
+color:224;224;224, region:middle
+sleep:5
+color:31;31;31, region:right
+sleep:5
+color:223;223;223, region:middle
+sleep:5
+color:32;32;32, region:right
+sleep:5
+color:222;222;222, region:middle
+sleep:5
+color:33;33;33, region:right
+sleep:5
+color:221;221;221, region:middle
+sleep:5
+color:34;34;34, region:right
+sleep:5
+color:220;220;220, region:middle
+sleep:5
+color:35;35;35, region:right
+sleep:5
+color:219;219;219, region:middle
+sleep:5
+color:36;36;36, region:right
+sleep:5
+color:218;218;218, region:middle
+sleep:5
+color:37;37;37, region:right
+sleep:5
+color:217;217;217, region:middle
+sleep:5
+color:38;38;38, region:right
+sleep:5
+color:216;216;216, region:middle
+sleep:5
+color:39;39;39, region:right
+sleep:5
+color:215;215;215, region:middle
+sleep:5
+color:40;40;40, region:right
+sleep:5
+color:214;214;214, region:middle
+sleep:5
+color:41;41;41, region:right
+sleep:5
+color:213;213;213, region:middle
+sleep:5
+color:42;42;42, region:right
+sleep:5
+color:212;212;212, region:middle
+sleep:5
+color:43;43;43, region:right
+sleep:5
+color:211;211;211, region:middle
+sleep:5
+color:44;44;44, region:right
+sleep:5
+color:210;210;210, region:middle
+sleep:5
+color:45;45;45, region:right
+sleep:5
+color:209;209;209, region:middle
+sleep:5
+color:46;46;46, region:right
+sleep:5
+color:208;208;208, region:middle
+sleep:5
+color:47;47;47, region:right
+sleep:5
+color:207;207;207, region:middle
+sleep:5
+color:48;48;48, region:right
+sleep:5
+color:206;206;206, region:middle
+sleep:5
+color:49;49;49, region:right
+sleep:5
+color:205;205;205, region:middle
+sleep:5
+color:50;50;50, region:right
+sleep:5
+color:204;204;204, region:middle
+sleep:5
+color:51;51;51, region:right
+sleep:5
+color:203;203;203, region:middle
+sleep:5
+color:52;52;52, region:right
+sleep:5
+color:202;202;202, region:middle
+sleep:5
+color:53;53;53, region:right
+sleep:5
+color:201;201;201, region:middle
+sleep:5
+color:54;54;54, region:right
+sleep:5
+color:200;200;200, region:middle
+sleep:5
+color:55;55;55, region:right
+sleep:5
+color:199;199;199, region:middle
+sleep:5
+color:56;56;56, region:right
+sleep:5
+color:198;198;198, region:middle
+sleep:5
+color:57;57;57, region:right
+sleep:5
+color:197;197;197, region:middle
+sleep:5
+color:58;58;58, region:right
+sleep:5
+color:196;196;196, region:middle
+sleep:5
+color:59;59;59, region:right
+sleep:5
+color:195;195;195, region:middle
+sleep:5
+color:60;60;60, region:right
+sleep:5
+color:194;194;194, region:middle
+sleep:5
+color:61;61;61, region:right
+sleep:5
+color:193;193;193, region:middle
+sleep:5
+color:62;62;62, region:right
+sleep:5
+color:192;192;192, region:middle
+sleep:5
+color:63;63;63, region:right
+sleep:5
+color:191;191;191, region:middle
+sleep:5
+color:64;64;64, region:right
+sleep:5
+color:190;190;190, region:middle
+sleep:5
+color:65;65;65, region:right
+sleep:5
+color:189;189;189, region:middle
+sleep:5
+color:66;66;66, region:right
+sleep:5
+color:188;188;188, region:middle
+sleep:5
+color:67;67;67, region:right
+sleep:5
+color:187;187;187, region:middle
+sleep:5
+color:68;68;68, region:right
+sleep:5
+color:186;186;186, region:middle
+sleep:5
+color:69;69;69, region:right
+sleep:5
+color:185;185;185, region:middle
+sleep:5
+color:70;70;70, region:right
+sleep:5
+color:184;184;184, region:middle
+sleep:5
+color:71;71;71, region:right
+sleep:5
+color:183;183;183, region:middle
+sleep:5
+color:72;72;72, region:right
+sleep:5
+color:182;182;182, region:middle
+sleep:5
+color:73;73;73, region:right
+sleep:5
+color:181;181;181, region:middle
+sleep:5
+color:74;74;74, region:right
+sleep:5
+color:180;180;180, region:middle
+sleep:5
+color:75;75;75, region:right
+sleep:5
+color:179;179;179, region:middle
+sleep:5
+color:76;76;76, region:right
+sleep:5
+color:178;178;178, region:middle
+sleep:5
+color:77;77;77, region:right
+sleep:5
+color:177;177;177, region:middle
+sleep:5
+color:78;78;78, region:right
+sleep:5
+color:176;176;176, region:middle
+sleep:5
+color:79;79;79, region:right
+sleep:5
+color:175;175;175, region:middle
+sleep:5
+color:80;80;80, region:right
+sleep:5
+color:174;174;174, region:middle
+sleep:5
+color:81;81;81, region:right
+sleep:5
+color:173;173;173, region:middle
+sleep:5
+color:82;82;82, region:right
+sleep:5
+color:172;172;172, region:middle
+sleep:5
+color:83;83;83, region:right
+sleep:5
+color:171;171;171, region:middle
+sleep:5
+color:84;84;84, region:right
+sleep:5
+color:170;170;170, region:middle
+sleep:5
+color:85;85;85, region:right
+sleep:5
+color:169;169;169, region:middle
+sleep:5
+color:86;86;86, region:right
+sleep:5
+color:168;168;168, region:middle
+sleep:5
+color:87;87;87, region:right
+sleep:5
+color:167;167;167, region:middle
+sleep:5
+color:88;88;88, region:right
+sleep:5
+color:166;166;166, region:middle
+sleep:5
+color:89;89;89, region:right
+sleep:5
+color:165;165;165, region:middle
+sleep:5
+color:90;90;90, region:right
+sleep:5
+color:164;164;164, region:middle
+sleep:5
+color:91;91;91, region:right
+sleep:5
+color:163;163;163, region:middle
+sleep:5
+color:92;92;92, region:right
+sleep:5
+color:162;162;162, region:middle
+sleep:5
+color:93;93;93, region:right
+sleep:5
+color:161;161;161, region:middle
+sleep:5
+color:94;94;94, region:right
+sleep:5
+color:160;160;160, region:middle
+sleep:5
+color:95;95;95, region:right
+sleep:5
+color:159;159;159, region:middle
+sleep:5
+color:96;96;96, region:right
+sleep:5
+color:158;158;158, region:middle
+sleep:5
+color:97;97;97, region:right
+sleep:5
+color:157;157;157, region:middle
+sleep:5
+color:98;98;98, region:right
+sleep:5
+color:156;156;156, region:middle
+sleep:5
+color:99;99;99, region:right
+sleep:5
+color:155;155;155, region:middle
+sleep:5
+color:100;100;100, region:right
+sleep:5
+color:154;154;154, region:middle
+sleep:5
+color:101;101;101, region:right
+sleep:5
+color:153;153;153, region:middle
+sleep:5
+color:102;102;102, region:right
+sleep:5
+color:152;152;152, region:middle
+sleep:5
+color:103;103;103, region:right
+sleep:5
+color:151;151;151, region:middle
+sleep:5
+color:104;104;104, region:right
+sleep:5
+color:150;150;150, region:middle
+sleep:5
+color:105;105;105, region:right
+sleep:5
+color:149;149;149, region:middle
+sleep:5
+color:106;106;106, region:right
+sleep:5
+color:148;148;148, region:middle
+sleep:5
+color:107;107;107, region:right
+sleep:5
+color:147;147;147, region:middle
+sleep:5
+color:108;108;108, region:right
+sleep:5
+color:146;146;146, region:middle
+sleep:5
+color:109;109;109, region:right
+sleep:5
+color:145;145;145, region:middle
+sleep:5
+color:110;110;110, region:right
+sleep:5
+color:144;144;144, region:middle
+sleep:5
+color:111;111;111, region:right
+sleep:5
+color:143;143;143, region:middle
+sleep:5
+color:112;112;112, region:right
+sleep:5
+color:142;142;142, region:middle
+sleep:5
+color:113;113;113, region:right
+sleep:5
+color:141;141;141, region:middle
+sleep:5
+color:114;114;114, region:right
+sleep:5
+color:140;140;140, region:middle
+sleep:5
+color:115;115;115, region:right
+sleep:5
+color:139;139;139, region:middle
+sleep:5
+color:116;116;116, region:right
+sleep:5
+color:138;138;138, region:middle
+sleep:5
+color:117;117;117, region:right
+sleep:5
+color:137;137;137, region:middle
+sleep:5
+color:118;118;118, region:right
+sleep:5
+color:136;136;136, region:middle
+sleep:5
+color:119;119;119, region:right
+sleep:5
+color:135;135;135, region:middle
+sleep:5
+color:120;120;120, region:right
+sleep:5
+color:134;134;134, region:middle
+sleep:5
+color:121;121;121, region:right
+sleep:5
+color:133;133;133, region:middle
+sleep:5
+color:122;122;122, region:right
+sleep:5
+color:132;132;132, region:middle
+sleep:5
+color:123;123;123, region:right
+sleep:5
+color:131;131;131, region:middle
+sleep:5
+color:124;124;124, region:right
+sleep:5
+color:130;130;130, region:middle
+sleep:5
+color:125;125;125, region:right
+sleep:5
+color:129;129;129, region:middle
+sleep:5
+color:126;126;126, region:right
+sleep:5
+color:128;128;128, region:middle
+sleep:5
+color:127;127;127, region:right
+sleep:5
+color:127;127;127, region:middle
+sleep:5
+color:128;128;128, region:right
+sleep:5
+color:126;126;126, region:middle
+sleep:5
+color:129;129;129, region:right
+sleep:5
+color:125;125;125, region:middle
+sleep:5
+color:130;130;130, region:right
+sleep:5
+color:124;124;124, region:middle
+sleep:5
+color:131;131;131, region:right
+sleep:5
+color:123;123;123, region:middle
+sleep:5
+color:132;132;132, region:right
+sleep:5
+color:122;122;122, region:middle
+sleep:5
+color:133;133;133, region:right
+sleep:5
+color:121;121;121, region:middle
+sleep:5
+color:134;134;134, region:right
+sleep:5
+color:120;120;120, region:middle
+sleep:5
+color:135;135;135, region:right
+sleep:5
+color:119;119;119, region:middle
+sleep:5
+color:136;136;136, region:right
+sleep:5
+color:118;118;118, region:middle
+sleep:5
+color:137;137;137, region:right
+sleep:5
+color:117;117;117, region:middle
+sleep:5
+color:138;138;138, region:right
+sleep:5
+color:116;116;116, region:middle
+sleep:5
+color:139;139;139, region:right
+sleep:5
+color:115;115;115, region:middle
+sleep:5
+color:140;140;140, region:right
+sleep:5
+color:114;114;114, region:middle
+sleep:5
+color:141;141;141, region:right
+sleep:5
+color:113;113;113, region:middle
+sleep:5
+color:142;142;142, region:right
+sleep:5
+color:112;112;112, region:middle
+sleep:5
+color:143;143;143, region:right
+sleep:5
+color:111;111;111, region:middle
+sleep:5
+color:144;144;144, region:right
+sleep:5
+color:110;110;110, region:middle
+sleep:5
+color:145;145;145, region:right
+sleep:5
+color:109;109;109, region:middle
+sleep:5
+color:146;146;146, region:right
+sleep:5
+color:108;108;108, region:middle
+sleep:5
+color:147;147;147, region:right
+sleep:5
+color:107;107;107, region:middle
+sleep:5
+color:148;148;148, region:right
+sleep:5
+color:106;106;106, region:middle
+sleep:5
+color:149;149;149, region:right
+sleep:5
+color:105;105;105, region:middle
+sleep:5
+color:150;150;150, region:right
+sleep:5
+color:104;104;104, region:middle
+sleep:5
+color:151;151;151, region:right
+sleep:5
+color:103;103;103, region:middle
+sleep:5
+color:152;152;152, region:right
+sleep:5
+color:102;102;102, region:middle
+sleep:5
+color:153;153;153, region:right
+sleep:5
+color:101;101;101, region:middle
+sleep:5
+color:154;154;154, region:right
+sleep:5
+color:100;100;100, region:middle
+sleep:5
+color:155;155;155, region:right
+sleep:5
+color:99;99;99, region:middle
+sleep:5
+color:156;156;156, region:right
+sleep:5
+color:98;98;98, region:middle
+sleep:5
+color:157;157;157, region:right
+sleep:5
+color:97;97;97, region:middle
+sleep:5
+color:158;158;158, region:right
+sleep:5
+color:96;96;96, region:middle
+sleep:5
+color:159;159;159, region:right
+sleep:5
+color:95;95;95, region:middle
+sleep:5
+color:160;160;160, region:right
+sleep:5
+color:94;94;94, region:middle
+sleep:5
+color:161;161;161, region:right
+sleep:5
+color:93;93;93, region:middle
+sleep:5
+color:162;162;162, region:right
+sleep:5
+color:92;92;92, region:middle
+sleep:5
+color:163;163;163, region:right
+sleep:5
+color:91;91;91, region:middle
+sleep:5
+color:164;164;164, region:right
+sleep:5
+color:90;90;90, region:middle
+sleep:5
+color:165;165;165, region:right
+sleep:5
+color:89;89;89, region:middle
+sleep:5
+color:166;166;166, region:right
+sleep:5
+color:88;88;88, region:middle
+sleep:5
+color:167;167;167, region:right
+sleep:5
+color:87;87;87, region:middle
+sleep:5
+color:168;168;168, region:right
+sleep:5
+color:86;86;86, region:middle
+sleep:5
+color:169;169;169, region:right
+sleep:5
+color:85;85;85, region:middle
+sleep:5
+color:170;170;170, region:right
+sleep:5
+color:84;84;84, region:middle
+sleep:5
+color:171;171;171, region:right
+sleep:5
+color:83;83;83, region:middle
+sleep:5
+color:172;172;172, region:right
+sleep:5
+color:82;82;82, region:middle
+sleep:5
+color:173;173;173, region:right
+sleep:5
+color:81;81;81, region:middle
+sleep:5
+color:174;174;174, region:right
+sleep:5
+color:80;80;80, region:middle
+sleep:5
+color:175;175;175, region:right
+sleep:5
+color:79;79;79, region:middle
+sleep:5
+color:176;176;176, region:right
+sleep:5
+color:78;78;78, region:middle
+sleep:5
+color:177;177;177, region:right
+sleep:5
+color:77;77;77, region:middle
+sleep:5
+color:178;178;178, region:right
+sleep:5
+color:76;76;76, region:middle
+sleep:5
+color:179;179;179, region:right
+sleep:5
+color:75;75;75, region:middle
+sleep:5
+color:180;180;180, region:right
+sleep:5
+color:74;74;74, region:middle
+sleep:5
+color:181;181;181, region:right
+sleep:5
+color:73;73;73, region:middle
+sleep:5
+color:182;182;182, region:right
+sleep:5
+color:72;72;72, region:middle
+sleep:5
+color:183;183;183, region:right
+sleep:5
+color:71;71;71, region:middle
+sleep:5
+color:184;184;184, region:right
+sleep:5
+color:70;70;70, region:middle
+sleep:5
+color:185;185;185, region:right
+sleep:5
+color:69;69;69, region:middle
+sleep:5
+color:186;186;186, region:right
+sleep:5
+color:68;68;68, region:middle
+sleep:5
+color:187;187;187, region:right
+sleep:5
+color:67;67;67, region:middle
+sleep:5
+color:188;188;188, region:right
+sleep:5
+color:66;66;66, region:middle
+sleep:5
+color:189;189;189, region:right
+sleep:5
+color:65;65;65, region:middle
+sleep:5
+color:190;190;190, region:right
+sleep:5
+color:64;64;64, region:middle
+sleep:5
+color:191;191;191, region:right
+sleep:5
+color:63;63;63, region:middle
+sleep:5
+color:192;192;192, region:right
+sleep:5
+color:62;62;62, region:middle
+sleep:5
+color:193;193;193, region:right
+sleep:5
+color:61;61;61, region:middle
+sleep:5
+color:194;194;194, region:right
+sleep:5
+color:60;60;60, region:middle
+sleep:5
+color:195;195;195, region:right
+sleep:5
+color:59;59;59, region:middle
+sleep:5
+color:196;196;196, region:right
+sleep:5
+color:58;58;58, region:middle
+sleep:5
+color:197;197;197, region:right
+sleep:5
+color:57;57;57, region:middle
+sleep:5
+color:198;198;198, region:right
+sleep:5
+color:56;56;56, region:middle
+sleep:5
+color:199;199;199, region:right
+sleep:5
+color:55;55;55, region:middle
+sleep:5
+color:200;200;200, region:right
+sleep:5
+color:54;54;54, region:middle
+sleep:5
+color:201;201;201, region:right
+sleep:5
+color:53;53;53, region:middle
+sleep:5
+color:202;202;202, region:right
+sleep:5
+color:52;52;52, region:middle
+sleep:5
+color:203;203;203, region:right
+sleep:5
+color:51;51;51, region:middle
+sleep:5
+color:204;204;204, region:right
+sleep:5
+color:50;50;50, region:middle
+sleep:5
+color:205;205;205, region:right
+sleep:5
+color:49;49;49, region:middle
+sleep:5
+color:206;206;206, region:right
+sleep:5
+color:48;48;48, region:middle
+sleep:5
+color:207;207;207, region:right
+sleep:5
+color:47;47;47, region:middle
+sleep:5
+color:208;208;208, region:right
+sleep:5
+color:46;46;46, region:middle
+sleep:5
+color:209;209;209, region:right
+sleep:5
+color:45;45;45, region:middle
+sleep:5
+color:210;210;210, region:right
+sleep:5
+color:44;44;44, region:middle
+sleep:5
+color:211;211;211, region:right
+sleep:5
+color:43;43;43, region:middle
+sleep:5
+color:212;212;212, region:right
+sleep:5
+color:42;42;42, region:middle
+sleep:5
+color:213;213;213, region:right
+sleep:5
+color:41;41;41, region:middle
+sleep:5
+color:214;214;214, region:right
+sleep:5
+color:40;40;40, region:middle
+sleep:5
+color:215;215;215, region:right
+sleep:5
+color:39;39;39, region:middle
+sleep:5
+color:216;216;216, region:right
+sleep:5
+color:38;38;38, region:middle
+sleep:5
+color:217;217;217, region:right
+sleep:5
+color:37;37;37, region:middle
+sleep:5
+color:218;218;218, region:right
+sleep:5
+color:36;36;36, region:middle
+sleep:5
+color:219;219;219, region:right
+sleep:5
+color:35;35;35, region:middle
+sleep:5
+color:220;220;220, region:right
+sleep:5
+color:34;34;34, region:middle
+sleep:5
+color:221;221;221, region:right
+sleep:5
+color:33;33;33, region:middle
+sleep:5
+color:222;222;222, region:right
+sleep:5
+color:32;32;32, region:middle
+sleep:5
+color:223;223;223, region:right
+sleep:5
+color:31;31;31, region:middle
+sleep:5
+color:224;224;224, region:right
+sleep:5
+color:30;30;30, region:middle
+sleep:5
+color:225;225;225, region:right
+sleep:5
+color:29;29;29, region:middle
+sleep:5
+color:226;226;226, region:right
+sleep:5
+color:28;28;28, region:middle
+sleep:5
+color:227;227;227, region:right
+sleep:5
+color:27;27;27, region:middle
+sleep:5
+color:228;228;228, region:right
+sleep:5
+color:26;26;26, region:middle
+sleep:5
+color:229;229;229, region:right
+sleep:5
+color:25;25;25, region:middle
+sleep:5
+color:230;230;230, region:right
+sleep:5
+color:24;24;24, region:middle
+sleep:5
+color:231;231;231, region:right
+sleep:5
+color:23;23;23, region:middle
+sleep:5
+color:232;232;232, region:right
+sleep:5
+color:22;22;22, region:middle
+sleep:5
+color:233;233;233, region:right
+sleep:5
+color:21;21;21, region:middle
+sleep:5
+color:234;234;234, region:right
+sleep:5
+color:20;20;20, region:middle
+sleep:5
+color:235;235;235, region:right
+sleep:5
+color:19;19;19, region:middle
+sleep:5
+color:236;236;236, region:right
+sleep:5
+color:18;18;18, region:middle
+sleep:5
+color:237;237;237, region:right
+sleep:5
+color:17;17;17, region:middle
+sleep:5
+color:238;238;238, region:right
+sleep:5
+color:16;16;16, region:middle
+sleep:5
+color:239;239;239, region:right
+sleep:5
+color:15;15;15, region:middle
+sleep:5
+color:240;240;240, region:right
+sleep:5
+color:14;14;14, region:middle
+sleep:5
+color:241;241;241, region:right
+sleep:5
+color:13;13;13, region:middle
+sleep:5
+color:242;242;242, region:right
+sleep:5
+color:12;12;12, region:middle
+sleep:5
+color:243;243;243, region:right
+sleep:5
+color:11;11;11, region:middle
+sleep:5
+color:244;244;244, region:right
+sleep:5
+color:10;10;10, region:middle
+sleep:5
+color:245;245;245, region:right
+sleep:5
+color:9;9;9, region:middle
+sleep:5
+color:246;246;246, region:right
+sleep:5
+color:8;8;8, region:middle
+sleep:5
+color:247;247;247, region:right
+sleep:5
+color:7;7;7, region:middle
+sleep:5
+color:248;248;248, region:right
+sleep:5
+color:6;6;6, region:middle
+sleep:5
+color:249;249;249, region:right
+sleep:5
+color:5;5;5, region:middle
+sleep:5
+color:250;250;250, region:right
+sleep:5
+color:4;4;4, region:middle
+sleep:5
+color:251;251;251, region:right
+sleep:5
+color:3;3;3, region:middle
+sleep:5
+color:252;252;252, region:right
+sleep:5
+color:2;2;2, region:middle
+sleep:5
+color:253;253;253, region:right
+sleep:5
+color:1;1;1, region:middle
+sleep:5
+color:254;254;254, region:right
+sleep:5
+color:0;0;0, region:middle
+sleep:5
+color:255;255;255, region:right
+sleep:5
+color:254;254;254, region:right
+sleep:5
+color:253;253;253, region:right
+sleep:5
+color:252;252;252, region:right
+sleep:5
+color:251;251;251, region:right
+sleep:5
+color:250;250;250, region:right
+sleep:5
+color:249;249;249, region:right
+sleep:5
+color:248;248;248, region:right
+sleep:5
+color:247;247;247, region:right
+sleep:5
+color:246;246;246, region:right
+sleep:5
+color:245;245;245, region:right
+sleep:5
+color:244;244;244, region:right
+sleep:5
+color:243;243;243, region:right
+sleep:5
+color:242;242;242, region:right
+sleep:5
+color:241;241;241, region:right
+sleep:5
+color:240;240;240, region:right
+sleep:5
+color:239;239;239, region:right
+sleep:5
+color:238;238;238, region:right
+sleep:5
+color:237;237;237, region:right
+sleep:5
+color:236;236;236, region:right
+sleep:5
+color:235;235;235, region:right
+sleep:5
+color:234;234;234, region:right
+sleep:5
+color:233;233;233, region:right
+sleep:5
+color:232;232;232, region:right
+sleep:5
+color:231;231;231, region:right
+sleep:5
+color:230;230;230, region:right
+sleep:5
+color:229;229;229, region:right
+sleep:5
+color:228;228;228, region:right
+sleep:5
+color:227;227;227, region:right
+sleep:5
+color:226;226;226, region:right
+sleep:5
+color:225;225;225, region:right
+sleep:5
+color:224;224;224, region:right
+sleep:5
+color:223;223;223, region:right
+sleep:5
+color:222;222;222, region:right
+sleep:5
+color:221;221;221, region:right
+sleep:5
+color:220;220;220, region:right
+sleep:5
+color:219;219;219, region:right
+sleep:5
+color:218;218;218, region:right
+sleep:5
+color:217;217;217, region:right
+sleep:5
+color:216;216;216, region:right
+sleep:5
+color:215;215;215, region:right
+sleep:5
+color:214;214;214, region:right
+sleep:5
+color:213;213;213, region:right
+sleep:5
+color:212;212;212, region:right
+sleep:5
+color:211;211;211, region:right
+sleep:5
+color:210;210;210, region:right
+sleep:5
+color:209;209;209, region:right
+sleep:5
+color:208;208;208, region:right
+sleep:5
+color:207;207;207, region:right
+sleep:5
+color:206;206;206, region:right
+sleep:5
+color:205;205;205, region:right
+sleep:5
+color:204;204;204, region:right
+sleep:5
+color:203;203;203, region:right
+sleep:5
+color:202;202;202, region:right
+sleep:5
+color:201;201;201, region:right
+sleep:5
+color:200;200;200, region:right
+sleep:5
+color:199;199;199, region:right
+sleep:5
+color:198;198;198, region:right
+sleep:5
+color:197;197;197, region:right
+sleep:5
+color:196;196;196, region:right
+sleep:5
+color:195;195;195, region:right
+sleep:5
+color:194;194;194, region:right
+sleep:5
+color:193;193;193, region:right
+sleep:5
+color:192;192;192, region:right
+sleep:5
+color:191;191;191, region:right
+sleep:5
+color:190;190;190, region:right
+sleep:5
+color:189;189;189, region:right
+sleep:5
+color:188;188;188, region:right
+sleep:5
+color:187;187;187, region:right
+sleep:5
+color:186;186;186, region:right
+sleep:5
+color:185;185;185, region:right
+sleep:5
+color:184;184;184, region:right
+sleep:5
+color:183;183;183, region:right
+sleep:5
+color:182;182;182, region:right
+sleep:5
+color:181;181;181, region:right
+sleep:5
+color:180;180;180, region:right
+sleep:5
+color:179;179;179, region:right
+sleep:5
+color:178;178;178, region:right
+sleep:5
+color:177;177;177, region:right
+sleep:5
+color:176;176;176, region:right
+sleep:5
+color:175;175;175, region:right
+sleep:5
+color:174;174;174, region:right
+sleep:5
+color:173;173;173, region:right
+sleep:5
+color:172;172;172, region:right
+sleep:5
+color:171;171;171, region:right
+sleep:5
+color:170;170;170, region:right
+sleep:5
+color:169;169;169, region:right
+sleep:5
+color:168;168;168, region:right
+sleep:5
+color:167;167;167, region:right
+sleep:5
+color:166;166;166, region:right
+sleep:5
+color:165;165;165, region:right
+sleep:5
+color:164;164;164, region:right
+sleep:5
+color:163;163;163, region:right
+sleep:5
+color:162;162;162, region:right
+sleep:5
+color:161;161;161, region:right
+sleep:5
+color:160;160;160, region:right
+sleep:5
+color:159;159;159, region:right
+sleep:5
+color:158;158;158, region:right
+sleep:5
+color:157;157;157, region:right
+sleep:5
+color:156;156;156, region:right
+sleep:5
+color:155;155;155, region:right
+sleep:5
+color:154;154;154, region:right
+sleep:5
+color:153;153;153, region:right
+sleep:5
+color:152;152;152, region:right
+sleep:5
+color:151;151;151, region:right
+sleep:5
+color:150;150;150, region:right
+sleep:5
+color:149;149;149, region:right
+sleep:5
+color:148;148;148, region:right
+sleep:5
+color:147;147;147, region:right
+sleep:5
+color:146;146;146, region:right
+sleep:5
+color:145;145;145, region:right
+sleep:5
+color:144;144;144, region:right
+sleep:5
+color:143;143;143, region:right
+sleep:5
+color:142;142;142, region:right
+sleep:5
+color:141;141;141, region:right
+sleep:5
+color:140;140;140, region:right
+sleep:5
+color:139;139;139, region:right
+sleep:5
+color:138;138;138, region:right
+sleep:5
+color:137;137;137, region:right
+sleep:5
+color:136;136;136, region:right
+sleep:5
+color:135;135;135, region:right
+sleep:5
+color:134;134;134, region:right
+sleep:5
+color:133;133;133, region:right
+sleep:5
+color:132;132;132, region:right
+sleep:5
+color:131;131;131, region:right
+sleep:5
+color:130;130;130, region:right
+sleep:5
+color:129;129;129, region:right
+sleep:5
+color:128;128;128, region:right
+sleep:5
+color:127;127;127, region:right
+sleep:5
+color:126;126;126, region:right
+sleep:5
+color:125;125;125, region:right
+sleep:5
+color:124;124;124, region:right
+sleep:5
+color:123;123;123, region:right
+sleep:5
+color:122;122;122, region:right
+sleep:5
+color:121;121;121, region:right
+sleep:5
+color:120;120;120, region:right
+sleep:5
+color:119;119;119, region:right
+sleep:5
+color:118;118;118, region:right
+sleep:5
+color:117;117;117, region:right
+sleep:5
+color:116;116;116, region:right
+sleep:5
+color:115;115;115, region:right
+sleep:5
+color:114;114;114, region:right
+sleep:5
+color:113;113;113, region:right
+sleep:5
+color:112;112;112, region:right
+sleep:5
+color:111;111;111, region:right
+sleep:5
+color:110;110;110, region:right
+sleep:5
+color:109;109;109, region:right
+sleep:5
+color:108;108;108, region:right
+sleep:5
+color:107;107;107, region:right
+sleep:5
+color:106;106;106, region:right
+sleep:5
+color:105;105;105, region:right
+sleep:5
+color:104;104;104, region:right
+sleep:5
+color:103;103;103, region:right
+sleep:5
+color:102;102;102, region:right
+sleep:5
+color:101;101;101, region:right
+sleep:5
+color:100;100;100, region:right
+sleep:5
+color:99;99;99, region:right
+sleep:5
+color:98;98;98, region:right
+sleep:5
+color:97;97;97, region:right
+sleep:5
+color:96;96;96, region:right
+sleep:5
+color:95;95;95, region:right
+sleep:5
+color:94;94;94, region:right
+sleep:5
+color:93;93;93, region:right
+sleep:5
+color:92;92;92, region:right
+sleep:5
+color:91;91;91, region:right
+sleep:5
+color:90;90;90, region:right
+sleep:5
+color:89;89;89, region:right
+sleep:5
+color:88;88;88, region:right
+sleep:5
+color:87;87;87, region:right
+sleep:5
+color:86;86;86, region:right
+sleep:5
+color:85;85;85, region:right
+sleep:5
+color:84;84;84, region:right
+sleep:5
+color:83;83;83, region:right
+sleep:5
+color:82;82;82, region:right
+sleep:5
+color:81;81;81, region:right
+sleep:5
+color:80;80;80, region:right
+sleep:5
+color:79;79;79, region:right
+sleep:5
+color:78;78;78, region:right
+sleep:5
+color:77;77;77, region:right
+sleep:5
+color:76;76;76, region:right
+sleep:5
+color:75;75;75, region:right
+sleep:5
+color:74;74;74, region:right
+sleep:5
+color:73;73;73, region:right
+sleep:5
+color:72;72;72, region:right
+sleep:5
+color:71;71;71, region:right
+sleep:5
+color:70;70;70, region:right
+sleep:5
+color:69;69;69, region:right
+sleep:5
+color:68;68;68, region:right
+sleep:5
+color:67;67;67, region:right
+sleep:5
+color:66;66;66, region:right
+sleep:5
+color:65;65;65, region:right
+sleep:5
+color:64;64;64, region:right
+sleep:5
+color:63;63;63, region:right
+sleep:5
+color:62;62;62, region:right
+sleep:5
+color:61;61;61, region:right
+sleep:5
+color:60;60;60, region:right
+sleep:5
+color:59;59;59, region:right
+sleep:5
+color:58;58;58, region:right
+sleep:5
+color:57;57;57, region:right
+sleep:5
+color:56;56;56, region:right
+sleep:5
+color:55;55;55, region:right
+sleep:5
+color:54;54;54, region:right
+sleep:5
+color:53;53;53, region:right
+sleep:5
+color:52;52;52, region:right
+sleep:5
+color:51;51;51, region:right
+sleep:5
+color:50;50;50, region:right
+sleep:5
+color:49;49;49, region:right
+sleep:5
+color:48;48;48, region:right
+sleep:5
+color:47;47;47, region:right
+sleep:5
+color:46;46;46, region:right
+sleep:5
+color:45;45;45, region:right
+sleep:5
+color:44;44;44, region:right
+sleep:5
+color:43;43;43, region:right
+sleep:5
+color:42;42;42, region:right
+sleep:5
+color:41;41;41, region:right
+sleep:5
+color:40;40;40, region:right
+sleep:5
+color:39;39;39, region:right
+sleep:5
+color:38;38;38, region:right
+sleep:5
+color:37;37;37, region:right
+sleep:5
+color:36;36;36, region:right
+sleep:5
+color:35;35;35, region:right
+sleep:5
+color:34;34;34, region:right
+sleep:5
+color:33;33;33, region:right
+sleep:5
+color:32;32;32, region:right
+sleep:5
+color:31;31;31, region:right
+sleep:5
+color:30;30;30, region:right
+sleep:5
+color:29;29;29, region:right
+sleep:5
+color:28;28;28, region:right
+sleep:5
+color:27;27;27, region:right
+sleep:5
+color:26;26;26, region:right
+sleep:5
+color:25;25;25, region:right
+sleep:5
+color:24;24;24, region:right
+sleep:5
+color:23;23;23, region:right
+sleep:5
+color:22;22;22, region:right
+sleep:5
+color:21;21;21, region:right
+sleep:5
+color:20;20;20, region:right
+sleep:5
+color:19;19;19, region:right
+sleep:5
+color:18;18;18, region:right
+sleep:5
+color:17;17;17, region:right
+sleep:5
+color:16;16;16, region:right
+sleep:5
+color:15;15;15, region:right
+sleep:5
+color:14;14;14, region:right
+sleep:5
+color:13;13;13, region:right
+sleep:5
+color:12;12;12, region:right
+sleep:5
+color:11;11;11, region:right
+sleep:5
+color:10;10;10, region:right
+sleep:5
+color:9;9;9, region:right
+sleep:5
+color:8;8;8, region:right
+sleep:5
+color:7;7;7, region:right
+sleep:5
+color:6;6;6, region:right
+sleep:5
+color:5;5;5, region:right
+sleep:5
+color:4;4;4, region:right
+sleep:5
+color:3;3;3, region:right
+sleep:5
+color:2;2;2, region:right
+sleep:5
+color:1;1;1, region:right
+sleep:5
+color:0;0;0, region:right
+sleep:5

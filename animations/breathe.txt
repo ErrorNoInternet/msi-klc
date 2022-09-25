@@ -1,5 +1,4 @@
 loop_forever
-
 color:0;0;0
 sleep:10
 color:1;1;1
@@ -1019,3 +1018,4 @@ sleep:10
 color:1;1;1
 sleep:10
 color:0;0;0
+sleep:10
