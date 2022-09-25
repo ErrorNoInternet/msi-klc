@@ -1,6 +1,10 @@
 # msi-klc
-A tool that allows you to control the backlight of your MSI SteelSeries laptop keyboard. Tested on the MSI GE60 2PE laptop running Arch Linux.
-Supports 3 regions, 8 predefined colors, and RGB/hex colors. Wave/breathe animations can be created yourself using shell scripts.
+A tool that allows you to control the backlight of your MSI SteelSeries laptop keyboard.\
+Supports 3 regions, 8 predefined colors, RGB/hex colors, and custom animations.
+
+### Supported
+#### Linux
+[x] MSI GE60 2PE
 
 ## Installation
 ### Compiling
@@ -34,5 +38,9 @@ msi-klc set --color "#0fffaf" --mode rgb
 
 # make only the left side cyan
 msi-klc off && msi-klc set --color "#0fffaf" --mode rgb --region left
+
+# load an animation
+msi-klc load animations/breathe.txt
 ```
 
+<sub>If you would like to modify or use this repository (including its code) in your own project, please be sure to credit!</sub>
