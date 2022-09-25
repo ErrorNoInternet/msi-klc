@@ -1,4 +1,5 @@
 use msi_klc::*;
+mod parser;
 
 fn main() {
     let mut keyboard = match Keyboard::new() {
@@ -58,57 +59,29 @@ fn main() {
         Some(("set", matches)) => {
             let mut color = match matches.get_one::<String>("color") {
                 Some(color) => color.to_string(),
-                None => "off".to_string(),
+                None => "".to_string(),
             };
-            let keyboard_color = match color.to_lowercase().to_string().as_str() {
-                "off" => &Color::Off,
-                "red" => &Color::Red,
-                "orange" => &Color::Orange,
-                "yellow" => &Color::Yellow,
-                "green" => &Color::Green,
-                "sky" => &Color::Sky,
-                "blue" => &Color::Blue,
-                "purple" => &Color::Purple,
-                "white" => &Color::White,
-                _ => &Color::Off,
-            };
+            let keyboard_color = parser::parse_color(&color);
 
             let region = match matches.get_one::<String>("region") {
                 Some(region) => region.to_string(),
-                None => "all".to_string(),
+                None => "".to_string(),
             };
-            let keyboard_region = match region.to_lowercase().as_str() {
-                "left" => &Region::Left,
-                "middle" => &Region::Middle,
-                "right" => &Region::Right,
-                "all" => &Region::All,
-                _ => &Region::All,
-            };
+            let keyboard_region = parser::parse_region(&region);
 
             let brightness = match matches.get_one::<String>("brightness") {
                 Some(brightness) => brightness.to_string(),
-                None => "medium".to_string(),
+                None => "".to_string(),
             };
-            let keyboard_brightness = match brightness.to_lowercase().as_str() {
-                "dark" => &Brightness::Dark,
-                "low" => &Brightness::Low,
-                "medium" => &Brightness::Medium,
-                "high" => &Brightness::High,
-                _ => &Brightness::Medium,
-            };
+            let keyboard_brightness = parser::parse_brightness(&brightness);
 
             let mode = match matches.get_one::<String>("mode") {
                 Some(mode) => mode.to_string(),
-                None => "normal".to_string(),
+                None => "".to_string(),
             };
-            let keyboard_mode = match mode.to_lowercase().as_str() {
-                "normal" => &Mode::Normal,
-                "gaming" => &Mode::Gaming,
-                "rgb" => &Mode::RGB,
-                _ => &Mode::Normal,
-            };
+            let keyboard_mode = parser::parse_mode(&mode);
 
-            if keyboard_mode == &Mode::RGB {
+            if keyboard_mode == Mode::RGB {
                 let mut rgb_colors: [u8; 3] = [0, 0, 0];
                 if color.starts_with("0x") && color.len() == 8 {
                     color = color.replace("0x", "#");
