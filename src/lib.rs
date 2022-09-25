@@ -1,13 +1,14 @@
 #[repr(u8)]
-#[derive(Copy, Clone)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Region {
     Left = 1,
     Middle = 2,
     Right = 3,
+    All = 255,
 }
 
 #[repr(u8)]
-#[derive(Copy, Clone)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Color {
     Off = 0,
     Red = 1,
@@ -21,16 +22,15 @@ pub enum Color {
 }
 
 #[repr(u8)]
-#[derive(Copy, Clone, PartialEq)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Brightness {
     Dark = 0,
     Low = 1,
     Medium = 2,
     High = 3,
-    RGB = 255,
 }
 
-#[derive(Copy, Clone)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub struct KeyboardLightData {
     pub region: Region,
     pub color: Color,
@@ -62,7 +62,7 @@ impl Into<[u8; 8]> for KeyboardLightData {
     }
 }
 
-#[derive(Copy, Clone)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub struct KeyboardRGBLightData {
     pub region: Region,
     pub color: (u8, u8, u8),
@@ -93,13 +93,14 @@ impl Into<[u8; 8]> for KeyboardRGBLightData {
 }
 
 #[repr(u8)]
-#[derive(Copy, Clone, PartialEq)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Mode {
     Normal = 1,
     Gaming = 2,
+    RGB = 255,
 }
 
-#[derive(Copy, Clone)]
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub struct KeyboardModeData {
     pub mode: Mode,
 }
@@ -146,12 +147,47 @@ impl Keyboard {
         self.set_mode(&KeyboardModeData::new(&Mode::Normal))
     }
 
+    pub fn off(&mut self) -> Result<(), hidapi::HidError> {
+        self.set_color(&KeyboardLightData::new(
+            &Region::Left,
+            &Color::Off,
+            &Brightness::Medium,
+        ))?;
+        self.set_color(&KeyboardLightData::new(
+            &Region::Middle,
+            &Color::Off,
+            &Brightness::Medium,
+        ))?;
+        self.set_color(&KeyboardLightData::new(
+            &Region::Right,
+            &Color::Off,
+            &Brightness::Medium,
+        ))?;
+        self.set_mode(&KeyboardModeData::new(&Mode::Normal))
+    }
+
     pub fn set_color(
         &mut self,
         keyboard_light_data: &KeyboardLightData,
     ) -> Result<(), hidapi::HidError> {
-        let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
-        self.keyboard.send_feature_report(&light_data)?;
+        if keyboard_light_data.region == Region::All {
+            let mut modified_light_data = keyboard_light_data.clone();
+
+            modified_light_data.region = Region::Left;
+            let light_data: [u8; 8] = modified_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+
+            modified_light_data.region = Region::Middle;
+            let light_data: [u8; 8] = modified_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+
+            modified_light_data.region = Region::Right;
+            let light_data: [u8; 8] = modified_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+        } else {
+            let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+        }
 
         Ok(())
     }
@@ -160,8 +196,24 @@ impl Keyboard {
         &mut self,
         keyboard_light_data: &KeyboardRGBLightData,
     ) -> Result<(), hidapi::HidError> {
-        let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
-        self.keyboard.send_feature_report(&light_data)?;
+        if keyboard_light_data.region == Region::All {
+            let mut modified_light_data = keyboard_light_data.clone();
+
+            modified_light_data.region = Region::Left;
+            let light_data: [u8; 8] = modified_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+
+            modified_light_data.region = Region::Middle;
+            let light_data: [u8; 8] = modified_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+
+            modified_light_data.region = Region::Right;
+            let light_data: [u8; 8] = modified_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+        } else {
+            let light_data: [u8; 8] = keyboard_light_data.to_owned().into();
+            self.keyboard.send_feature_report(&light_data)?;
+        }
 
         Ok(())
     }
