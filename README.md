@@ -64,7 +64,8 @@ fn main() {
             &Region::All,
             &Color::Blue,
             &Brightness::Medium,
-        )).unwrap();
+        ))
+        .unwrap();
     keyboard
         .set_mode(&KeyboardModeData::new(&Mode::Normal))
         .unwrap();
@@ -74,7 +75,8 @@ fn main() {
         .set_rgb_color(&KeyboardRGBLightData::new(
             &Region::Right,
             &(255, 80, 80),
-        )).unwrap();
+        ))
+        .unwrap();
 }
 ```
 
