@@ -53,7 +53,7 @@ fn main() {
                         .action(clap::ArgAction::StoreValue),
                 ),
         )
-    .subcommand(clap::Command::new("load").about("Load a msi-klc script from a file").arg_required_else_help(true).arg(clap::Arg::new("file")));
+    .subcommand(clap::Command::new("load").about("Load a msi-klc animation from a file").arg_required_else_help(true).arg(clap::Arg::new("file")));
     match command.get_matches().subcommand() {
         Some(("reset", _)) => keyboard.reset().unwrap(),
         Some(("off", _)) => keyboard.off().unwrap(),
