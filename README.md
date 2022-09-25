@@ -18,7 +18,7 @@ cargo build --release
 sudo cp target/release/msi-klc /usr/local/bin
 ```
 
-## Usage
+## Usage (CLI)
 Make sure to run with root privileges (sudo)
 ```sh
 # make the entire keyboard blue
