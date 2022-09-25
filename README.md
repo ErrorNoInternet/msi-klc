@@ -1,5 +1,5 @@
 # msi-klc
-A tool written in Rust that allows you to control your MSI laptop keyboard light. Tested on the MSI GE60 2PE laptop running Arch Linux.
+A tool that allows you to control the backlight of your MSI SteelSeries laptop keyboard. Tested on the MSI GE60 2PE laptop running Arch Linux.
 Supports 3 regions, 8 predefined colors, and RGB/hex colors. Wave/breathe animations can be created yourself using shell scripts.
 
 ## Installation
