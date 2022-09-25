@@ -112,7 +112,7 @@ fn main() {
                 Ok(file_data) => file_data
                     .split("\n")
                     .into_iter()
-                    .map(|item| item.to_string())
+                    .map(|item| item.trim().to_string())
                     .collect(),
                 Err(error) => {
                     println!("Unable to read file: {}", error);
@@ -123,7 +123,7 @@ fn main() {
 
             loop {
                 for line in &file_lines {
-                    if line.trim().len() <= 0 {
+                    if line.len() <= 0 {
                         continue;
                     }
 
@@ -134,9 +134,9 @@ fn main() {
                         let action: Vec<String> = segment
                             .split(":")
                             .into_iter()
-                            .map(|item| item.to_string())
+                            .map(|item| item.trim().to_string())
                             .collect();
-                        match action[0].trim().to_lowercase().as_str() {
+                        match action[0].to_lowercase().as_str() {
                             "reset" => keyboard.reset().unwrap(),
                             "off" => keyboard.off().unwrap(),
                             "region" => region = action[1].clone(),
