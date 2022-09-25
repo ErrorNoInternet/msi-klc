@@ -43,3 +43,25 @@ pub fn parse_mode(mode: &String) -> Mode {
         _ => Mode::Normal,
     }
 }
+
+pub fn parse_rgb_colors(color: &String) -> [u8; 3] {
+    let mut rgb_colors: [u8; 3] = [0, 0, 0];
+    let mut color = color.clone();
+    if color.starts_with("0x") && color.len() == 8 {
+        color = color.replace("0x", "#");
+    }
+    if color.starts_with("#") && color.len() == 7 {
+        for i in 0..3 {
+            let hex_code = color.chars().nth(i * 2 + 1).unwrap().to_string()
+                + color.chars().nth(i * 2 + 2).unwrap().to_string().as_str();
+            rgb_colors[i] = u8::from_str_radix(hex_code.as_str(), 16).unwrap_or(0);
+        }
+    } else {
+        for (color_index, rgb_color) in color.split(",").enumerate() {
+            if color_index < 3 {
+                rgb_colors[color_index] = rgb_color.parse().unwrap_or(0);
+            }
+        }
+    }
+    rgb_colors
+}

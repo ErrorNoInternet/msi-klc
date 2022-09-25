@@ -52,12 +52,13 @@ fn main() {
                         .long_help("Supports 3 modes ('normal', 'gaming', and 'rgb').")
                         .action(clap::ArgAction::StoreValue),
                 ),
-        );
+        )
+    .subcommand(clap::Command::new("load").about("Load a msi-klc script from a file").arg_required_else_help(true).arg(clap::Arg::new("file")));
     match command.get_matches().subcommand() {
         Some(("reset", _)) => keyboard.reset().unwrap(),
         Some(("off", _)) => keyboard.off().unwrap(),
         Some(("set", matches)) => {
-            let mut color = match matches.get_one::<String>("color") {
+            let color = match matches.get_one::<String>("color") {
                 Some(color) => color.to_string(),
                 None => "".to_string(),
             };
@@ -82,23 +83,7 @@ fn main() {
             let keyboard_mode = parser::parse_mode(&mode);
 
             if keyboard_mode == Mode::RGB {
-                let mut rgb_colors: [u8; 3] = [0, 0, 0];
-                if color.starts_with("0x") && color.len() == 8 {
-                    color = color.replace("0x", "#");
-                }
-                if color.starts_with("#") && color.len() == 7 {
-                    for i in 0..3 {
-                        let hex_code = color.chars().nth(i * 2 + 1).unwrap().to_string()
-                            + color.chars().nth(i * 2 + 2).unwrap().to_string().as_str();
-                        rgb_colors[i] = u8::from_str_radix(hex_code.as_str(), 16).unwrap_or(0);
-                    }
-                } else {
-                    for (color_index, rgb_color) in color.split(",").enumerate() {
-                        if color_index < 3 {
-                            rgb_colors[color_index] = rgb_color.parse().unwrap_or(0);
-                        }
-                    }
-                }
+                let rgb_colors: [u8; 3] = parser::parse_rgb_colors(&color);
                 keyboard
                     .set_rgb_color(&KeyboardRGBLightData::new(
                         &keyboard_region,
@@ -115,6 +100,61 @@ fn main() {
                     .unwrap();
                 keyboard
                     .set_mode(&KeyboardModeData::new(&keyboard_mode))
+                    .unwrap();
+            }
+        }
+        Some(("load", matches)) => {
+            let file_name = match matches.get_one::<String>("file") {
+                Some(file_name) => file_name.to_string(),
+                None => "".to_string(),
+            };
+            let file_lines: Vec<String> = match std::fs::read_to_string(file_name) {
+                Ok(file_data) => file_data
+                    .split("\n")
+                    .into_iter()
+                    .map(|item| item.to_string())
+                    .collect(),
+                Err(error) => {
+                    println!("Unable to read file: {}", error);
+                    std::process::exit(1);
+                }
+            };
+
+            for line in file_lines {
+                if line.trim().len() <= 0 {
+                    continue;
+                }
+
+                let mut region = String::new();
+                let mut color = String::new();
+                for segment in line.split(",") {
+                    let segment = segment.trim().to_string();
+                    let action: Vec<String> = segment
+                        .split(":")
+                        .into_iter()
+                        .map(|item| item.to_string())
+                        .collect();
+                    match action[0].trim().to_lowercase().as_str() {
+                        "reset" => keyboard.reset().unwrap(),
+                        "off" => keyboard.off().unwrap(),
+                        "region" => region = action[1].clone(),
+                        "color" => color = action[1].clone(),
+                        "sleep" => std::thread::sleep(std::time::Duration::from_millis(
+                            action[1].parse().unwrap_or(0),
+                        )),
+                        _ => (),
+                    }
+                }
+                if region == "" && color == "" {
+                    continue;
+                }
+
+                let rgb_colors = parser::parse_rgb_colors(&color);
+                keyboard
+                    .set_rgb_color(&KeyboardRGBLightData::new(
+                        &parser::parse_region(&region),
+                        &(rgb_colors[0], rgb_colors[1], rgb_colors[2]),
+                    ))
                     .unwrap();
             }
         }
