@@ -1,4 +1,7 @@
 # msi-klc
+[![crates.io](https://img.shields.io/crates/v/msi-klc.svg)](https://crates.io/crates/msi-klc)
+[![docs.rs](https://img.shields.io/docsrs/msi-klc/latest)](https://docs.rs/msi-klc/latest/msi_klc)
+
 A tool that allows you to control the backlight of your MSI SteelSeries laptop keyboard.\
 Supports 3 regions, 8 predefined colors, RGB/hex colors, and custom animations.
 
