@@ -14,11 +14,16 @@ Supports 3 regions, 8 predefined colors, RGB/hex colors, and custom animations.
 - Requirements
     - Rust (cargo)
     - hidapi
+#### Manual compilation
 ```sh
 git clone https://github.com/ErrorNoInternet/msi-klc
 cd msi-klc
 cargo build --release
 sudo cp target/release/msi-klc /usr/local/bin
+```
+#### Using `cargo`
+```sh
+cargo install msi-klc
 ```
 
 ## Usage
