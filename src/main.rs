@@ -5,7 +5,7 @@ fn main() {
     let mut keyboard = match Keyboard::new() {
         Ok(keyboard) => keyboard,
         Err(_) => {
-            println!("Unable to open keyboard. Are you sure you're running as root?");
+            println!("Unable to communicate with keyboard. Are you sure you're running as root?");
             std::process::exit(1);
         }
     };
