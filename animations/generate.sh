@@ -17,7 +17,7 @@ echo -e "loop_forever\n" > wave.txt
 
 for i in {0..255}
 do
-	echo -e "color:$i;$i;$i,region:left\nsleep:5" >> wave.txt
+	echo -e "color:$i;$i;$i,region:left\nsleep:10" >> wave.txt
 done
 
 for i in {255..0}
@@ -42,7 +42,7 @@ echo -e "loop_forever\n" > rgb-wave.txt
 
 for i in {0..255}
 do
-    echo -e "color:$i;0;0,region:left\nsleep:5" >> rgb-wave.txt
+    echo -e "color:$i;0;0,region:left\nsleep:10" >> rgb-wave.txt
 done
 
 for i in {255..0}
