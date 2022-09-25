@@ -2,6 +2,7 @@
 name = "msi-klc"
 version = "1.0.0"
 edition = "2021"
+authors = ["ErrorNoInternet <error.nointernet@gmail.com>"]
 
 [dependencies]
 clap = "3.2.22"
