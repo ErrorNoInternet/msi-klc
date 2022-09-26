@@ -98,7 +98,7 @@ impl Into<[u8; 8]> for KeyboardRGBLightData {
 }
 
 /// Keyboard mode (`Normal` or `Gaming`). `Wave` and `Breathe` are not implemented since you can do
-/// the same thing with set_rgb_color and a loop.
+/// the same thing with `set_rgb_color` and a loop.
 #[repr(u8)]
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Mode {
@@ -106,6 +106,7 @@ pub enum Mode {
     Normal = 1,
     /// Only the left side of the keyboard.
     Gaming = 2,
+    /// Indicates that the keyboard mode will be RGB. Doesn't do anything.
     RGB = 255,
 }
 
@@ -239,6 +240,10 @@ impl Keyboard {
         &mut self,
         keyboard_mode_data: &KeyboardModeData,
     ) -> Result<(), hidapi::HidError> {
+        let mut keyboard_mode_data = keyboard_mode_data.clone();
+        if keyboard_mode_data.mode == Mode::RGB {
+            keyboard_mode_data.mode = Mode::Normal;
+        }
         let mode_data: [u8; 8] = keyboard_mode_data.to_owned().into();
         self.keyboard.send_feature_report(&mode_data)
     }
