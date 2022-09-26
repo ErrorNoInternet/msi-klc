@@ -1,6 +1,6 @@
 [package]
 name = "msi-klc"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 authors = ["ErrorNoInternet <error.nointernet@gmail.com>"]
 license = "MIT"
