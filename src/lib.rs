@@ -1,10 +1,11 @@
-/// The 3 keyboard regions. `All` represents all regions (each region will be set automatically).
+/// The 3 regions of LEDs on the keyboard.
 #[repr(u8)]
 #[derive(Debug, Copy, Clone, PartialEq)]
 pub enum Region {
     Left = 1,
     Middle = 2,
     Right = 3,
+    /// Represents all regions (each region will be set one by one automatically).
     All = 255,
 }
 
@@ -106,7 +107,7 @@ pub enum Mode {
     Normal = 1,
     /// Only the left side of the keyboard.
     Gaming = 2,
-    /// Indicates that the keyboard mode will be RGB. Doesn't do anything.
+    /// Indicates that the keyboard mode will be RGB. Doesn't do anything if passed to `set_color`.
     RGB = 255,
 }
 
@@ -128,7 +129,7 @@ impl Into<[u8; 8]> for KeyboardModeData {
     }
 }
 
-/// A keyboard object (wrapper around a HidDevice).
+/// A keyboard object (wrapper around a `HidDevice`).
 pub struct Keyboard {
     keyboard: hidapi::HidDevice,
 }
