@@ -15,7 +15,7 @@ keywords = [
     "keyboard",
     "backlight",
 ]
-exclude = ["animations"]
+exclude = ["animations", "controllers"]
 
 [dependencies]
 clap = "3.2.22"
