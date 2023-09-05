@@ -75,9 +75,9 @@ dependencies = [
 
 [[package]]
 name = "hidapi"
-version = "2.4.1"
+version = "1.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "723777263b0dcc5730aec947496bd8c3940ba63c15f5633b288cc615f4f6af79"
+checksum = "798154e4b6570af74899d71155fb0072d5b17e6aa12f39c8ef22c60fb8ec99e7"
 dependencies = [
  "cc",
  "libc",
@@ -103,7 +103,7 @@ checksum = "b4668fb0ea861c1df094127ac5f1da3409a82116a4ba74fca2e58ef927159bb3"
 
 [[package]]
 name = "msi-klc"
-version = "1.0.3"
+version = "1.0.4"
 dependencies = [
  "clap",
  "hidapi",

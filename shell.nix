@@ -16,7 +16,7 @@ in pkgs.mkShell {
     buildInputs = [
         rust
         pkgs.pkg-config
-        pkgs.udev
+        pkgs.libusb1
     ];
 
     PKG_CONFIG_ALLOW_CROSS = true;
