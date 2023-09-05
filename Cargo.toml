@@ -1,6 +1,6 @@
 [package]
 name = "msi-klc"
-version = "1.0.2"
+version = "1.0.3"
 edition = "2021"
 authors = ["ErrorNoInternet <error.nointernet@gmail.com>"]
 license = "MIT"
@@ -19,4 +19,4 @@ exclude = ["animations"]
 
 [dependencies]
 clap = "3.2.22"
-hidapi = "1.4.2"
+hidapi = "2.4.1"
