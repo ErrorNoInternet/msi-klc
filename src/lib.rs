@@ -142,26 +142,6 @@ impl Keyboard {
         Ok(Keyboard { keyboard })
     }
 
-    /// Makes all the LEDs on the keyboard white.
-    pub fn reset(&mut self) -> Result<(), hidapi::HidError> {
-        self.set_color(&KeyboardLightData::new(
-            &Region::Left,
-            &Color::White,
-            &Brightness::Dark,
-        ))?;
-        self.set_color(&KeyboardLightData::new(
-            &Region::Middle,
-            &Color::White,
-            &Brightness::Dark,
-        ))?;
-        self.set_color(&KeyboardLightData::new(
-            &Region::Right,
-            &Color::White,
-            &Brightness::Dark,
-        ))?;
-        self.set_mode(&KeyboardModeData::new(&Mode::Normal))
-    }
-
     /// Turns off all the LEDs on the keyboard.
     pub fn off(&mut self) -> Result<(), hidapi::HidError> {
         self.set_color(&KeyboardLightData::new(

@@ -13,7 +13,6 @@ fn main() {
     let command = clap::Command::new("msi-klc")
         .subcommand_required(true)
         .arg_required_else_help(true)
-        .subcommand(clap::Command::new("reset").about("Reset all the LEDs on your keyboard"))
         .subcommand(clap::Command::new("off").about("Turn off all the LEDs on your keyboard"))
         .subcommand(
             clap::Command::new("set")
@@ -55,7 +54,6 @@ fn main() {
         )
     .subcommand(clap::Command::new("load").about("Load a msi-klc animation from a file").arg_required_else_help(true).arg(clap::Arg::new("file")));
     match command.get_matches().subcommand() {
-        Some(("reset", _)) => keyboard.reset().unwrap(),
         Some(("off", _)) => keyboard.off().unwrap(),
         Some(("set", matches)) => {
             let color = match matches.get_one::<String>("color") {
@@ -137,7 +135,6 @@ fn main() {
                             .map(|item| item.trim().to_string())
                             .collect();
                         match action[0].to_lowercase().as_str() {
-                            "reset" => keyboard.reset().unwrap(),
                             "off" => keyboard.off().unwrap(),
                             "region" => region = action[1].clone(),
                             "color" => color = action[1].clone(),
