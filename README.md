@@ -6,14 +6,19 @@ A tool/library that allows you to control the backlight of your MSI SteelSeries 
 Supports 3 regions, 8 predefined colors, RGB colors, and custom animations (CLI only).
 
 ### Tested Devices
+
 #### Linux
 - [x] MSI GE60 2PE
 
 ## Installation
+
 ### Compiling
 - Requirements
     - Rust (cargo)
     - hidapi
+
+Note: This project uses the libusb backend of hidapi as there are issues when using hidraw.
+
 #### Manual compilation
 ```sh
 git clone https://github.com/ErrorNoInternet/msi-klc
@@ -21,13 +26,15 @@ cd msi-klc
 cargo build --release
 sudo cp target/release/msi-klc /usr/local/bin
 ```
+
 #### Using cargo
 ```sh
 cargo install msi-klc
 ```
 
 ## Usage
-Make sure to run with root privileges (sudo)
+Make sure to run with root privileges (sudo) if you don't have the appropriate udev rules.
+
 ### CLI
 ```sh
 # make the entire keyboard blue
@@ -51,6 +58,7 @@ msi-klc off && msi-klc set --color "#0fffaf" --mode rgb --region left
 # load an animation
 msi-klc load animations/breathe.txt
 ```
+
 ### Library
 ```rust
 use msi_klc::*;
@@ -79,5 +87,3 @@ fn main() {
         .unwrap();
 }
 ```
-
-<sub>If you would like to modify or use this repository (including its code) in your own project, please be sure to credit!</sub>
