@@ -19,4 +19,4 @@ exclude = ["animations"]
 
 [dependencies]
 clap = "3.2.22"
-hidapi = "1.4.2"
+hidapi = { version = "2.4.1", default-features = false, features = ["linux-static-libusb"] }
