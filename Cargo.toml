@@ -1,22 +1,18 @@
 [package]
-name = "msi-klc"
-version = "1.1.0"
-edition = "2021"
-authors = ["ErrorNoInternet <error.nointernet@gmail.com>"]
-license = "GPL-3.0+"
+name        = "msi-klc"
+version     = "1.1.0"
+edition     = "2021"
+authors     = ["ErrorNoInternet <error.nointernet@gmail.com>"]
+license     = "GPL-3.0+"
 description = "MSI Keyboard Light Controller"
-homepage = "https://github.com/ErrorNoInternet/msi-klc"
-repository = "https://github.com/ErrorNoInternet/msi-klc"
-readme = "README.md"
-keywords = [
-    "msi",
-    "laptop",
-    "steelseries",
-    "keyboard",
-    "backlight",
-]
-exclude = ["animations"]
+homepage    = "https://github.com/ErrorNoInternet/msi-klc"
+repository  = "https://github.com/ErrorNoInternet/msi-klc"
+readme      = "README.md"
+keywords    = ["msi", "laptop", "steelseries", "keyboard", "backlight"]
+exclude     = ["animations"]
 
 [dependencies]
-clap = "3.2.22"
-hidapi = { version = "2.4.1", default-features = false, features = ["linux-static-libusb"] }
+clap = "4"
+hidapi = { version = "2", default-features = false, features = [
+  "linux-static-libusb",
+] }

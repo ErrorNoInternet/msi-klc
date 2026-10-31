@@ -22,7 +22,6 @@ fn main() {
                     clap::Arg::new("color")
                         .short('c')
                         .long("color")
-                        .action(clap::ArgAction::StoreValue)
                         .help("The color of the LEDs on your keyboard")
                         .long_help("Supports 8 predefined colors. 'off' will turn off the LEDs, and setting 'mode' to 'rgb' will allow you to use RGB colors ('#ff0000' = red, '#0000ff' = blue, etc).")
                         .required(true),
@@ -33,7 +32,6 @@ fn main() {
                         .long("region")
                         .help("The region of the LEDs you want to change")
                         .long_help("The 3 regions on your keyboard ('left', 'middle', 'right'). 'all' will apply your color to all 3 regions.")
-                        .action(clap::ArgAction::StoreValue)
                 )
                 .arg(
                     clap::Arg::new("brightness")
@@ -41,7 +39,6 @@ fn main() {
                         .long("brightness")
                         .help("The brightness of the LEDs on your keyboard")
                         .long_help("Supports 4 brightness/saturation levels ('dark', 'low', 'medium', and 'high').")
-                        .action(clap::ArgAction::StoreValue),
                 )
                 .arg(
                     clap::Arg::new("mode")
@@ -49,7 +46,6 @@ fn main() {
                         .long("mode")
                         .help("The mode of the LEDs on your keyboard")
                         .long_help("Supports 3 modes ('normal', 'gaming', and 'rgb').")
-                        .action(clap::ArgAction::StoreValue),
                 ),
         )
     .subcommand(clap::Command::new("load").about("Load a msi-klc animation from a file").arg_required_else_help(true).arg(clap::Arg::new("file")));
