@@ -11,8 +11,15 @@ readme      = "README.md"
 keywords    = ["msi", "laptop", "steelseries", "keyboard", "backlight"]
 exclude     = ["animations"]
 
+[features]
+default = ["hidapi-default"]
+hidapi-default = [
+  "dep:hidapi",
+  "hidapi/linux-static-hidraw",
+  "hidapi/illumos-static-libusb",
+]
+libusb = ["dep:hidapi", "hidapi/linux-static-libusb"]
+
 [dependencies]
-clap = "4"
-hidapi = { version = "2", default-features = false, features = [
-  "linux-static-libusb",
-] }
+clap   = "4"
+hidapi = { version = "2", optional = true, default-features = false }
